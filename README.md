@@ -14,3 +14,6 @@ Instructions
 There are examples of SQL Triggers (.bak) and PostgreSQL (.sql dump file)
 
 Good Luck!
+
+
+![Image](https://user-images.githubusercontent.com/77137171/204112571-11cbd058-c92f-44bc-bb02-79595d42eaf6.png)
