@@ -4,6 +4,8 @@
 Resources
 - CSCI381 ERwin Data Modeling - Playlist : https://www.screencast.com/t/qDBIBs1yq
 - CSCI381 Erwin DM Tips - Playlist : https://www.screencast.com/t/K9utn3UQSgn
+- CSCI381 Reusable Audit Trigger - Playlist : https://www.screencast.com/t/zeTC6IrjbMvJ
+  - (Updated MySQL Triggers : https://www.screencast.com/t/zeTC6IrjbMvJ) 
 
 Instructions
 - **Ask questions about anything that is not clear to the team.**
