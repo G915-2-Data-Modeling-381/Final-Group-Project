@@ -1,0 +1,71 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1073742125::Definition,1075849201::Logical Data Type,1075850737::Schema,1075849062::Null Option,1075849056::Physical Data Type,1075849120::Generate As Udd
+1075838983::32,<root>,Domain,<root>,,CHAR(18),,Null,,
+1075838983::33,<default>,Domain,<default>,,CHAR(18),,Null,char(18),FALSE
+1075838983::34,String,Domain,String,,VARCHAR(20),,Null,varchar(20),FALSE
+1075838983::35,Number,Domain,Number,,INTEGER,,Null,integer,FALSE
+1075838983::36,Datetime,Domain,Datetime,,DATE,,Null,datetime,FALSE
+1075838983::37,Blob,Domain,Blob,,LARGE BINARY,,Null,varbinary,FALSE
+1075838983::526,dEuropeanCarManufacturer,Domain,dEuropeanCarManufacturer,Top level domain used for European Car Manufacturer,CHAR(18),dEuropeanCarManufacturer,Null,nvarchar(),TRUE
+1075838983::527,dBlob,Domain,dBlob,Top level domain type binary,CHAR(18),,Null,nvarchar(),TRUE
+1075838983::528,dDateTime,Domain,dDateTime,Top level domain type datetime,DATE,dDateTime,Null,datetime,TRUE
+1075838983::529,dNumber,Domain,dNumber,Top level domain typenumber,INTEGER,dNumber,Null,integer,TRUE
+1075838983::530,dString,Domain,dString,Top level domain type string,NVARCHAR(),dString,Null,nvarchar(),TRUE
+1075838983::531,sdKeysNumber,Domain,sdKeysNumber,"Sub-domain, contains all type of keys.",INTEGER,sdKeysNumber,Null,integer,TRUE
+1075838983::532,sdKeysNumber.ManufacturerVehicleMakeId,Domain,sdKeysNumber.ManufacturerVehicleMakeId,ManufacturerVehicleMakeId,INTEGER,sdKeysNumber,Null,integer,TRUE
+1075838983::533,sdKeysNumber.CustomerId,Domain,sdKeysNumber.CustomerId,CustomerId,INTEGER,sdKeysNumber,Null,integer,TRUE
+1075838983::534,sdKeysNumber.ManufacturerVehicleStockId,Domain,sdKeysNumber.ManufacturerVehicleStockId,ManufacturerVehicleStockId,INTEGER,sdKeysNumber,Null,integer,TRUE
+1075838983::535,sdKeysNumber.SalesOrderVehicleDetailId,Domain,sdKeysNumber.SalesOrderVehicleDetailId,SalesOrderVehicleDetailId,INTEGER,sdKeysNumber,Null,integer,TRUE
+1075838983::536,sdKeysNumber.StaffId,Domain,sdKeysNumber.StaffId,StaffId,INTEGER,sdKeysNumber,Null,integer,TRUE
+1075838983::537,sdKeysNumber.DiagramId,Domain,sdKeysNumber.DiagramId,DiagramId,INTEGER,sdKeysNumber,Null,integer,TRUE
+1075838983::538,sdKeysNumber.CountryId,Domain,sdKeysNumber.CountryId,CountryId,INTEGER,sdKeysNumber,Null,integer,TRUE
+1075838983::539,sdKeysNumber.ManufacturerModelId,Domain,sdKeysNumber.ManufacturerModelId,ManufacturerModelId,INTEGER,sdKeysNumber,Null,integer,TRUE
+1075838983::541,sdSequencesNumber,Domain,sdSequencesNumber,"Sub-domain, contains all type of sequenced numbers.",SMALLINT,sdSequencesNumber,Null,smallint,TRUE
+1075838983::542,sdChargesNumber,Domain,sdChargesNumber,"Sub-domain, contains all type of charges.","NUMBER(18,2)",sdChargesNumber,Null,"numeric(18,2)",TRUE
+1075838983::543,sdChargesNumber.Reparis,Domain,sdChargesNumber.Reparis,Reparis,"NUMBER(18,2)",sdChargesNumber,Null,"numeric(18,2)",TRUE
+1075838983::544,sdChargesNumber.Parts,Domain,sdChargesNumber.Parts,Parts,"NUMBER(18,2)",sdChargesNumber,Null,"numeric(18,2)",TRUE
+1075838983::545,sdChargesNumber.Delivery,Domain,sdChargesNumber.Delivery,Delivery,"NUMBER(18,2)",sdChargesNumber,Null,"numeric(18,2)",TRUE
+1075838983::546,sdSequenceNumber.Transaction,Domain,sdSequenceNumber.Transaction,Transaction,SMALLINT,,Null,smallint,TRUE
+1075838983::547,sdSequenceNumber.LineItem,Domain,sdSequenceNumber.LineItem,LineItem,SMALLINT,,Null,smallint,TRUE
+1075838983::548,sdPriceAndDiscountsNumber,Domain,sdPriceAndDiscountsNumber,"Sub-domain, contains prices and discounts.","NUMBER(18,2)",sdPriceAndDiscountsNumber,Null,"numeric(18,2)",TRUE
+1075838983::549,sdPriceAndDiscountsNumber.TotalSale,Domain,sdPriceAndDiscountsNumber.TotalSale,TotalSale,"NUMBER(18,2)",sdPriceAndDiscountsNumber,Null,"numeric(18,2)",TRUE
+1075838983::550,sdPriceAndDiscountsNumber.Sale,Domain,sdPriceAndDiscountsNumber.Sale,Sale,"NUMBER(18,2)",sdPriceAndDiscountsNumber,Null,"numeric(18,2)",TRUE
+1075838983::551,sdPriceAndDiscountsNumber.LineItemDiscount,Domain,sdPriceAndDiscountsNumber.LineItemDiscount,LineItemDiscount,"NUMBER(18,2)",sdPriceAndDiscountsNumber,Null,"numeric(18,2)",TRUE
+1075838983::552,sdPriceAndDiscountsNumber.Cost,Domain,sdPriceAndDiscountsNumber.Cost,Cost,"NUMBER(18,2)",sdPriceAndDiscountsNumber,Null,"numeric(18,2)",TRUE
+1075838983::554,sdThresholdNumber,Domain,sdThresholdNumber,"Sub-domain, contains all type of thresholds.",INTEGER,sdThresholdNumber,Null,integer,TRUE
+1075838983::555,sdThresholdNumber.Lower,Domain,sdThresholdNumber.Lower,Lower,INTEGER,sdThresholdNumber,Null,integer,TRUE
+1075838983::556,sdThresholdNumber.Uppre,Domain,sdThresholdNumber.Uppre,Uppre,INTEGER,sdThresholdNumber,Null,integer,TRUE
+1075838983::557,sdDatesDateTime,Domain,sdDatesDateTime,Top,DATE,sdDatesDateTime,Null,datetime,TRUE
+1075838983::558,sdDatesDateTime.PurchaseDate,Domain,sdDatesDateTime.PurchaseDate,PurchaseDate,DATE,sdDatesDateTime,Null,datetime,TRUE
+1075838983::559,sdDatesDateTime.SaleDate,Domain,sdDatesDateTime.SaleDate,SaleDate,DATE,sdDatesDateTime,Null,datetime,TRUE
+1075838983::560,sdTimeStampDateTime,Domain,sdTimeStampDateTime,"Sub-domain, contains all type of dateTime2(7)",TIMESTAMP(),sdTimeStampDateTime,Null,datetime,TRUE
+1075838983::561,sdTimeStampDateTime.SysStartTime,Domain,sdTimeStampDateTime.SysStartTime,SysStartTime,TIMESTAMP(),sdTimeStampDateTime,Null,datetime,TRUE
+1075838983::562,sdTimeStampDateTime.SysEndTime,Domain,sdTimeStampDateTime.SysEndTime,SysEndTime,TIMESTAMP(),sdTimeStampDateTime,Null,datetime,TRUE
+1075838983::563,sdVehicleColor&CodeString,Domain,sdVehicleColor&CodeString,"Sub-domain, contains all type of vehicle color and stock code",NVARCHAR(50),sdVehicleColor_CodeString,Null,nvarchar(50),TRUE
+1075838983::564,sdNamesString,Domain,sdNamesString,"Sub-domain, contains all type of names",NVARCHAR(150),sdNamesString,Null,nvarchar(150),TRUE
+1075838983::565,sdAddressesString,Domain,sdAddressesString,"Sub-domain, contains all type of addresses",NVARCHAR(50),sdAddressesString,Null,nvarchar(50),TRUE
+1075838983::566,sdNotesAndDescriptionsString,Domain,sdNotesAndDescriptionsString,"Sub-domain, contains all type of notes and descriptions",NVARCHAR(200),sdNotesAndDescriptionsString,Null,nvarchar(200),TRUE
+1075838983::569,sdNamesString.CustomerName,Domain,sdNamesString.CustomerName,CustomerName,NVARCHAR(150),sdNamesString,Null,nvarchar(150),TRUE
+1075838983::577,sdNotesAndDescriptionsString.Note,Domain,sdNotesAndDescriptionsString.Note,Note,NVARCHAR(200),sdNotesAndDescriptionsString,Null,nvarchar(200),TRUE
+1075838983::578,sdNotesAndDescriptionsString.Comments,Domain,sdNotesAndDescriptionsString.Comments,Comments,NVARCHAR(4000),sdNotesAndDescriptionsString,Null,nvarchar(4000),TRUE
+1075838983::579,sdNotesAndDescriptionsString.Category,Domain,sdNotesAndDescriptionsString.Category,Category,NVARCHAR(50),sdNotesAndDescriptionsString,Null,nvarchar(50),TRUE
+1075838983::580,sdAddressesString.Address,Domain,sdAddressesString.Address,Address,NVARCHAR(50),sdAddressesString,Null,nvarchar(50),TRUE
+1075838983::581,sdAddressesString.PostalCode,Domain,sdAddressesString.PostalCode,PostalCode,NVARCHAR(50),sdAddressesString,Null,nvarchar(50),TRUE
+1075838983::582,sdAddressesString.Town,Domain,sdAddressesString.Town,Town,NVARCHAR(50),sdAddressesString,Null,nvarchar(50),TRUE
+1075838983::583,sdNotesAndDescriptionsString.MarketingType,Domain,sdNotesAndDescriptionsString.MarketingType,MarketingType,NVARCHAR(200),sdNotesAndDescriptionsString,Null,nvarchar(200),TRUE
+1075838983::585,sdVehicleColor&Code.StockCode,Domain,sdVehicleColor&Code.StockCode,StockCode,NVARCHAR(50),,Null,nvarchar(50),TRUE
+1075838983::586,sdVehicleColor&CodeString.VehicleColor,Domain,sdVehicleColor&CodeString.VehicleColor,VehicleColor,NVARCHAR(50),sdVehicleColor_CodeString,Null,nvarchar(50),TRUE
+1075838983::587,sdDepartment&StaffString,Domain,sdDepartment&StaffString,"Sub-domain, contains all type of departments and staffs",NVARCHAR(50),sdDepartment_StaffString,Null,nvarchar(50),TRUE
+1075838983::588,sdDepartment&StaffString.Department,Domain,sdDepartment&StaffString.Department,Department,NVARCHAR(50),sdDepartment_StaffString,Null,nvarchar(50),TRUE
+1075838983::589,sdDepartment&StaffString.Staff,Domain,sdDepartment&StaffString.Staff,Staff,NVARCHAR(50),sdDepartment_StaffString,Null,nvarchar(50),TRUE
+1075838983::590,sdNamesString.ModelName,Domain,sdNamesString.ModelName,ModelName,NVARCHAR(150),sdNamesString,Null,nvarchar(150),TRUE
+1075838983::591,sdNamesString.MakeName,Domain,sdNamesString.MakeName,MakeName,NVARCHAR(150),sdNamesString,Null,nvarchar(150),TRUE
+1075838983::592,sdNamesString.CountryName,Domain,sdNamesString.CountryName,CountryName,NVARCHAR(150),sdNamesString,Null,nvarchar(150),TRUE
+1075838983::593,sdNamesString.ModelVariant,Domain,sdNamesString.ModelVariant,ModelVariant,NVARCHAR(150),sdNamesString,Null,nvarchar(150),TRUE
+1075838983::598,sdCountryCodeString,Domain,sdCountryCodeString,"Sub-domain, contains all type of country codes",NCHAR(3),sdCountryCodeString,Null,nchar(3),TRUE
+1075838983::599,sdCountryCodeString.CountryISO3,Domain,sdCountryCodeString.CountryISO3,CountryISO3,NCHAR(3),sdCountryCodeString,Null,nchar(3),TRUE
+1075838983::601,sdCountryCodeString.ManufacturerVehicleMakeCountry,Domain,sdCountryCodeString.ManufacturerVehicleMakeCountry,ManufacturerVehicleMakeCountry,NCHAR(3),sdCountryCodeString,Null,nchar(3),TRUE
+1075838983::602,dString.DerivedDisountedSalePrice,Domain,dString.DerivedDisountedSalePrice,DerivedDisountedSalePrice,CHAR(18),dString,Null,char(18),TRUE
+1075838983::603,dString.InvoiceNumber,Domain,dString.InvoiceNumber,InvoiceNumber,CHAR(8),dString,Null,char(8),TRUE
+1075838983::604,dString.SpendCapacity,Domain,dString.SpendCapacity,SpendCapacity,varchar(25),dString,Null,varchar(25),TRUE
+1075838983::605,dString.isDeleted,Domain,dString.isDeleted,isDeleted,CHAR(1),dString,Null,char(1),TRUE
+1075838983::606,dString.SalesRegion,Domain,dString.SalesRegion,SalesRegion,nvarchar(20),dString,Null,nvarchar(20),TRUE
