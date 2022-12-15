@@ -1,0 +1,185 @@
+
+
+CREATE OR ALTER TRIGGER %ProcedureOwner(.)%TriggerName ON %TableOwner(.)%TableName
+%SQLServerWithOptions %Fire %Actions(",")
+%ProcedureProps
+AS
+/* Customized Erwin Builtin Trigger */
+/* %Actions(",") trigger on %TableOwner(.)%TableName */
+/* default body fox %ProcedureOwner(.)%TriggerName */
+
+BEGIN
+
+print 'gets here 1'
+/*
+	Update Trigger with upfront intialization for the variables to be inserted into
+	the trigger history table
+*/
+--
+--  https://stackoverflow.com/questions/884334/tsql-try-catch-transaction-in-trigger
+--
+
+set xact_abort OFF;
+
+BEGIN TRY
+
+print 'gets here 2'
+
+
+    BEGIN
+
+        ----------------------------------
+        ----- Variable Declaration -------
+        ----------------------------------
+
+        DECLARE 
+        @DBAction CHAR(1)
+        ,@IsDeleted CHAR(1)
+        ,@Note CHAR(200)
+        -- ,@AuditDateTimeStamp DATETIME2 = @DateTime2Now
+        -- ,@TimestampRowChanged DATETIME2 = @DateTime2Now
+        ,@SysEnd_as_StartTime DATETIME2
+        ,@NumberOfRows INT
+        -- ,@nullcnt INT
+        -- ,@validcnt INT
+        -- ,@errno INT
+        -- ,@severity INT
+        -- ,@state INT
+        -- ,@errmsg VARCHAR(255);
+        
+        --	The Trigger determines DBAction 
+        --  The only actions that we will deal with are Update and Delete.  Inserts are ignored
+        DECLARE @DateTime2Now DATETIME2;
+        SET @DateTime2Now = SYSDATETIME();
+
+        DECLARE @tnum integer, @id integer
+
+        SELECT @id = %TableNameId FROM Deleted
+
+
+        PRINT CAST(@id AS VARCHAR)
+
+        IF (EXISTS (SELECT * FROM Inserted) AND EXISTS (SELECT * FROM Deleted))
+        BEGIN
+            -- SELECT --TOP(1)
+            --     @tnum = TransactionNumber + 1
+            --     ,@SysEnd_as_StartTime = SysEndTime
+                
+            -- FROM Audit.%TableName_History t Inner Join Inserted i WHERE tableid = @id --ORDER BY TransactionNumber DESC
+
+            -- SET @Note = CONCAT('Row Updated. Transaction number: ', @tnum)
+            SET @DBAction = 'U'
+            SET @IsDeleted = 'N'
+        END;
+
+        ELSE IF (EXISTS (SELECT * FROM Deleted))
+        BEGIN
+            -- SELECT @id = TableId FROM Deleted
+
+            -- SELECT --TOP(1)
+            --     @tnum = TransactionNumber + 1
+            --     ,@SysEnd_as_StartTime = SysEndTime
+                
+            -- FROM Audit.%TableName_History
+            --  WHERE tableid = @id --ORDER BY TransactionNumber DESC
+
+            -- SET @Note = CONCAT('Database Row Deleted. Transaction number: ', @tnum)
+            SET @DBAction = 'D'
+            SET @IsDeleted = 'Y'
+        END;
+
+        SELECT @NumberOfRows = @@rowcount
+
+        print 'gets here 3'
+
+        ----------------------------------
+        -------- Trigger code ------------
+        ----------------------------------
+
+            WITH countries AS (
+                SELECT 
+                    ROW_NUMBER() OVER( PARTITION BY SalesRegion
+                        ORDER BY 
+                            CountryName, 
+                            last_name
+                    ) row_num, 
+                    CountryId,
+                    SalesRegion
+                FROM 
+                    sales.customers
+            ) SELECT 
+                customer_id, 
+                first_name, 
+                last_name
+            FROM 
+                cte_customers
+            WHERE 
+                row_num > 20 AND 
+                row_num <= 30;
+
+
+
+
+
+            SELECT TOP(1)
+                @tnum = t.TransactionNumber + 977
+                ,@SysEnd_as_StartTime = d.SysEndTime
+                
+            FROM Audit.%TableNameHistory t Inner Join Deleted d ON t.%TableNameId = d.%TableNameId ORDER BY t.TransactionNumber DESC
+
+            PRINT 'Processing ID: ' + CONVERT(varchar(10), @id)
+            PRINT ' some mesage here'
+
+            insert into Audit.%TableNameHistory
+            (
+                %ForEachColumn(Parent, ",") { %ColName }
+
+                ,TransactionNumber
+                ,IsDeleted
+                ,DBAction
+
+            )
+
+            (
+                select %ForEachColumn(Parent, ", ") { d.%ColName }
+
+                    ,ROW_NUMBER() OVER(PARTITION BY d.%TableNameId ORDER BY aud.TransactionNumber DESC) + 1 as [test]
+                    ,@IsDeleted
+                    ,@DBAction
+
+                from Deleted d
+                    INNER JOIN Audit.%TableNameHistory aud
+                        ON d.%TableNameId = aud.%TableNameId 
+                            AND aud.TransactionNumber+1 = test
+            ) 
+
+
+                
+
+        ----------------------------------
+        -------- Trigger  End ------------
+        ----------------------------------
+
+    END;
+
+
+
+
+
+
+END TRY
+BEGIN CATCH
+   SELECT ERROR_MESSAGE() AS [Error Message]
+         ,ERROR_LINE() AS ErrorLine
+         ,ERROR_NUMBER() AS [Error Number]  
+         ,ERROR_SEVERITY() AS [Error Severity]  
+         ,ERROR_STATE() AS [Error State]  
+END CATCH
+
+END;
+
+%DBMSDelim
+
+ENABLE TRIGGER %ProcedureOwner(.)%TriggerName ON %TableOwner(.)%TableName
+
+%DBMSDelim
