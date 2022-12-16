@@ -1,0 +1,5210 @@
+[{
+  "_id": {
+    "$oid": "639bace558590d57c11c4f62"
+  },
+  "SalesOrderVehicleId": 0,
+  "CustomerId": 0,
+  "StaffId": 0,
+  "InvoiceNumber": "sit ",
+  "SaleOrderDate": {
+    "$timestamp": {
+      "t": 1671146725,
+      "i": 1
+    }
+  },
+  "TotalSalePrice": 0,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "ut ",
+  "Note": "auctor sed vel ",
+  "SysStartTime": {
+    "$date": "2022-12-15T23:25:25.155Z"
+  },
+  "SysEndTime": {
+    "$date": "2022-12-15T23:25:25.155Z"
+  },
+  "UserAuthenticatedKey": 0
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c38"
+  },
+  "SalesOrderVehicleId": 1,
+  "CustomerId": 1,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB001",
+  "SaleOrderDate": "2015-01-02",
+  "TotalSalePrice": 65000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2770346",
+  "SysEndTime": "2022-12-15T20:32:14.2770346",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c39"
+  },
+  "SalesOrderVehicleId": 2,
+  "CustomerId": 2,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB002",
+  "SaleOrderDate": "2015-01-25",
+  "TotalSalePrice": 220000.1,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2811284",
+  "SysEndTime": "2022-12-15T20:32:14.2811284",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c3a"
+  },
+  "SalesOrderVehicleId": 3,
+  "CustomerId": 3,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB003",
+  "SaleOrderDate": "2015-02-03",
+  "TotalSalePrice": 19500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2852226",
+  "SysEndTime": "2022-12-15T20:32:14.2852226",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c3b"
+  },
+  "SalesOrderVehicleId": 4,
+  "CustomerId": 4,
+  "StaffId": 4,
+  "InvoiceNumber": "EURDE004",
+  "SaleOrderDate": "2015-02-16",
+  "TotalSalePrice": 11500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2852226",
+  "SysEndTime": "2022-12-15T20:32:14.2852226",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c3c"
+  },
+  "SalesOrderVehicleId": 5,
+  "CustomerId": 5,
+  "StaffId": 5,
+  "InvoiceNumber": "EURFR005",
+  "SaleOrderDate": "2015-01-02",
+  "TotalSalePrice": 19900,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2893040",
+  "SysEndTime": "2022-12-15T20:32:14.2893040",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c3d"
+  },
+  "SalesOrderVehicleId": 6,
+  "CustomerId": 1,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB006",
+  "SaleOrderDate": "2015-03-14",
+  "TotalSalePrice": 29500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2893040",
+  "SysEndTime": "2022-12-15T20:32:14.2893040",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c3e"
+  },
+  "SalesOrderVehicleId": 7,
+  "CustomerId": 3,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB007",
+  "SaleOrderDate": "2015-03-24",
+  "TotalSalePrice": 49500.2,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2893040",
+  "SysEndTime": "2022-12-15T20:32:14.2893040",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c3f"
+  },
+  "SalesOrderVehicleId": 8,
+  "CustomerId": 7,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB008",
+  "SaleOrderDate": "2015-03-30",
+  "TotalSalePrice": 76000.9,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2893040",
+  "SysEndTime": "2022-12-15T20:32:14.2893040",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c40"
+  },
+  "SalesOrderVehicleId": 9,
+  "CustomerId": 8,
+  "StaffId": 9,
+  "InvoiceNumber": "EURFR009",
+  "SaleOrderDate": "2015-04-06",
+  "TotalSalePrice": 19600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2933813",
+  "SysEndTime": "2022-12-15T20:32:14.2933813",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c41"
+  },
+  "SalesOrderVehicleId": 10,
+  "CustomerId": 9,
+  "StaffId": 10,
+  "InvoiceNumber": "USDUS010",
+  "SaleOrderDate": "2015-04-04",
+  "TotalSalePrice": 36500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2933813",
+  "SysEndTime": "2022-12-15T20:32:14.2933813",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c42"
+  },
+  "SalesOrderVehicleId": 11,
+  "CustomerId": 10,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB011",
+  "SaleOrderDate": "2015-04-30",
+  "TotalSalePrice": 89000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2933813",
+  "SysEndTime": "2022-12-15T20:32:14.2933813",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c43"
+  },
+  "SalesOrderVehicleId": 12,
+  "CustomerId": 11,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB012",
+  "SaleOrderDate": "2015-05-10",
+  "TotalSalePrice": 169500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2933813",
+  "SysEndTime": "2022-12-15T20:32:14.2933813",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c44"
+  },
+  "SalesOrderVehicleId": 13,
+  "CustomerId": 8,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR013",
+  "SaleOrderDate": "2015-05-20",
+  "TotalSalePrice": 8950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2974558",
+  "SysEndTime": "2022-12-15T20:32:14.2974558",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c45"
+  },
+  "SalesOrderVehicleId": 14,
+  "CustomerId": 12,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB014",
+  "SaleOrderDate": "2015-05-28",
+  "TotalSalePrice": 195000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.2974558",
+  "SysEndTime": "2022-12-15T20:32:14.2974558",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c46"
+  },
+  "SalesOrderVehicleId": 15,
+  "CustomerId": 13,
+  "StaffId": 2,
+  "InvoiceNumber": "EURFR015",
+  "SaleOrderDate": "2015-06-04",
+  "TotalSalePrice": 22950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3015271",
+  "SysEndTime": "2022-12-15T20:32:14.3015271",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c47"
+  },
+  "SalesOrderVehicleId": 16,
+  "CustomerId": 14,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB016",
+  "SaleOrderDate": "2015-07-12",
+  "TotalSalePrice": 8695,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3015271",
+  "SysEndTime": "2022-12-15T20:32:14.3015271",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c48"
+  },
+  "SalesOrderVehicleId": 17,
+  "CustomerId": 15,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB017",
+  "SaleOrderDate": "2015-07-15",
+  "TotalSalePrice": 22990,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3015271",
+  "SysEndTime": "2022-12-15T20:32:14.3015271",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c49"
+  },
+  "SalesOrderVehicleId": 18,
+  "CustomerId": 16,
+  "StaffId": 5,
+  "InvoiceNumber": "EURFR018",
+  "SaleOrderDate": "2015-07-25",
+  "TotalSalePrice": 75500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3015271",
+  "SysEndTime": "2022-12-15T20:32:14.3015271",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c4a"
+  },
+  "SalesOrderVehicleId": 19,
+  "CustomerId": 17,
+  "StaffId": 6,
+  "InvoiceNumber": "USDUS019",
+  "SaleOrderDate": "2015-08-02",
+  "TotalSalePrice": 5500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3056118",
+  "SysEndTime": "2022-12-15T20:32:14.3056118",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c4b"
+  },
+  "SalesOrderVehicleId": 20,
+  "CustomerId": 18,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB020",
+  "SaleOrderDate": "2015-09-05",
+  "TotalSalePrice": 12650,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3056118",
+  "SysEndTime": "2022-12-15T20:32:14.3056118",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c4c"
+  },
+  "SalesOrderVehicleId": 21,
+  "CustomerId": 19,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB021",
+  "SaleOrderDate": "2015-09-15",
+  "TotalSalePrice": 8950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3056118",
+  "SysEndTime": "2022-12-15T20:32:14.3056118",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c4d"
+  },
+  "SalesOrderVehicleId": 22,
+  "CustomerId": 18,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB022",
+  "SaleOrderDate": "2015-09-15",
+  "TotalSalePrice": 15600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3056118",
+  "SysEndTime": "2022-12-15T20:32:14.3056118",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c4e"
+  },
+  "SalesOrderVehicleId": 23,
+  "CustomerId": 15,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB023",
+  "SaleOrderDate": "2015-10-30",
+  "TotalSalePrice": 22600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3097211",
+  "SysEndTime": "2022-12-15T20:32:14.3097211",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c4f"
+  },
+  "SalesOrderVehicleId": 24,
+  "CustomerId": 17,
+  "StaffId": 11,
+  "InvoiceNumber": "USDUS024",
+  "SaleOrderDate": "2015-10-30",
+  "TotalSalePrice": 123590,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3097211",
+  "SysEndTime": "2022-12-15T20:32:14.3097211",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c50"
+  },
+  "SalesOrderVehicleId": 25,
+  "CustomerId": 14,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB025",
+  "SaleOrderDate": "2015-11-10",
+  "TotalSalePrice": 22950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3097211",
+  "SysEndTime": "2022-12-15T20:32:14.3097211",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c51"
+  },
+  "SalesOrderVehicleId": 26,
+  "CustomerId": 15,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB026",
+  "SaleOrderDate": "2015-12-01",
+  "TotalSalePrice": 69500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3097211",
+  "SysEndTime": "2022-12-15T20:32:14.3097211",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c52"
+  },
+  "SalesOrderVehicleId": 27,
+  "CustomerId": 6,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPCH027",
+  "SaleOrderDate": "2016-01-01",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3138060",
+  "SysEndTime": "2022-12-15T20:32:14.3138060",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c53"
+  },
+  "SalesOrderVehicleId": 28,
+  "CustomerId": 7,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB028",
+  "SaleOrderDate": "2016-01-01",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3138060",
+  "SysEndTime": "2022-12-15T20:32:14.3138060",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c54"
+  },
+  "SalesOrderVehicleId": 29,
+  "CustomerId": 9,
+  "StaffId": 3,
+  "InvoiceNumber": "USDUS029",
+  "SaleOrderDate": "2016-01-01",
+  "TotalSalePrice": 159500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3138060",
+  "SysEndTime": "2022-12-15T20:32:14.3138060",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c55"
+  },
+  "SalesOrderVehicleId": 30,
+  "CustomerId": 10,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB030",
+  "SaleOrderDate": "2016-01-01",
+  "TotalSalePrice": 165000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3178903",
+  "SysEndTime": "2022-12-15T20:32:14.3178903",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c56"
+  },
+  "SalesOrderVehicleId": 31,
+  "CustomerId": 8,
+  "StaffId": 5,
+  "InvoiceNumber": "EURFR031",
+  "SaleOrderDate": "2016-01-07",
+  "TotalSalePrice": 2550,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3178903",
+  "SysEndTime": "2022-12-15T20:32:14.3178903",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c57"
+  },
+  "SalesOrderVehicleId": 32,
+  "CustomerId": 19,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB032",
+  "SaleOrderDate": "2016-01-07",
+  "TotalSalePrice": 29500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3178903",
+  "SysEndTime": "2022-12-15T20:32:14.3178903",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c58"
+  },
+  "SalesOrderVehicleId": 33,
+  "CustomerId": 20,
+  "StaffId": 7,
+  "InvoiceNumber": "USDUS033",
+  "SaleOrderDate": "2016-01-09",
+  "TotalSalePrice": 12650,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3178903",
+  "SysEndTime": "2022-12-15T20:32:14.3178903",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c59"
+  },
+  "SalesOrderVehicleId": 34,
+  "CustomerId": 21,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB034",
+  "SaleOrderDate": "2016-01-22",
+  "TotalSalePrice": 56950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3178903",
+  "SysEndTime": "2022-12-15T20:32:14.3178903",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c5a"
+  },
+  "SalesOrderVehicleId": 35,
+  "CustomerId": 22,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB035",
+  "SaleOrderDate": "2016-02-22",
+  "TotalSalePrice": 56000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3219896",
+  "SysEndTime": "2022-12-15T20:32:14.3219896",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c5b"
+  },
+  "SalesOrderVehicleId": 36,
+  "CustomerId": 23,
+  "StaffId": 10,
+  "InvoiceNumber": "EURDE036",
+  "SaleOrderDate": "2016-02-17",
+  "TotalSalePrice": 71890,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3219896",
+  "SysEndTime": "2022-12-15T20:32:14.3219896",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c5c"
+  },
+  "SalesOrderVehicleId": 37,
+  "CustomerId": 16,
+  "StaffId": 11,
+  "InvoiceNumber": "EURFR037",
+  "SaleOrderDate": "2016-02-16",
+  "TotalSalePrice": 39500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3219896",
+  "SysEndTime": "2022-12-15T20:32:14.3219896",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c5d"
+  },
+  "SalesOrderVehicleId": 38,
+  "CustomerId": 1,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB038",
+  "SaleOrderDate": "2016-02-28",
+  "TotalSalePrice": 3650,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3219896",
+  "SysEndTime": "2022-12-15T20:32:14.3219896",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c5e"
+  },
+  "SalesOrderVehicleId": 39,
+  "CustomerId": 24,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPCH039",
+  "SaleOrderDate": "2016-03-20",
+  "TotalSalePrice": 220500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3260610",
+  "SysEndTime": "2022-12-15T20:32:14.3260610",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c5f"
+  },
+  "SalesOrderVehicleId": 40,
+  "CustomerId": 25,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB040",
+  "SaleOrderDate": "2016-04-05",
+  "TotalSalePrice": 102950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3260610",
+  "SysEndTime": "2022-12-15T20:32:14.3260610",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c60"
+  },
+  "SalesOrderVehicleId": 41,
+  "CustomerId": 20,
+  "StaffId": 2,
+  "InvoiceNumber": "USDUS041",
+  "SaleOrderDate": "2016-04-30",
+  "TotalSalePrice": 17500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3260610",
+  "SysEndTime": "2022-12-15T20:32:14.3260610",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c61"
+  },
+  "SalesOrderVehicleId": 42,
+  "CustomerId": 21,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB042",
+  "SaleOrderDate": "2016-04-30",
+  "TotalSalePrice": 8800,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3260610",
+  "SysEndTime": "2022-12-15T20:32:14.3260610",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c62"
+  },
+  "SalesOrderVehicleId": 43,
+  "CustomerId": 23,
+  "StaffId": 4,
+  "InvoiceNumber": "EURDE043",
+  "SaleOrderDate": "2016-04-30",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3301441",
+  "SysEndTime": "2022-12-15T20:32:14.3301441",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c63"
+  },
+  "SalesOrderVehicleId": 44,
+  "CustomerId": 21,
+  "StaffId": 5,
+  "InvoiceNumber": "GBPGB044",
+  "SaleOrderDate": "2016-04-30",
+  "TotalSalePrice": 17500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3301441",
+  "SysEndTime": "2022-12-15T20:32:14.3301441",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c64"
+  },
+  "SalesOrderVehicleId": 45,
+  "CustomerId": 10,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB045",
+  "SaleOrderDate": "2016-04-30",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3301441",
+  "SysEndTime": "2022-12-15T20:32:14.3301441",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c65"
+  },
+  "SalesOrderVehicleId": 46,
+  "CustomerId": 15,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB046",
+  "SaleOrderDate": "2016-05-30",
+  "TotalSalePrice": 49450,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3301441",
+  "SysEndTime": "2022-12-15T20:32:14.3301441",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c66"
+  },
+  "SalesOrderVehicleId": 47,
+  "CustomerId": 16,
+  "StaffId": 8,
+  "InvoiceNumber": "EURFR047",
+  "SaleOrderDate": "2016-05-30",
+  "TotalSalePrice": 49580,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3342201",
+  "SysEndTime": "2022-12-15T20:32:14.3342201",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c67"
+  },
+  "SalesOrderVehicleId": 48,
+  "CustomerId": 8,
+  "StaffId": 9,
+  "InvoiceNumber": "EURFR048",
+  "SaleOrderDate": "2016-06-15",
+  "TotalSalePrice": 5500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3342201",
+  "SysEndTime": "2022-12-15T20:32:14.3342201",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c68"
+  },
+  "SalesOrderVehicleId": 49,
+  "CustomerId": 26,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB049",
+  "SaleOrderDate": "2016-06-15",
+  "TotalSalePrice": 22150,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3342201",
+  "SysEndTime": "2022-12-15T20:32:14.3342201",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c69"
+  },
+  "SalesOrderVehicleId": 50,
+  "CustomerId": 27,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB050",
+  "SaleOrderDate": "2016-06-15",
+  "TotalSalePrice": 35000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3342201",
+  "SysEndTime": "2022-12-15T20:32:14.3342201",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c6a"
+  },
+  "SalesOrderVehicleId": 51,
+  "CustomerId": 28,
+  "StaffId": 12,
+  "InvoiceNumber": "EURFR051",
+  "SaleOrderDate": "2016-06-15",
+  "TotalSalePrice": 174650,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3382920",
+  "SysEndTime": "2022-12-15T20:32:14.3382920",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c6b"
+  },
+  "SalesOrderVehicleId": 52,
+  "CustomerId": 29,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB052",
+  "SaleOrderDate": "2016-07-01",
+  "TotalSalePrice": 15650,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3382920",
+  "SysEndTime": "2022-12-15T20:32:14.3382920",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c6c"
+  },
+  "SalesOrderVehicleId": 53,
+  "CustomerId": 20,
+  "StaffId": 1,
+  "InvoiceNumber": "USDUS053",
+  "SaleOrderDate": "2016-07-06",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3382920",
+  "SysEndTime": "2022-12-15T20:32:14.3382920",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c6d"
+  },
+  "SalesOrderVehicleId": 54,
+  "CustomerId": 30,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB054",
+  "SaleOrderDate": "2016-07-25",
+  "TotalSalePrice": 195000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3382920",
+  "SysEndTime": "2022-12-15T20:32:14.3382920",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c6e"
+  },
+  "SalesOrderVehicleId": 55,
+  "CustomerId": 15,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB055",
+  "SaleOrderDate": "2016-07-25",
+  "TotalSalePrice": 205000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3382920",
+  "SysEndTime": "2022-12-15T20:32:14.3382920",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c6f"
+  },
+  "SalesOrderVehicleId": 56,
+  "CustomerId": 14,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB056",
+  "SaleOrderDate": "2016-07-25",
+  "TotalSalePrice": 66500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3423859",
+  "SysEndTime": "2022-12-15T20:32:14.3423859",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c70"
+  },
+  "SalesOrderVehicleId": 57,
+  "CustomerId": 31,
+  "StaffId": 5,
+  "InvoiceNumber": "GBPGB057",
+  "SaleOrderDate": "2016-07-25",
+  "TotalSalePrice": 19500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3423859",
+  "SysEndTime": "2022-12-15T20:32:14.3423859",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c71"
+  },
+  "SalesOrderVehicleId": 58,
+  "CustomerId": 32,
+  "StaffId": 6,
+  "InvoiceNumber": "EURES058",
+  "SaleOrderDate": "2016-07-26",
+  "TotalSalePrice": 79500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3423859",
+  "SysEndTime": "2022-12-15T20:32:14.3423859",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c72"
+  },
+  "SalesOrderVehicleId": 59,
+  "CustomerId": 33,
+  "StaffId": 7,
+  "InvoiceNumber": "EURIT059",
+  "SaleOrderDate": "2016-07-26",
+  "TotalSalePrice": 14590,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3423859",
+  "SysEndTime": "2022-12-15T20:32:14.3423859",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c73"
+  },
+  "SalesOrderVehicleId": 60,
+  "CustomerId": 32,
+  "StaffId": 8,
+  "InvoiceNumber": "EURES060",
+  "SaleOrderDate": "2016-08-02",
+  "TotalSalePrice": 12750,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3464590",
+  "SysEndTime": "2022-12-15T20:32:14.3464590",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c74"
+  },
+  "SalesOrderVehicleId": 61,
+  "CustomerId": 22,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB061",
+  "SaleOrderDate": "2016-08-02",
+  "TotalSalePrice": 45600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3464590",
+  "SysEndTime": "2022-12-15T20:32:14.3464590",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c75"
+  },
+  "SalesOrderVehicleId": 62,
+  "CustomerId": 21,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB062",
+  "SaleOrderDate": "2016-08-02",
+  "TotalSalePrice": 6500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3464590",
+  "SysEndTime": "2022-12-15T20:32:14.3464590",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c76"
+  },
+  "SalesOrderVehicleId": 63,
+  "CustomerId": 15,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB063",
+  "SaleOrderDate": "2016-08-02",
+  "TotalSalePrice": 102500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3464590",
+  "SysEndTime": "2022-12-15T20:32:14.3464590",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c77"
+  },
+  "SalesOrderVehicleId": 64,
+  "CustomerId": 16,
+  "StaffId": 12,
+  "InvoiceNumber": "EURFR064",
+  "SaleOrderDate": "2016-08-09",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3505305",
+  "SysEndTime": "2022-12-15T20:32:14.3505305",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c78"
+  },
+  "SalesOrderVehicleId": 65,
+  "CustomerId": 14,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB065",
+  "SaleOrderDate": "2016-08-10",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3505305",
+  "SysEndTime": "2022-12-15T20:32:14.3505305",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c79"
+  },
+  "SalesOrderVehicleId": 66,
+  "CustomerId": 4,
+  "StaffId": 1,
+  "InvoiceNumber": "EURDE066",
+  "SaleOrderDate": "2016-08-12",
+  "TotalSalePrice": 61500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3505305",
+  "SysEndTime": "2022-12-15T20:32:14.3505305",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c7a"
+  },
+  "SalesOrderVehicleId": 67,
+  "CustomerId": 6,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPCH067",
+  "SaleOrderDate": "2016-08-13",
+  "TotalSalePrice": 79500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3505305",
+  "SysEndTime": "2022-12-15T20:32:14.3505305",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c7b"
+  },
+  "SalesOrderVehicleId": 68,
+  "CustomerId": 18,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB068",
+  "SaleOrderDate": "2016-08-13",
+  "TotalSalePrice": 50100,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3546076",
+  "SysEndTime": "2022-12-15T20:32:14.3546076",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c7c"
+  },
+  "SalesOrderVehicleId": 69,
+  "CustomerId": 5,
+  "StaffId": 4,
+  "InvoiceNumber": "EURFR069",
+  "SaleOrderDate": "2016-08-13",
+  "TotalSalePrice": 66500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3546076",
+  "SysEndTime": "2022-12-15T20:32:14.3546076",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c7d"
+  },
+  "SalesOrderVehicleId": 70,
+  "CustomerId": 33,
+  "StaffId": 5,
+  "InvoiceNumber": "EURIT070",
+  "SaleOrderDate": "2016-08-19",
+  "TotalSalePrice": 45000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3546076",
+  "SysEndTime": "2022-12-15T20:32:14.3546076",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c7e"
+  },
+  "SalesOrderVehicleId": 71,
+  "CustomerId": 23,
+  "StaffId": 6,
+  "InvoiceNumber": "EURDE071",
+  "SaleOrderDate": "2016-08-19",
+  "TotalSalePrice": 19500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3546076",
+  "SysEndTime": "2022-12-15T20:32:14.3546076",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c7f"
+  },
+  "SalesOrderVehicleId": 72,
+  "CustomerId": 21,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB072",
+  "SaleOrderDate": "2016-08-21",
+  "TotalSalePrice": 76500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3586796",
+  "SysEndTime": "2022-12-15T20:32:14.3586796",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c80"
+  },
+  "SalesOrderVehicleId": 73,
+  "CustomerId": 14,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB073",
+  "SaleOrderDate": "2016-08-22",
+  "TotalSalePrice": 45900,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3586796",
+  "SysEndTime": "2022-12-15T20:32:14.3586796",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c81"
+  },
+  "SalesOrderVehicleId": 74,
+  "CustomerId": 34,
+  "StaffId": 9,
+  "InvoiceNumber": "EURBE074",
+  "SaleOrderDate": "2016-08-23",
+  "TotalSalePrice": 125000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3586796",
+  "SysEndTime": "2022-12-15T20:32:14.3586796",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c82"
+  },
+  "SalesOrderVehicleId": 75,
+  "CustomerId": 35,
+  "StaffId": 10,
+  "InvoiceNumber": "EURFR075",
+  "SaleOrderDate": "2016-08-24",
+  "TotalSalePrice": 65500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3586796",
+  "SysEndTime": "2022-12-15T20:32:14.3586796",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c83"
+  },
+  "SalesOrderVehicleId": 76,
+  "CustomerId": 36,
+  "StaffId": 11,
+  "InvoiceNumber": "USDUS076",
+  "SaleOrderDate": "2016-08-25",
+  "TotalSalePrice": 92150,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3627549",
+  "SysEndTime": "2022-12-15T20:32:14.3627549",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c84"
+  },
+  "SalesOrderVehicleId": 77,
+  "CustomerId": 37,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB077",
+  "SaleOrderDate": "2016-08-28",
+  "TotalSalePrice": 9500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3627549",
+  "SysEndTime": "2022-12-15T20:32:14.3627549",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c85"
+  },
+  "SalesOrderVehicleId": 78,
+  "CustomerId": 33,
+  "StaffId": 7,
+  "InvoiceNumber": "EURIT078",
+  "SaleOrderDate": "2016-08-28",
+  "TotalSalePrice": 9950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3627549",
+  "SysEndTime": "2022-12-15T20:32:14.3627549",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c86"
+  },
+  "SalesOrderVehicleId": 79,
+  "CustomerId": 25,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB079",
+  "SaleOrderDate": "2016-08-29",
+  "TotalSalePrice": 5680,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3627549",
+  "SysEndTime": "2022-12-15T20:32:14.3627549",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c87"
+  },
+  "SalesOrderVehicleId": 80,
+  "CustomerId": 24,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPCH080",
+  "SaleOrderDate": "2016-08-30",
+  "TotalSalePrice": 19500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3627549",
+  "SysEndTime": "2022-12-15T20:32:14.3627549",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c88"
+  },
+  "SalesOrderVehicleId": 81,
+  "CustomerId": 15,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB081",
+  "SaleOrderDate": "2016-09-04",
+  "TotalSalePrice": 3500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3668309",
+  "SysEndTime": "2022-12-15T20:32:14.3668309",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c89"
+  },
+  "SalesOrderVehicleId": 82,
+  "CustomerId": 6,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPCH082",
+  "SaleOrderDate": "2016-09-04",
+  "TotalSalePrice": 3950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3668309",
+  "SysEndTime": "2022-12-15T20:32:14.3668309",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c8a"
+  },
+  "SalesOrderVehicleId": 83,
+  "CustomerId": 19,
+  "StaffId": 5,
+  "InvoiceNumber": "GBPGB083",
+  "SaleOrderDate": "2016-09-04",
+  "TotalSalePrice": 20950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3668309",
+  "SysEndTime": "2022-12-15T20:32:14.3668309",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c8b"
+  },
+  "SalesOrderVehicleId": 84,
+  "CustomerId": 3,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB084",
+  "SaleOrderDate": "2016-09-06",
+  "TotalSalePrice": 7500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3668309",
+  "SysEndTime": "2022-12-15T20:32:14.3668309",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c8c"
+  },
+  "SalesOrderVehicleId": 85,
+  "CustomerId": 2,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB085",
+  "SaleOrderDate": "2016-09-07",
+  "TotalSalePrice": 56500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3709051",
+  "SysEndTime": "2022-12-15T20:32:14.3709051",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c8d"
+  },
+  "SalesOrderVehicleId": 86,
+  "CustomerId": 22,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB086",
+  "SaleOrderDate": "2016-09-07",
+  "TotalSalePrice": 49500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3709051",
+  "SysEndTime": "2022-12-15T20:32:14.3709051",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c8e"
+  },
+  "SalesOrderVehicleId": 87,
+  "CustomerId": 32,
+  "StaffId": 9,
+  "InvoiceNumber": "EURES087",
+  "SaleOrderDate": "2016-09-11",
+  "TotalSalePrice": 68900,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3709051",
+  "SysEndTime": "2022-12-15T20:32:14.3709051",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c8f"
+  },
+  "SalesOrderVehicleId": 88,
+  "CustomerId": 1,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB088",
+  "SaleOrderDate": "2016-09-11",
+  "TotalSalePrice": 55000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3709051",
+  "SysEndTime": "2022-12-15T20:32:14.3709051",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c90"
+  },
+  "SalesOrderVehicleId": 89,
+  "CustomerId": 8,
+  "StaffId": 11,
+  "InvoiceNumber": "EURFR089",
+  "SaleOrderDate": "2016-09-14",
+  "TotalSalePrice": 3575,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3749878",
+  "SysEndTime": "2022-12-15T20:32:14.3749878",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c91"
+  },
+  "SalesOrderVehicleId": 90,
+  "CustomerId": 12,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB090",
+  "SaleOrderDate": "2016-09-14",
+  "TotalSalePrice": 35250,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3749878",
+  "SysEndTime": "2022-12-15T20:32:14.3749878",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c92"
+  },
+  "SalesOrderVehicleId": 91,
+  "CustomerId": 13,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR091",
+  "SaleOrderDate": "2016-09-16",
+  "TotalSalePrice": 47490,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3749878",
+  "SysEndTime": "2022-12-15T20:32:14.3749878",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c93"
+  },
+  "SalesOrderVehicleId": 92,
+  "CustomerId": 15,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB092",
+  "SaleOrderDate": "2016-09-16",
+  "TotalSalePrice": 45950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3790641",
+  "SysEndTime": "2022-12-15T20:32:14.3790641",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c94"
+  },
+  "SalesOrderVehicleId": 93,
+  "CustomerId": 25,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB093",
+  "SaleOrderDate": "2016-09-18",
+  "TotalSalePrice": 9950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3790641",
+  "SysEndTime": "2022-12-15T20:32:14.3790641",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c95"
+  },
+  "SalesOrderVehicleId": 94,
+  "CustomerId": 26,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB094",
+  "SaleOrderDate": "2016-09-19",
+  "TotalSalePrice": 163050,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3790641",
+  "SysEndTime": "2022-12-15T20:32:14.3790641",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c96"
+  },
+  "SalesOrderVehicleId": 95,
+  "CustomerId": 22,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB095",
+  "SaleOrderDate": "2016-10-05",
+  "TotalSalePrice": 76500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3790641",
+  "SysEndTime": "2022-12-15T20:32:14.3790641",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c97"
+  },
+  "SalesOrderVehicleId": 96,
+  "CustomerId": 32,
+  "StaffId": 5,
+  "InvoiceNumber": "EURES096",
+  "SaleOrderDate": "2016-10-05",
+  "TotalSalePrice": 119600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3831403",
+  "SysEndTime": "2022-12-15T20:32:14.3831403",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c98"
+  },
+  "SalesOrderVehicleId": 97,
+  "CustomerId": 38,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB097",
+  "SaleOrderDate": "2016-10-30",
+  "TotalSalePrice": 95600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3831403",
+  "SysEndTime": "2022-12-15T20:32:14.3831403",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c99"
+  },
+  "SalesOrderVehicleId": 98,
+  "CustomerId": 39,
+  "StaffId": 7,
+  "InvoiceNumber": "EURES098",
+  "SaleOrderDate": "2016-10-30",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3831403",
+  "SysEndTime": "2022-12-15T20:32:14.3831403",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c9a"
+  },
+  "SalesOrderVehicleId": 99,
+  "CustomerId": 40,
+  "StaffId": 8,
+  "InvoiceNumber": "EURIT099",
+  "SaleOrderDate": "2016-10-30",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3831403",
+  "SysEndTime": "2022-12-15T20:32:14.3831403",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c9b"
+  },
+  "SalesOrderVehicleId": 100,
+  "CustomerId": 3,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB100",
+  "SaleOrderDate": "2016-11-03",
+  "TotalSalePrice": 56890,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3872316",
+  "SysEndTime": "2022-12-15T20:32:14.3872316",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c9c"
+  },
+  "SalesOrderVehicleId": 101,
+  "CustomerId": 12,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB101",
+  "SaleOrderDate": "2016-11-04",
+  "TotalSalePrice": 55000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3872316",
+  "SysEndTime": "2022-12-15T20:32:14.3872316",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c9d"
+  },
+  "SalesOrderVehicleId": 102,
+  "CustomerId": 26,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB102",
+  "SaleOrderDate": "2016-12-02",
+  "TotalSalePrice": 191490,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3872316",
+  "SysEndTime": "2022-12-15T20:32:14.3872316",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c9e"
+  },
+  "SalesOrderVehicleId": 103,
+  "CustomerId": 33,
+  "StaffId": 12,
+  "InvoiceNumber": "EURIT103",
+  "SaleOrderDate": "2016-12-06",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3872316",
+  "SysEndTime": "2022-12-15T20:32:14.3872316",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0c9f"
+  },
+  "SalesOrderVehicleId": 104,
+  "CustomerId": 13,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR104",
+  "SaleOrderDate": "2016-12-06",
+  "TotalSalePrice": 60500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3913094",
+  "SysEndTime": "2022-12-15T20:32:14.3913094",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca0"
+  },
+  "SalesOrderVehicleId": 105,
+  "CustomerId": 14,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB105",
+  "SaleOrderDate": "2016-12-06",
+  "TotalSalePrice": 123500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3913094",
+  "SysEndTime": "2022-12-15T20:32:14.3913094",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca1"
+  },
+  "SalesOrderVehicleId": 106,
+  "CustomerId": 23,
+  "StaffId": 2,
+  "InvoiceNumber": "EURDE106",
+  "SaleOrderDate": "2016-12-08",
+  "TotalSalePrice": 25000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3913094",
+  "SysEndTime": "2022-12-15T20:32:14.3913094",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca2"
+  },
+  "SalesOrderVehicleId": 107,
+  "CustomerId": 28,
+  "StaffId": 3,
+  "InvoiceNumber": "EURFR107",
+  "SaleOrderDate": "2016-12-20",
+  "TotalSalePrice": 169500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3913094",
+  "SysEndTime": "2022-12-15T20:32:14.3913094",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca3"
+  },
+  "SalesOrderVehicleId": 108,
+  "CustomerId": 29,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB108",
+  "SaleOrderDate": "2016-12-28",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3953796",
+  "SysEndTime": "2022-12-15T20:32:14.3953796",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca4"
+  },
+  "SalesOrderVehicleId": 109,
+  "CustomerId": 39,
+  "StaffId": 5,
+  "InvoiceNumber": "EURES109",
+  "SaleOrderDate": "2016-12-31",
+  "TotalSalePrice": 39500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3953796",
+  "SysEndTime": "2022-12-15T20:32:14.3953796",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca5"
+  },
+  "SalesOrderVehicleId": 110,
+  "CustomerId": 28,
+  "StaffId": 6,
+  "InvoiceNumber": "EURFR110",
+  "SaleOrderDate": "2017-01-01",
+  "TotalSalePrice": 22500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3953796",
+  "SysEndTime": "2022-12-15T20:32:14.3953796",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca6"
+  },
+  "SalesOrderVehicleId": 111,
+  "CustomerId": 27,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB111",
+  "SaleOrderDate": "2017-01-05",
+  "TotalSalePrice": 125000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3953796",
+  "SysEndTime": "2022-12-15T20:32:14.3953796",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca7"
+  },
+  "SalesOrderVehicleId": 112,
+  "CustomerId": 7,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB112",
+  "SaleOrderDate": "2017-01-10",
+  "TotalSalePrice": 85000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3994505",
+  "SysEndTime": "2022-12-15T20:32:14.3994505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca8"
+  },
+  "SalesOrderVehicleId": 113,
+  "CustomerId": 13,
+  "StaffId": 9,
+  "InvoiceNumber": "EURFR113",
+  "SaleOrderDate": "2017-01-21",
+  "TotalSalePrice": 1250,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3994505",
+  "SysEndTime": "2022-12-15T20:32:14.3994505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ca9"
+  },
+  "SalesOrderVehicleId": 114,
+  "CustomerId": 6,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPCH114",
+  "SaleOrderDate": "2017-01-11",
+  "TotalSalePrice": 22500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3994505",
+  "SysEndTime": "2022-12-15T20:32:14.3994505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0caa"
+  },
+  "SalesOrderVehicleId": 115,
+  "CustomerId": 1,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB115",
+  "SaleOrderDate": "2017-01-12",
+  "TotalSalePrice": 125950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3994505",
+  "SysEndTime": "2022-12-15T20:32:14.3994505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cab"
+  },
+  "SalesOrderVehicleId": 116,
+  "CustomerId": 6,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPCH116",
+  "SaleOrderDate": "2017-01-13",
+  "TotalSalePrice": 8850,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.3994505",
+  "SysEndTime": "2022-12-15T20:32:14.3994505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cac"
+  },
+  "SalesOrderVehicleId": 117,
+  "CustomerId": 19,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB117",
+  "SaleOrderDate": "2017-01-14",
+  "TotalSalePrice": 9950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4035318",
+  "SysEndTime": "2022-12-15T20:32:14.4035318",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cad"
+  },
+  "SalesOrderVehicleId": 118,
+  "CustomerId": 28,
+  "StaffId": 1,
+  "InvoiceNumber": "EURFR118",
+  "SaleOrderDate": "2017-01-30",
+  "TotalSalePrice": 56500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4035318",
+  "SysEndTime": "2022-12-15T20:32:14.4035318",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cae"
+  },
+  "SalesOrderVehicleId": 119,
+  "CustomerId": 37,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB119",
+  "SaleOrderDate": "2017-01-31",
+  "TotalSalePrice": 55000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4035318",
+  "SysEndTime": "2022-12-15T20:32:14.4035318",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0caf"
+  },
+  "SalesOrderVehicleId": 120,
+  "CustomerId": 26,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB120",
+  "SaleOrderDate": "2017-01-31",
+  "TotalSalePrice": 56950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4035318",
+  "SysEndTime": "2022-12-15T20:32:14.4035318",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb0"
+  },
+  "SalesOrderVehicleId": 121,
+  "CustomerId": 28,
+  "StaffId": 4,
+  "InvoiceNumber": "EURFR121",
+  "SaleOrderDate": "2017-02-07",
+  "TotalSalePrice": 365000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4076177",
+  "SysEndTime": "2022-12-15T20:32:14.4076177",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb1"
+  },
+  "SalesOrderVehicleId": 122,
+  "CustomerId": 35,
+  "StaffId": 5,
+  "InvoiceNumber": "EURFR122",
+  "SaleOrderDate": "2017-02-08",
+  "TotalSalePrice": 395000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4076177",
+  "SysEndTime": "2022-12-15T20:32:14.4076177",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb2"
+  },
+  "SalesOrderVehicleId": 123,
+  "CustomerId": 36,
+  "StaffId": 6,
+  "InvoiceNumber": "USDUS123",
+  "SaleOrderDate": "2017-02-09",
+  "TotalSalePrice": 21500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4076177",
+  "SysEndTime": "2022-12-15T20:32:14.4076177",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb3"
+  },
+  "SalesOrderVehicleId": 124,
+  "CustomerId": 37,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB124",
+  "SaleOrderDate": "2017-02-10",
+  "TotalSalePrice": 6500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4076177",
+  "SysEndTime": "2022-12-15T20:32:14.4076177",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb4"
+  },
+  "SalesOrderVehicleId": 125,
+  "CustomerId": 34,
+  "StaffId": 8,
+  "InvoiceNumber": "EURBE125",
+  "SaleOrderDate": "2017-02-12",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4116955",
+  "SysEndTime": "2022-12-15T20:32:14.4116955",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb5"
+  },
+  "SalesOrderVehicleId": 126,
+  "CustomerId": 1,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB126",
+  "SaleOrderDate": "2017-02-14",
+  "TotalSalePrice": 2250,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4116955",
+  "SysEndTime": "2022-12-15T20:32:14.4116955",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb6"
+  },
+  "SalesOrderVehicleId": 127,
+  "CustomerId": 11,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB127",
+  "SaleOrderDate": "2017-03-05",
+  "TotalSalePrice": 3500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4116955",
+  "SysEndTime": "2022-12-15T20:32:14.4116955",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb7"
+  },
+  "SalesOrderVehicleId": 128,
+  "CustomerId": 12,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB128",
+  "SaleOrderDate": "2017-03-05",
+  "TotalSalePrice": 5680,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4116955",
+  "SysEndTime": "2022-12-15T20:32:14.4116955",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb8"
+  },
+  "SalesOrderVehicleId": 129,
+  "CustomerId": 16,
+  "StaffId": 12,
+  "InvoiceNumber": "EURFR129",
+  "SaleOrderDate": "2017-03-05",
+  "TotalSalePrice": 8550,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4157634",
+  "SysEndTime": "2022-12-15T20:32:14.4157634",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cb9"
+  },
+  "SalesOrderVehicleId": 130,
+  "CustomerId": 26,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB130",
+  "SaleOrderDate": "2017-03-10",
+  "TotalSalePrice": 156500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4157634",
+  "SysEndTime": "2022-12-15T20:32:14.4157634",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cba"
+  },
+  "SalesOrderVehicleId": 131,
+  "CustomerId": 25,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB131",
+  "SaleOrderDate": "2017-03-10",
+  "TotalSalePrice": 56500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4157634",
+  "SysEndTime": "2022-12-15T20:32:14.4157634",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cbb"
+  },
+  "SalesOrderVehicleId": 132,
+  "CustomerId": 34,
+  "StaffId": 2,
+  "InvoiceNumber": "EURBE132",
+  "SaleOrderDate": "2017-03-12",
+  "TotalSalePrice": 86500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4157634",
+  "SysEndTime": "2022-12-15T20:32:14.4157634",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cbc"
+  },
+  "SalesOrderVehicleId": 133,
+  "CustomerId": 1,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB133",
+  "SaleOrderDate": "2017-03-12",
+  "TotalSalePrice": 66500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4198344",
+  "SysEndTime": "2022-12-15T20:32:14.4198344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cbd"
+  },
+  "SalesOrderVehicleId": 134,
+  "CustomerId": 5,
+  "StaffId": 4,
+  "InvoiceNumber": "EURFR134",
+  "SaleOrderDate": "2017-03-25",
+  "TotalSalePrice": 55600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4198344",
+  "SysEndTime": "2022-12-15T20:32:14.4198344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cbe"
+  },
+  "SalesOrderVehicleId": 135,
+  "CustomerId": 23,
+  "StaffId": 5,
+  "InvoiceNumber": "EURDE135",
+  "SaleOrderDate": "2017-03-30",
+  "TotalSalePrice": 305000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4198344",
+  "SysEndTime": "2022-12-15T20:32:14.4198344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cbf"
+  },
+  "SalesOrderVehicleId": 136,
+  "CustomerId": 28,
+  "StaffId": 6,
+  "InvoiceNumber": "EURFR136",
+  "SaleOrderDate": "2017-03-31",
+  "TotalSalePrice": 45000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4198344",
+  "SysEndTime": "2022-12-15T20:32:14.4198344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc0"
+  },
+  "SalesOrderVehicleId": 137,
+  "CustomerId": 29,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB137",
+  "SaleOrderDate": "2017-03-31",
+  "TotalSalePrice": 225000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4198344",
+  "SysEndTime": "2022-12-15T20:32:14.4198344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc1"
+  },
+  "SalesOrderVehicleId": 138,
+  "CustomerId": 37,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB138",
+  "SaleOrderDate": "2017-03-31",
+  "TotalSalePrice": 42950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4239174",
+  "SysEndTime": "2022-12-15T20:32:14.4239174",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc2"
+  },
+  "SalesOrderVehicleId": 139,
+  "CustomerId": 31,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB139",
+  "SaleOrderDate": "2017-03-31",
+  "TotalSalePrice": 990,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4239174",
+  "SysEndTime": "2022-12-15T20:32:14.4239174",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc3"
+  },
+  "SalesOrderVehicleId": 140,
+  "CustomerId": 32,
+  "StaffId": 10,
+  "InvoiceNumber": "EURES140",
+  "SaleOrderDate": "2017-04-05",
+  "TotalSalePrice": 29500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4279964",
+  "SysEndTime": "2022-12-15T20:32:14.4279964",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc4"
+  },
+  "SalesOrderVehicleId": 141,
+  "CustomerId": 35,
+  "StaffId": 11,
+  "InvoiceNumber": "EURFR141",
+  "SaleOrderDate": "2017-04-06",
+  "TotalSalePrice": 139500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4279964",
+  "SysEndTime": "2022-12-15T20:32:14.4279964",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc5"
+  },
+  "SalesOrderVehicleId": 142,
+  "CustomerId": 26,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB142",
+  "SaleOrderDate": "2017-04-07",
+  "TotalSalePrice": 295000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4279964",
+  "SysEndTime": "2022-12-15T20:32:14.4279964",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc6"
+  },
+  "SalesOrderVehicleId": 143,
+  "CustomerId": 28,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR143",
+  "SaleOrderDate": "2017-04-07",
+  "TotalSalePrice": 220500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4279964",
+  "SysEndTime": "2022-12-15T20:32:14.4279964",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc7"
+  },
+  "SalesOrderVehicleId": 144,
+  "CustomerId": 29,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB144",
+  "SaleOrderDate": "2017-05-01",
+  "TotalSalePrice": 79500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4320654",
+  "SysEndTime": "2022-12-15T20:32:14.4320654",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc8"
+  },
+  "SalesOrderVehicleId": 145,
+  "CustomerId": 27,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB145",
+  "SaleOrderDate": "2017-05-01",
+  "TotalSalePrice": 162500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4320654",
+  "SysEndTime": "2022-12-15T20:32:14.4320654",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cc9"
+  },
+  "SalesOrderVehicleId": 146,
+  "CustomerId": 41,
+  "StaffId": 3,
+  "InvoiceNumber": "EURIT146",
+  "SaleOrderDate": "2017-05-09",
+  "TotalSalePrice": 79500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4320654",
+  "SysEndTime": "2022-12-15T20:32:14.4320654",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cca"
+  },
+  "SalesOrderVehicleId": 147,
+  "CustomerId": 42,
+  "StaffId": 4,
+  "InvoiceNumber": "EURES147",
+  "SaleOrderDate": "2017-05-09",
+  "TotalSalePrice": 65890,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4320654",
+  "SysEndTime": "2022-12-15T20:32:14.4320654",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ccb"
+  },
+  "SalesOrderVehicleId": 148,
+  "CustomerId": 40,
+  "StaffId": 5,
+  "InvoiceNumber": "EURIT148",
+  "SaleOrderDate": "2017-05-10",
+  "TotalSalePrice": 61500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4320654",
+  "SysEndTime": "2022-12-15T20:32:14.4320654",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ccc"
+  },
+  "SalesOrderVehicleId": 149,
+  "CustomerId": 39,
+  "StaffId": 6,
+  "InvoiceNumber": "EURES149",
+  "SaleOrderDate": "2017-05-10",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4361341",
+  "SysEndTime": "2022-12-15T20:32:14.4361341",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ccd"
+  },
+  "SalesOrderVehicleId": 150,
+  "CustomerId": 1,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB150",
+  "SaleOrderDate": "2017-05-10",
+  "TotalSalePrice": 255000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4361341",
+  "SysEndTime": "2022-12-15T20:32:14.4361341",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cce"
+  },
+  "SalesOrderVehicleId": 151,
+  "CustomerId": 43,
+  "StaffId": 8,
+  "InvoiceNumber": "EURFR151",
+  "SaleOrderDate": "2017-05-12",
+  "TotalSalePrice": 255950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4361341",
+  "SysEndTime": "2022-12-15T20:32:14.4361341",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ccf"
+  },
+  "SalesOrderVehicleId": 152,
+  "CustomerId": 44,
+  "StaffId": 9,
+  "InvoiceNumber": "USDUS152",
+  "SaleOrderDate": "2017-05-13",
+  "TotalSalePrice": 250000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4361341",
+  "SysEndTime": "2022-12-15T20:32:14.4361341",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd0"
+  },
+  "SalesOrderVehicleId": 153,
+  "CustomerId": 33,
+  "StaffId": 10,
+  "InvoiceNumber": "EURIT153",
+  "SaleOrderDate": "2017-05-16",
+  "TotalSalePrice": 6500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4402072",
+  "SysEndTime": "2022-12-15T20:32:14.4402072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd1"
+  },
+  "SalesOrderVehicleId": 154,
+  "CustomerId": 22,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB154",
+  "SaleOrderDate": "2017-05-19",
+  "TotalSalePrice": 9250,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4402072",
+  "SysEndTime": "2022-12-15T20:32:14.4402072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd2"
+  },
+  "SalesOrderVehicleId": 155,
+  "CustomerId": 11,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB155",
+  "SaleOrderDate": "2017-05-20",
+  "TotalSalePrice": 950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4402072",
+  "SysEndTime": "2022-12-15T20:32:14.4402072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd3"
+  },
+  "SalesOrderVehicleId": 156,
+  "CustomerId": 8,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR156",
+  "SaleOrderDate": "2017-05-21",
+  "TotalSalePrice": 295000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4402072",
+  "SysEndTime": "2022-12-15T20:32:14.4402072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd4"
+  },
+  "SalesOrderVehicleId": 157,
+  "CustomerId": 45,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB157",
+  "SaleOrderDate": "2017-05-22",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4402072",
+  "SysEndTime": "2022-12-15T20:32:14.4402072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd5"
+  },
+  "SalesOrderVehicleId": 158,
+  "CustomerId": 46,
+  "StaffId": 2,
+  "InvoiceNumber": "EURFR158",
+  "SaleOrderDate": "2017-05-23",
+  "TotalSalePrice": 33500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4442908",
+  "SysEndTime": "2022-12-15T20:32:14.4442908",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd6"
+  },
+  "SalesOrderVehicleId": 159,
+  "CustomerId": 23,
+  "StaffId": 3,
+  "InvoiceNumber": "EURDE159",
+  "SaleOrderDate": "2017-05-24",
+  "TotalSalePrice": 45000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4442908",
+  "SysEndTime": "2022-12-15T20:32:14.4442908",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd7"
+  },
+  "SalesOrderVehicleId": 160,
+  "CustomerId": 35,
+  "StaffId": 4,
+  "InvoiceNumber": "EURFR160",
+  "SaleOrderDate": "2017-05-26",
+  "TotalSalePrice": 114000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4442908",
+  "SysEndTime": "2022-12-15T20:32:14.4442908",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd8"
+  },
+  "SalesOrderVehicleId": 161,
+  "CustomerId": 24,
+  "StaffId": 5,
+  "InvoiceNumber": "GBPCH161",
+  "SaleOrderDate": "2017-05-27",
+  "TotalSalePrice": 2350,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4442908",
+  "SysEndTime": "2022-12-15T20:32:14.4442908",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cd9"
+  },
+  "SalesOrderVehicleId": 162,
+  "CustomerId": 11,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB162",
+  "SaleOrderDate": "2017-06-01",
+  "TotalSalePrice": 32500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4483682",
+  "SysEndTime": "2022-12-15T20:32:14.4483682",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cda"
+  },
+  "SalesOrderVehicleId": 163,
+  "CustomerId": 19,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB163",
+  "SaleOrderDate": "2017-06-01",
+  "TotalSalePrice": 45000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4483682",
+  "SysEndTime": "2022-12-15T20:32:14.4483682",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cdb"
+  },
+  "SalesOrderVehicleId": 164,
+  "CustomerId": 6,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPCH164",
+  "SaleOrderDate": "2017-06-15",
+  "TotalSalePrice": 8500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4483682",
+  "SysEndTime": "2022-12-15T20:32:14.4483682",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cdc"
+  },
+  "SalesOrderVehicleId": 165,
+  "CustomerId": 4,
+  "StaffId": 9,
+  "InvoiceNumber": "EURDE165",
+  "SaleOrderDate": "2017-06-15",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4483682",
+  "SysEndTime": "2022-12-15T20:32:14.4483682",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cdd"
+  },
+  "SalesOrderVehicleId": 166,
+  "CustomerId": 47,
+  "StaffId": 10,
+  "InvoiceNumber": "EURIT166",
+  "SaleOrderDate": "2017-06-15",
+  "TotalSalePrice": 25000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4524616",
+  "SysEndTime": "2022-12-15T20:32:14.4524616",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cde"
+  },
+  "SalesOrderVehicleId": 167,
+  "CustomerId": 33,
+  "StaffId": 11,
+  "InvoiceNumber": "EURIT167",
+  "SaleOrderDate": "2017-06-15",
+  "TotalSalePrice": 19500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4524616",
+  "SysEndTime": "2022-12-15T20:32:14.4524616",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cdf"
+  },
+  "SalesOrderVehicleId": 168,
+  "CustomerId": 48,
+  "StaffId": 12,
+  "InvoiceNumber": "EURES168",
+  "SaleOrderDate": "2017-06-15",
+  "TotalSalePrice": 12950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4524616",
+  "SysEndTime": "2022-12-15T20:32:14.4524616",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce0"
+  },
+  "SalesOrderVehicleId": 169,
+  "CustomerId": 25,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB169",
+  "SaleOrderDate": "2017-06-22",
+  "TotalSalePrice": 5650,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4524616",
+  "SysEndTime": "2022-12-15T20:32:14.4524616",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce1"
+  },
+  "SalesOrderVehicleId": 170,
+  "CustomerId": 16,
+  "StaffId": 1,
+  "InvoiceNumber": "EURFR170",
+  "SaleOrderDate": "2017-06-24",
+  "TotalSalePrice": 29500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4524616",
+  "SysEndTime": "2022-12-15T20:32:14.4524616",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce2"
+  },
+  "SalesOrderVehicleId": 171,
+  "CustomerId": 49,
+  "StaffId": 2,
+  "InvoiceNumber": "EURBE171",
+  "SaleOrderDate": "2017-07-01",
+  "TotalSalePrice": 45950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4565330",
+  "SysEndTime": "2022-12-15T20:32:14.4565330",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce3"
+  },
+  "SalesOrderVehicleId": 172,
+  "CustomerId": 50,
+  "StaffId": 3,
+  "InvoiceNumber": "EURFR172",
+  "SaleOrderDate": "2017-07-01",
+  "TotalSalePrice": 99950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4565330",
+  "SysEndTime": "2022-12-15T20:32:14.4565330",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce4"
+  },
+  "SalesOrderVehicleId": 173,
+  "CustomerId": 3,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB173",
+  "SaleOrderDate": "2017-07-03",
+  "TotalSalePrice": 335000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4565330",
+  "SysEndTime": "2022-12-15T20:32:14.4565330",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce5"
+  },
+  "SalesOrderVehicleId": 174,
+  "CustomerId": 8,
+  "StaffId": 5,
+  "InvoiceNumber": "EURFR174",
+  "SaleOrderDate": "2017-07-31",
+  "TotalSalePrice": 56500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4565330",
+  "SysEndTime": "2022-12-15T20:32:14.4565330",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce6"
+  },
+  "SalesOrderVehicleId": 175,
+  "CustomerId": 11,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB175",
+  "SaleOrderDate": "2017-07-31",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4606032",
+  "SysEndTime": "2022-12-15T20:32:14.4606032",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce7"
+  },
+  "SalesOrderVehicleId": 176,
+  "CustomerId": 16,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR176",
+  "SaleOrderDate": "2017-07-31",
+  "TotalSalePrice": 135000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4606032",
+  "SysEndTime": "2022-12-15T20:32:14.4606032",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce8"
+  },
+  "SalesOrderVehicleId": 177,
+  "CustomerId": 25,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB177",
+  "SaleOrderDate": "2017-07-31",
+  "TotalSalePrice": 89500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4606032",
+  "SysEndTime": "2022-12-15T20:32:14.4606032",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ce9"
+  },
+  "SalesOrderVehicleId": 178,
+  "CustomerId": 24,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPCH178",
+  "SaleOrderDate": "2017-08-04",
+  "TotalSalePrice": 165000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4606032",
+  "SysEndTime": "2022-12-15T20:32:14.4606032",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cea"
+  },
+  "SalesOrderVehicleId": 179,
+  "CustomerId": 36,
+  "StaffId": 10,
+  "InvoiceNumber": "USDUS179",
+  "SaleOrderDate": "2017-08-04",
+  "TotalSalePrice": 22600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4606032",
+  "SysEndTime": "2022-12-15T20:32:14.4606032",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ceb"
+  },
+  "SalesOrderVehicleId": 180,
+  "CustomerId": 46,
+  "StaffId": 11,
+  "InvoiceNumber": "EURFR180",
+  "SaleOrderDate": "2017-08-06",
+  "TotalSalePrice": 32675,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4646772",
+  "SysEndTime": "2022-12-15T20:32:14.4646772",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cec"
+  },
+  "SalesOrderVehicleId": 181,
+  "CustomerId": 28,
+  "StaffId": 12,
+  "InvoiceNumber": "EURFR181",
+  "SaleOrderDate": "2017-08-07",
+  "TotalSalePrice": 45000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4646772",
+  "SysEndTime": "2022-12-15T20:32:14.4646772",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0ced"
+  },
+  "SalesOrderVehicleId": 182,
+  "CustomerId": 21,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB182",
+  "SaleOrderDate": "2017-08-27",
+  "TotalSalePrice": 5500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4687533",
+  "SysEndTime": "2022-12-15T20:32:14.4687533",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cee"
+  },
+  "SalesOrderVehicleId": 183,
+  "CustomerId": 7,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB183",
+  "SaleOrderDate": "2017-08-30",
+  "TotalSalePrice": 55000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4687533",
+  "SysEndTime": "2022-12-15T20:32:14.4687533",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cef"
+  },
+  "SalesOrderVehicleId": 184,
+  "CustomerId": 9,
+  "StaffId": 2,
+  "InvoiceNumber": "USDUS184",
+  "SaleOrderDate": "2017-09-20",
+  "TotalSalePrice": 49500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4687533",
+  "SysEndTime": "2022-12-15T20:32:14.4687533",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf0"
+  },
+  "SalesOrderVehicleId": 185,
+  "CustomerId": 39,
+  "StaffId": 3,
+  "InvoiceNumber": "EURES185",
+  "SaleOrderDate": "2017-09-20",
+  "TotalSalePrice": 250000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4687533",
+  "SysEndTime": "2022-12-15T20:32:14.4687533",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf1"
+  },
+  "SalesOrderVehicleId": 186,
+  "CustomerId": 28,
+  "StaffId": 4,
+  "InvoiceNumber": "EURFR186",
+  "SaleOrderDate": "2017-09-20",
+  "TotalSalePrice": 155000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4728309",
+  "SysEndTime": "2022-12-15T20:32:14.4728309",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf2"
+  },
+  "SalesOrderVehicleId": 187,
+  "CustomerId": 17,
+  "StaffId": 5,
+  "InvoiceNumber": "USDUS187",
+  "SaleOrderDate": "2017-09-26",
+  "TotalSalePrice": 15750,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4728309",
+  "SysEndTime": "2022-12-15T20:32:14.4728309",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf3"
+  },
+  "SalesOrderVehicleId": 188,
+  "CustomerId": 26,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB188",
+  "SaleOrderDate": "2017-10-15",
+  "TotalSalePrice": 19500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4728309",
+  "SysEndTime": "2022-12-15T20:32:14.4728309",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf4"
+  },
+  "SalesOrderVehicleId": 189,
+  "CustomerId": 35,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR189",
+  "SaleOrderDate": "2017-10-15",
+  "TotalSalePrice": 235000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4728309",
+  "SysEndTime": "2022-12-15T20:32:14.4728309",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf5"
+  },
+  "SalesOrderVehicleId": 190,
+  "CustomerId": 14,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB190",
+  "SaleOrderDate": "2017-11-01",
+  "TotalSalePrice": 25000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4769082",
+  "SysEndTime": "2022-12-15T20:32:14.4769082",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf6"
+  },
+  "SalesOrderVehicleId": 191,
+  "CustomerId": 47,
+  "StaffId": 9,
+  "InvoiceNumber": "EURIT191",
+  "SaleOrderDate": "2017-11-01",
+  "TotalSalePrice": 245000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4769082",
+  "SysEndTime": "2022-12-15T20:32:14.4769082",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf7"
+  },
+  "SalesOrderVehicleId": 192,
+  "CustomerId": 48,
+  "StaffId": 10,
+  "InvoiceNumber": "EURES192",
+  "SaleOrderDate": "2017-11-01",
+  "TotalSalePrice": 89000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4769082",
+  "SysEndTime": "2022-12-15T20:32:14.4769082",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf8"
+  },
+  "SalesOrderVehicleId": 193,
+  "CustomerId": 49,
+  "StaffId": 11,
+  "InvoiceNumber": "EURBE193",
+  "SaleOrderDate": "2017-11-06",
+  "TotalSalePrice": 34000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4769082",
+  "SysEndTime": "2022-12-15T20:32:14.4769082",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cf9"
+  },
+  "SalesOrderVehicleId": 194,
+  "CustomerId": 50,
+  "StaffId": 12,
+  "InvoiceNumber": "EURFR194",
+  "SaleOrderDate": "2017-11-12",
+  "TotalSalePrice": 62700,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4809808",
+  "SysEndTime": "2022-12-15T20:32:14.4809808",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cfa"
+  },
+  "SalesOrderVehicleId": 195,
+  "CustomerId": 2,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB195",
+  "SaleOrderDate": "2017-12-01",
+  "TotalSalePrice": 45950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4809808",
+  "SysEndTime": "2022-12-15T20:32:14.4809808",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cfb"
+  },
+  "SalesOrderVehicleId": 196,
+  "CustomerId": 12,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB196",
+  "SaleOrderDate": "2017-12-01",
+  "TotalSalePrice": 21600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4809808",
+  "SysEndTime": "2022-12-15T20:32:14.4809808",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cfc"
+  },
+  "SalesOrderVehicleId": 197,
+  "CustomerId": 22,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB197",
+  "SaleOrderDate": "2017-12-05",
+  "TotalSalePrice": 25000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4809808",
+  "SysEndTime": "2022-12-15T20:32:14.4809808",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cfd"
+  },
+  "SalesOrderVehicleId": 198,
+  "CustomerId": 23,
+  "StaffId": 3,
+  "InvoiceNumber": "EURDE198",
+  "SaleOrderDate": "2017-12-05",
+  "TotalSalePrice": 23600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4850608",
+  "SysEndTime": "2022-12-15T20:32:14.4850608",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cfe"
+  },
+  "SalesOrderVehicleId": 199,
+  "CustomerId": 32,
+  "StaffId": 4,
+  "InvoiceNumber": "EURES199",
+  "SaleOrderDate": "2017-12-10",
+  "TotalSalePrice": 99950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4850608",
+  "SysEndTime": "2022-12-15T20:32:14.4850608",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0cff"
+  },
+  "SalesOrderVehicleId": 200,
+  "CustomerId": 41,
+  "StaffId": 5,
+  "InvoiceNumber": "EURIT200",
+  "SaleOrderDate": "2017-12-10",
+  "TotalSalePrice": 46900,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4850608",
+  "SysEndTime": "2022-12-15T20:32:14.4850608",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d00"
+  },
+  "SalesOrderVehicleId": 201,
+  "CustomerId": 45,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB201",
+  "SaleOrderDate": "2017-12-10",
+  "TotalSalePrice": 45950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4850608",
+  "SysEndTime": "2022-12-15T20:32:14.4850608",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d01"
+  },
+  "SalesOrderVehicleId": 202,
+  "CustomerId": 46,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR202",
+  "SaleOrderDate": "2017-12-10",
+  "TotalSalePrice": 7550,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4891439",
+  "SysEndTime": "2022-12-15T20:32:14.4891439",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d02"
+  },
+  "SalesOrderVehicleId": 203,
+  "CustomerId": 48,
+  "StaffId": 8,
+  "InvoiceNumber": "EURES203",
+  "SaleOrderDate": "2017-12-12",
+  "TotalSalePrice": 11990,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4891439",
+  "SysEndTime": "2022-12-15T20:32:14.4891439",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d03"
+  },
+  "SalesOrderVehicleId": 204,
+  "CustomerId": 36,
+  "StaffId": 9,
+  "InvoiceNumber": "USDUS204",
+  "SaleOrderDate": "2017-12-27",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4891439",
+  "SysEndTime": "2022-12-15T20:32:14.4891439",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d04"
+  },
+  "SalesOrderVehicleId": 205,
+  "CustomerId": 37,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB205",
+  "SaleOrderDate": "2017-12-27",
+  "TotalSalePrice": 7500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4891439",
+  "SysEndTime": "2022-12-15T20:32:14.4891439",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d05"
+  },
+  "SalesOrderVehicleId": 206,
+  "CustomerId": 25,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB206",
+  "SaleOrderDate": "2018-01-02",
+  "TotalSalePrice": 56850,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4932161",
+  "SysEndTime": "2022-12-15T20:32:14.4932161",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d06"
+  },
+  "SalesOrderVehicleId": 207,
+  "CustomerId": 21,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB207",
+  "SaleOrderDate": "2018-01-02",
+  "TotalSalePrice": 62500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4932161",
+  "SysEndTime": "2022-12-15T20:32:14.4932161",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d07"
+  },
+  "SalesOrderVehicleId": 208,
+  "CustomerId": 26,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB208",
+  "SaleOrderDate": "2018-01-02",
+  "TotalSalePrice": 42500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4932161",
+  "SysEndTime": "2022-12-15T20:32:14.4932161",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d08"
+  },
+  "SalesOrderVehicleId": 209,
+  "CustomerId": 51,
+  "StaffId": 1,
+  "InvoiceNumber": "USDUS209",
+  "SaleOrderDate": "2018-01-02",
+  "TotalSalePrice": 65450,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4932161",
+  "SysEndTime": "2022-12-15T20:32:14.4932161",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d09"
+  },
+  "SalesOrderVehicleId": 210,
+  "CustomerId": 52,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB210",
+  "SaleOrderDate": "2018-01-02",
+  "TotalSalePrice": 56950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4973425",
+  "SysEndTime": "2022-12-15T20:32:14.4973425",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d0a"
+  },
+  "SalesOrderVehicleId": 211,
+  "CustomerId": 53,
+  "StaffId": 3,
+  "InvoiceNumber": "EURFR211",
+  "SaleOrderDate": "2018-01-05",
+  "TotalSalePrice": 1950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4973425",
+  "SysEndTime": "2022-12-15T20:32:14.4973425",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d0b"
+  },
+  "SalesOrderVehicleId": 212,
+  "CustomerId": 54,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB212",
+  "SaleOrderDate": "2018-01-05",
+  "TotalSalePrice": 1150,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4973425",
+  "SysEndTime": "2022-12-15T20:32:14.4973425",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d0c"
+  },
+  "SalesOrderVehicleId": 213,
+  "CustomerId": 55,
+  "StaffId": 5,
+  "InvoiceNumber": "EURDE213",
+  "SaleOrderDate": "2018-01-05",
+  "TotalSalePrice": 11550,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4973425",
+  "SysEndTime": "2022-12-15T20:32:14.4973425",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d0d"
+  },
+  "SalesOrderVehicleId": 214,
+  "CustomerId": 45,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB214",
+  "SaleOrderDate": "2018-01-05",
+  "TotalSalePrice": 12570,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.4973425",
+  "SysEndTime": "2022-12-15T20:32:14.4973425",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d0e"
+  },
+  "SalesOrderVehicleId": 215,
+  "CustomerId": 46,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR215",
+  "SaleOrderDate": "2018-01-05",
+  "TotalSalePrice": 9890,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5014353",
+  "SysEndTime": "2022-12-15T20:32:14.5014353",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d0f"
+  },
+  "SalesOrderVehicleId": 216,
+  "CustomerId": 12,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB216",
+  "SaleOrderDate": "2018-01-10",
+  "TotalSalePrice": 56950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5014353",
+  "SysEndTime": "2022-12-15T20:32:14.5014353",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d10"
+  },
+  "SalesOrderVehicleId": 217,
+  "CustomerId": 32,
+  "StaffId": 9,
+  "InvoiceNumber": "EURES217",
+  "SaleOrderDate": "2018-01-10",
+  "TotalSalePrice": 45950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5014353",
+  "SysEndTime": "2022-12-15T20:32:14.5014353",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d11"
+  },
+  "SalesOrderVehicleId": 218,
+  "CustomerId": 49,
+  "StaffId": 10,
+  "InvoiceNumber": "EURBE218",
+  "SaleOrderDate": "2018-01-10",
+  "TotalSalePrice": 950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5014353",
+  "SysEndTime": "2022-12-15T20:32:14.5014353",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d12"
+  },
+  "SalesOrderVehicleId": 219,
+  "CustomerId": 35,
+  "StaffId": 11,
+  "InvoiceNumber": "EURFR219",
+  "SaleOrderDate": "2018-01-10",
+  "TotalSalePrice": 21550,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5014353",
+  "SysEndTime": "2022-12-15T20:32:14.5014353",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d13"
+  },
+  "SalesOrderVehicleId": 220,
+  "CustomerId": 21,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB220",
+  "SaleOrderDate": "2018-01-15",
+  "TotalSalePrice": 5950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5055274",
+  "SysEndTime": "2022-12-15T20:32:14.5055274",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d14"
+  },
+  "SalesOrderVehicleId": 221,
+  "CustomerId": 13,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR221",
+  "SaleOrderDate": "2018-01-15",
+  "TotalSalePrice": 355000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5055274",
+  "SysEndTime": "2022-12-15T20:32:14.5055274",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d15"
+  },
+  "SalesOrderVehicleId": 222,
+  "CustomerId": 8,
+  "StaffId": 1,
+  "InvoiceNumber": "EURFR222",
+  "SaleOrderDate": "2018-02-10",
+  "TotalSalePrice": 120000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5055274",
+  "SysEndTime": "2022-12-15T20:32:14.5055274",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d16"
+  },
+  "SalesOrderVehicleId": 223,
+  "CustomerId": 6,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPCH223",
+  "SaleOrderDate": "2018-02-11",
+  "TotalSalePrice": 121500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5055274",
+  "SysEndTime": "2022-12-15T20:32:14.5055274",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d17"
+  },
+  "SalesOrderVehicleId": 224,
+  "CustomerId": 9,
+  "StaffId": 3,
+  "InvoiceNumber": "USDUS224",
+  "SaleOrderDate": "2018-02-12",
+  "TotalSalePrice": 182500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5096072",
+  "SysEndTime": "2022-12-15T20:32:14.5096072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d18"
+  },
+  "SalesOrderVehicleId": 225,
+  "CustomerId": 56,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB225",
+  "SaleOrderDate": "2018-02-13",
+  "TotalSalePrice": 22500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5096072",
+  "SysEndTime": "2022-12-15T20:32:14.5096072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d19"
+  },
+  "SalesOrderVehicleId": 226,
+  "CustomerId": 57,
+  "StaffId": 5,
+  "InvoiceNumber": "EURFR226",
+  "SaleOrderDate": "2018-02-14",
+  "TotalSalePrice": 21500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5096072",
+  "SysEndTime": "2022-12-15T20:32:14.5096072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d1a"
+  },
+  "SalesOrderVehicleId": 227,
+  "CustomerId": 46,
+  "StaffId": 6,
+  "InvoiceNumber": "EURFR227",
+  "SaleOrderDate": "2018-02-17",
+  "TotalSalePrice": 189500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5096072",
+  "SysEndTime": "2022-12-15T20:32:14.5096072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d1b"
+  },
+  "SalesOrderVehicleId": 228,
+  "CustomerId": 58,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPCH228",
+  "SaleOrderDate": "2018-02-17",
+  "TotalSalePrice": 55450,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5096072",
+  "SysEndTime": "2022-12-15T20:32:14.5096072",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d1c"
+  },
+  "SalesOrderVehicleId": 229,
+  "CustomerId": 59,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB229",
+  "SaleOrderDate": "2018-02-17",
+  "TotalSalePrice": 98950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5136843",
+  "SysEndTime": "2022-12-15T20:32:14.5136843",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d1d"
+  },
+  "SalesOrderVehicleId": 230,
+  "CustomerId": 60,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB230",
+  "SaleOrderDate": "2018-02-17",
+  "TotalSalePrice": 355000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5136843",
+  "SysEndTime": "2022-12-15T20:32:14.5136843",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d1e"
+  },
+  "SalesOrderVehicleId": 231,
+  "CustomerId": 28,
+  "StaffId": 10,
+  "InvoiceNumber": "EURFR231",
+  "SaleOrderDate": "2018-03-05",
+  "TotalSalePrice": 6000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5136843",
+  "SysEndTime": "2022-12-15T20:32:14.5136843",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d1f"
+  },
+  "SalesOrderVehicleId": 232,
+  "CustomerId": 39,
+  "StaffId": 11,
+  "InvoiceNumber": "EURES232",
+  "SaleOrderDate": "2018-03-05",
+  "TotalSalePrice": 5690,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5136843",
+  "SysEndTime": "2022-12-15T20:32:14.5136843",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d20"
+  },
+  "SalesOrderVehicleId": 233,
+  "CustomerId": 17,
+  "StaffId": 12,
+  "InvoiceNumber": "USDUS233",
+  "SaleOrderDate": "2018-03-08",
+  "TotalSalePrice": 56900,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5177818",
+  "SysEndTime": "2022-12-15T20:32:14.5177818",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d21"
+  },
+  "SalesOrderVehicleId": 234,
+  "CustomerId": 48,
+  "StaffId": 7,
+  "InvoiceNumber": "EURES234",
+  "SaleOrderDate": "2018-03-08",
+  "TotalSalePrice": 368000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5177818",
+  "SysEndTime": "2022-12-15T20:32:14.5177818",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d22"
+  },
+  "SalesOrderVehicleId": 235,
+  "CustomerId": 46,
+  "StaffId": 1,
+  "InvoiceNumber": "EURFR235",
+  "SaleOrderDate": "2018-03-15",
+  "TotalSalePrice": 310000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5177818",
+  "SysEndTime": "2022-12-15T20:32:14.5177818",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d23"
+  },
+  "SalesOrderVehicleId": 236,
+  "CustomerId": 45,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB236",
+  "SaleOrderDate": "2018-03-19",
+  "TotalSalePrice": 9800,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5177818",
+  "SysEndTime": "2022-12-15T20:32:14.5177818",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d24"
+  },
+  "SalesOrderVehicleId": 237,
+  "CustomerId": 39,
+  "StaffId": 3,
+  "InvoiceNumber": "EURES237",
+  "SaleOrderDate": "2018-04-02",
+  "TotalSalePrice": 15950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5218573",
+  "SysEndTime": "2022-12-15T20:32:14.5218573",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d25"
+  },
+  "SalesOrderVehicleId": 238,
+  "CustomerId": 31,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB238",
+  "SaleOrderDate": "2018-04-09",
+  "TotalSalePrice": 267950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5218573",
+  "SysEndTime": "2022-12-15T20:32:14.5218573",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d26"
+  },
+  "SalesOrderVehicleId": 239,
+  "CustomerId": 25,
+  "StaffId": 5,
+  "InvoiceNumber": "GBPGB239",
+  "SaleOrderDate": "2018-04-10",
+  "TotalSalePrice": 155000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5218573",
+  "SysEndTime": "2022-12-15T20:32:14.5218573",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d27"
+  },
+  "SalesOrderVehicleId": 240,
+  "CustomerId": 36,
+  "StaffId": 6,
+  "InvoiceNumber": "USDUS240",
+  "SaleOrderDate": "2018-04-11",
+  "TotalSalePrice": 2500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5218573",
+  "SysEndTime": "2022-12-15T20:32:14.5218573",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d28"
+  },
+  "SalesOrderVehicleId": 241,
+  "CustomerId": 28,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR241",
+  "SaleOrderDate": "2018-04-15",
+  "TotalSalePrice": 9950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5259321",
+  "SysEndTime": "2022-12-15T20:32:14.5259321",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d29"
+  },
+  "SalesOrderVehicleId": 242,
+  "CustomerId": 36,
+  "StaffId": 8,
+  "InvoiceNumber": "USDUS242",
+  "SaleOrderDate": "2018-04-15",
+  "TotalSalePrice": 39500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5259321",
+  "SysEndTime": "2022-12-15T20:32:14.5259321",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d2a"
+  },
+  "SalesOrderVehicleId": 243,
+  "CustomerId": 38,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB243",
+  "SaleOrderDate": "2018-04-15",
+  "TotalSalePrice": 23500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5259321",
+  "SysEndTime": "2022-12-15T20:32:14.5259321",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d2b"
+  },
+  "SalesOrderVehicleId": 244,
+  "CustomerId": 39,
+  "StaffId": 10,
+  "InvoiceNumber": "EURES244",
+  "SaleOrderDate": "2018-04-15",
+  "TotalSalePrice": 45950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5259321",
+  "SysEndTime": "2022-12-15T20:32:14.5259321",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d2c"
+  },
+  "SalesOrderVehicleId": 245,
+  "CustomerId": 51,
+  "StaffId": 11,
+  "InvoiceNumber": "USDUS245",
+  "SaleOrderDate": "2018-04-15",
+  "TotalSalePrice": 55000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5300158",
+  "SysEndTime": "2022-12-15T20:32:14.5300158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d2d"
+  },
+  "SalesOrderVehicleId": 246,
+  "CustomerId": 56,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB246",
+  "SaleOrderDate": "2018-04-20",
+  "TotalSalePrice": 100000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5300158",
+  "SysEndTime": "2022-12-15T20:32:14.5300158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d2e"
+  },
+  "SalesOrderVehicleId": 247,
+  "CustomerId": 61,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB247",
+  "SaleOrderDate": "2018-04-20",
+  "TotalSalePrice": 44885,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5300158",
+  "SysEndTime": "2022-12-15T20:32:14.5300158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d2f"
+  },
+  "SalesOrderVehicleId": 248,
+  "CustomerId": 62,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB248",
+  "SaleOrderDate": "2018-04-22",
+  "TotalSalePrice": 61500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5300158",
+  "SysEndTime": "2022-12-15T20:32:14.5300158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d30"
+  },
+  "SalesOrderVehicleId": 249,
+  "CustomerId": 52,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB249",
+  "SaleOrderDate": "2018-04-23",
+  "TotalSalePrice": 950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5341080",
+  "SysEndTime": "2022-12-15T20:32:14.5341080",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d31"
+  },
+  "SalesOrderVehicleId": 250,
+  "CustomerId": 63,
+  "StaffId": 3,
+  "InvoiceNumber": "EURIT250",
+  "SaleOrderDate": "2018-04-24",
+  "TotalSalePrice": 195000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5341080",
+  "SysEndTime": "2022-12-15T20:32:14.5341080",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d32"
+  },
+  "SalesOrderVehicleId": 251,
+  "CustomerId": 64,
+  "StaffId": 4,
+  "InvoiceNumber": "EURES251",
+  "SaleOrderDate": "2018-04-29",
+  "TotalSalePrice": 52500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5341080",
+  "SysEndTime": "2022-12-15T20:32:14.5341080",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d33"
+  },
+  "SalesOrderVehicleId": 252,
+  "CustomerId": 3,
+  "StaffId": 5,
+  "InvoiceNumber": "GBPGB252",
+  "SaleOrderDate": "2018-05-03",
+  "TotalSalePrice": 1350,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5341080",
+  "SysEndTime": "2022-12-15T20:32:14.5341080",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d34"
+  },
+  "SalesOrderVehicleId": 253,
+  "CustomerId": 21,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB253",
+  "SaleOrderDate": "2018-05-03",
+  "TotalSalePrice": 2495,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5381806",
+  "SysEndTime": "2022-12-15T20:32:14.5381806",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d35"
+  },
+  "SalesOrderVehicleId": 254,
+  "CustomerId": 35,
+  "StaffId": 7,
+  "InvoiceNumber": "EURFR254",
+  "SaleOrderDate": "2018-05-15",
+  "TotalSalePrice": 269500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5381806",
+  "SysEndTime": "2022-12-15T20:32:14.5381806",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d36"
+  },
+  "SalesOrderVehicleId": 255,
+  "CustomerId": 65,
+  "StaffId": 8,
+  "InvoiceNumber": "USDUS255",
+  "SaleOrderDate": "2018-05-15",
+  "TotalSalePrice": 195000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Exceptional",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5381806",
+  "SysEndTime": "2022-12-15T20:32:14.5381806",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d37"
+  },
+  "SalesOrderVehicleId": 256,
+  "CustomerId": 66,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB256",
+  "SaleOrderDate": "2018-05-23",
+  "TotalSalePrice": 25950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5381806",
+  "SysEndTime": "2022-12-15T20:32:14.5381806",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d38"
+  },
+  "SalesOrderVehicleId": 257,
+  "CustomerId": 61,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB257",
+  "SaleOrderDate": "2018-05-23",
+  "TotalSalePrice": 9990,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5381806",
+  "SysEndTime": "2022-12-15T20:32:14.5381806",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d39"
+  },
+  "SalesOrderVehicleId": 258,
+  "CustomerId": 63,
+  "StaffId": 11,
+  "InvoiceNumber": "EURIT258",
+  "SaleOrderDate": "2018-05-25",
+  "TotalSalePrice": 135000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5422505",
+  "SysEndTime": "2022-12-15T20:32:14.5422505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d3a"
+  },
+  "SalesOrderVehicleId": 259,
+  "CustomerId": 62,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB259",
+  "SaleOrderDate": "2018-05-25",
+  "TotalSalePrice": 1250,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5422505",
+  "SysEndTime": "2022-12-15T20:32:14.5422505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d3b"
+  },
+  "SalesOrderVehicleId": 260,
+  "CustomerId": 66,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB260",
+  "SaleOrderDate": "2018-05-25",
+  "TotalSalePrice": 6590,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5422505",
+  "SysEndTime": "2022-12-15T20:32:14.5422505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d3c"
+  },
+  "SalesOrderVehicleId": 261,
+  "CustomerId": 35,
+  "StaffId": 1,
+  "InvoiceNumber": "EURFR261",
+  "SaleOrderDate": "2018-05-25",
+  "TotalSalePrice": 89500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5422505",
+  "SysEndTime": "2022-12-15T20:32:14.5422505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d3d"
+  },
+  "SalesOrderVehicleId": 262,
+  "CustomerId": 31,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB262",
+  "SaleOrderDate": "2018-05-25",
+  "TotalSalePrice": 18500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5422505",
+  "SysEndTime": "2022-12-15T20:32:14.5422505",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d3e"
+  },
+  "SalesOrderVehicleId": 263,
+  "CustomerId": 24,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPCH263",
+  "SaleOrderDate": "2018-06-03",
+  "TotalSalePrice": 3575,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5463353",
+  "SysEndTime": "2022-12-15T20:32:14.5463353",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d3f"
+  },
+  "SalesOrderVehicleId": 264,
+  "CustomerId": 67,
+  "StaffId": 4,
+  "InvoiceNumber": "EURBE264",
+  "SaleOrderDate": "2018-06-03",
+  "TotalSalePrice": 6950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5463353",
+  "SysEndTime": "2022-12-15T20:32:14.5463353",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d40"
+  },
+  "SalesOrderVehicleId": 265,
+  "CustomerId": 2,
+  "StaffId": 5,
+  "InvoiceNumber": "GBPGB265",
+  "SaleOrderDate": "2018-06-16",
+  "TotalSalePrice": 26500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5463353",
+  "SysEndTime": "2022-12-15T20:32:14.5463353",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d41"
+  },
+  "SalesOrderVehicleId": 266,
+  "CustomerId": 68,
+  "StaffId": 6,
+  "InvoiceNumber": "USDUS266",
+  "SaleOrderDate": "2018-06-18",
+  "TotalSalePrice": 33500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5504215",
+  "SysEndTime": "2022-12-15T20:32:14.5504215",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d42"
+  },
+  "SalesOrderVehicleId": 267,
+  "CustomerId": 12,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB267",
+  "SaleOrderDate": "2018-06-22",
+  "TotalSalePrice": 24500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5504215",
+  "SysEndTime": "2022-12-15T20:32:14.5504215",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d43"
+  },
+  "SalesOrderVehicleId": 268,
+  "CustomerId": 25,
+  "StaffId": 8,
+  "InvoiceNumber": "GBPGB268",
+  "SaleOrderDate": "2018-06-23",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5504215",
+  "SysEndTime": "2022-12-15T20:32:14.5504215",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d44"
+  },
+  "SalesOrderVehicleId": 269,
+  "CustomerId": 38,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB269",
+  "SaleOrderDate": "2018-07-05",
+  "TotalSalePrice": 99990,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5504215",
+  "SysEndTime": "2022-12-15T20:32:14.5504215",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d45"
+  },
+  "SalesOrderVehicleId": 270,
+  "CustomerId": 69,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB270",
+  "SaleOrderDate": "2018-07-10",
+  "TotalSalePrice": 6950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5504215",
+  "SysEndTime": "2022-12-15T20:32:14.5504215",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d46"
+  },
+  "SalesOrderVehicleId": 271,
+  "CustomerId": 70,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB271",
+  "SaleOrderDate": "2018-07-15",
+  "TotalSalePrice": 10500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5544910",
+  "SysEndTime": "2022-12-15T20:32:14.5544910",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d47"
+  },
+  "SalesOrderVehicleId": 272,
+  "CustomerId": 62,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB272",
+  "SaleOrderDate": "2018-07-25",
+  "TotalSalePrice": 33450,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5544910",
+  "SysEndTime": "2022-12-15T20:32:14.5544910",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d48"
+  },
+  "SalesOrderVehicleId": 273,
+  "CustomerId": 54,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB273",
+  "SaleOrderDate": "2018-07-25",
+  "TotalSalePrice": 72500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5544910",
+  "SysEndTime": "2022-12-15T20:32:14.5544910",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d49"
+  },
+  "SalesOrderVehicleId": 274,
+  "CustomerId": 71,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB274",
+  "SaleOrderDate": "2018-07-30",
+  "TotalSalePrice": 2400,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5544910",
+  "SysEndTime": "2022-12-15T20:32:14.5544910",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d4a"
+  },
+  "SalesOrderVehicleId": 275,
+  "CustomerId": 72,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB275",
+  "SaleOrderDate": "2018-07-30",
+  "TotalSalePrice": 68500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5585656",
+  "SysEndTime": "2022-12-15T20:32:14.5585656",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d4b"
+  },
+  "SalesOrderVehicleId": 276,
+  "CustomerId": 6,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPCH276",
+  "SaleOrderDate": "2018-07-30",
+  "TotalSalePrice": 2350,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5585656",
+  "SysEndTime": "2022-12-15T20:32:14.5585656",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d4c"
+  },
+  "SalesOrderVehicleId": 277,
+  "CustomerId": 56,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB277",
+  "SaleOrderDate": "2018-07-30",
+  "TotalSalePrice": 18500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5585656",
+  "SysEndTime": "2022-12-15T20:32:14.5585656",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d4d"
+  },
+  "SalesOrderVehicleId": 278,
+  "CustomerId": 73,
+  "StaffId": 5,
+  "InvoiceNumber": "GBPGB278",
+  "SaleOrderDate": "2018-07-31",
+  "TotalSalePrice": 5500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5585656",
+  "SysEndTime": "2022-12-15T20:32:14.5585656",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d4e"
+  },
+  "SalesOrderVehicleId": 279,
+  "CustomerId": 74,
+  "StaffId": 6,
+  "InvoiceNumber": "EURES279",
+  "SaleOrderDate": "2018-07-31",
+  "TotalSalePrice": 128500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5626326",
+  "SysEndTime": "2022-12-15T20:32:14.5626326",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d4f"
+  },
+  "SalesOrderVehicleId": 280,
+  "CustomerId": 65,
+  "StaffId": 7,
+  "InvoiceNumber": "USDUS280",
+  "SaleOrderDate": "2018-07-31",
+  "TotalSalePrice": 55000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5626326",
+  "SysEndTime": "2022-12-15T20:32:14.5626326",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d50"
+  },
+  "SalesOrderVehicleId": 281,
+  "CustomerId": 63,
+  "StaffId": 8,
+  "InvoiceNumber": "EURIT281",
+  "SaleOrderDate": "2018-07-31",
+  "TotalSalePrice": 1250,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5626326",
+  "SysEndTime": "2022-12-15T20:32:14.5626326",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d51"
+  },
+  "SalesOrderVehicleId": 282,
+  "CustomerId": 75,
+  "StaffId": 9,
+  "InvoiceNumber": "EURFR282",
+  "SaleOrderDate": "2018-07-31",
+  "TotalSalePrice": 345000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Sales Category has no Description.",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5626326",
+  "SysEndTime": "2022-12-15T20:32:14.5626326",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d52"
+  },
+  "SalesOrderVehicleId": 283,
+  "CustomerId": 76,
+  "StaffId": 10,
+  "InvoiceNumber": "EURIT283",
+  "SaleOrderDate": "2018-07-31",
+  "TotalSalePrice": 82590,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5626326",
+  "SysEndTime": "2022-12-15T20:32:14.5626326",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d53"
+  },
+  "SalesOrderVehicleId": 284,
+  "CustomerId": 77,
+  "StaffId": 11,
+  "InvoiceNumber": "USDUS284",
+  "SaleOrderDate": "2018-08-01",
+  "TotalSalePrice": 113590,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5668208",
+  "SysEndTime": "2022-12-15T20:32:14.5668208",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d54"
+  },
+  "SalesOrderVehicleId": 285,
+  "CustomerId": 65,
+  "StaffId": 12,
+  "InvoiceNumber": "USDUS285",
+  "SaleOrderDate": "2018-08-01",
+  "TotalSalePrice": 45000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5668208",
+  "SysEndTime": "2022-12-15T20:32:14.5668208",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d55"
+  },
+  "SalesOrderVehicleId": 286,
+  "CustomerId": 64,
+  "StaffId": 7,
+  "InvoiceNumber": "EURES286",
+  "SaleOrderDate": "2018-08-01",
+  "TotalSalePrice": 57600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5668208",
+  "SysEndTime": "2022-12-15T20:32:14.5668208",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d56"
+  },
+  "SalesOrderVehicleId": 287,
+  "CustomerId": 45,
+  "StaffId": 1,
+  "InvoiceNumber": "GBPGB287",
+  "SaleOrderDate": "2018-08-01",
+  "TotalSalePrice": 102500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5668208",
+  "SysEndTime": "2022-12-15T20:32:14.5668208",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d57"
+  },
+  "SalesOrderVehicleId": 288,
+  "CustomerId": 54,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB288",
+  "SaleOrderDate": "2018-08-10",
+  "TotalSalePrice": 39500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5708886",
+  "SysEndTime": "2022-12-15T20:32:14.5708886",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d58"
+  },
+  "SalesOrderVehicleId": 289,
+  "CustomerId": 78,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB289",
+  "SaleOrderDate": "2018-08-11",
+  "TotalSalePrice": 61550,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5708886",
+  "SysEndTime": "2022-12-15T20:32:14.5708886",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d59"
+  },
+  "SalesOrderVehicleId": 290,
+  "CustomerId": 79,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB290",
+  "SaleOrderDate": "2018-08-15",
+  "TotalSalePrice": 55000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5708886",
+  "SysEndTime": "2022-12-15T20:32:14.5708886",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d5a"
+  },
+  "SalesOrderVehicleId": 291,
+  "CustomerId": 80,
+  "StaffId": 5,
+  "InvoiceNumber": "EURDE291",
+  "SaleOrderDate": "2018-08-16",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5708886",
+  "SysEndTime": "2022-12-15T20:32:14.5708886",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d5b"
+  },
+  "SalesOrderVehicleId": 292,
+  "CustomerId": 6,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPCH292",
+  "SaleOrderDate": "2018-08-18",
+  "TotalSalePrice": 56800,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5708886",
+  "SysEndTime": "2022-12-15T20:32:14.5708886",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d5c"
+  },
+  "SalesOrderVehicleId": 293,
+  "CustomerId": 36,
+  "StaffId": 7,
+  "InvoiceNumber": "USDUS293",
+  "SaleOrderDate": "2018-09-01",
+  "TotalSalePrice": 89500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5749623",
+  "SysEndTime": "2022-12-15T20:32:14.5749623",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d5d"
+  },
+  "SalesOrderVehicleId": 294,
+  "CustomerId": 16,
+  "StaffId": 8,
+  "InvoiceNumber": "EURFR294",
+  "SaleOrderDate": "2018-09-01",
+  "TotalSalePrice": 72500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5749623",
+  "SysEndTime": "2022-12-15T20:32:14.5749623",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d5e"
+  },
+  "SalesOrderVehicleId": 295,
+  "CustomerId": 14,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB295",
+  "SaleOrderDate": "2018-09-01",
+  "TotalSalePrice": 56950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5749623",
+  "SysEndTime": "2022-12-15T20:32:14.5749623",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d5f"
+  },
+  "SalesOrderVehicleId": 296,
+  "CustomerId": 56,
+  "StaffId": 10,
+  "InvoiceNumber": "GBPGB296",
+  "SaleOrderDate": "2018-09-04",
+  "TotalSalePrice": 62500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5749623",
+  "SysEndTime": "2022-12-15T20:32:14.5749623",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d60"
+  },
+  "SalesOrderVehicleId": 297,
+  "CustomerId": 48,
+  "StaffId": 11,
+  "InvoiceNumber": "EURES297",
+  "SaleOrderDate": "2018-09-04",
+  "TotalSalePrice": 56890,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5790448",
+  "SysEndTime": "2022-12-15T20:32:14.5790448",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d61"
+  },
+  "SalesOrderVehicleId": 298,
+  "CustomerId": 57,
+  "StaffId": 12,
+  "InvoiceNumber": "EURFR298",
+  "SaleOrderDate": "2018-09-08",
+  "TotalSalePrice": 33600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5790448",
+  "SysEndTime": "2022-12-15T20:32:14.5790448",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d62"
+  },
+  "SalesOrderVehicleId": 299,
+  "CustomerId": 81,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB299",
+  "SaleOrderDate": "2018-09-08",
+  "TotalSalePrice": 30500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5790448",
+  "SysEndTime": "2022-12-15T20:32:14.5790448",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d63"
+  },
+  "SalesOrderVehicleId": 300,
+  "CustomerId": 82,
+  "StaffId": 1,
+  "InvoiceNumber": "EURFR300",
+  "SaleOrderDate": "2018-09-15",
+  "TotalSalePrice": 50500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5790448",
+  "SysEndTime": "2022-12-15T20:32:14.5790448",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d64"
+  },
+  "SalesOrderVehicleId": 301,
+  "CustomerId": 78,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPGB301",
+  "SaleOrderDate": "2018-09-15",
+  "TotalSalePrice": 39500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5831229",
+  "SysEndTime": "2022-12-15T20:32:14.5831229",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d65"
+  },
+  "SalesOrderVehicleId": 302,
+  "CustomerId": 76,
+  "StaffId": 3,
+  "InvoiceNumber": "EURIT302",
+  "SaleOrderDate": "2018-09-15",
+  "TotalSalePrice": 12500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5831229",
+  "SysEndTime": "2022-12-15T20:32:14.5831229",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d66"
+  },
+  "SalesOrderVehicleId": 303,
+  "CustomerId": 69,
+  "StaffId": 4,
+  "InvoiceNumber": "GBPGB303",
+  "SaleOrderDate": "2018-10-02",
+  "TotalSalePrice": 5600,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5831229",
+  "SysEndTime": "2022-12-15T20:32:14.5831229",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d67"
+  },
+  "SalesOrderVehicleId": 304,
+  "CustomerId": 83,
+  "StaffId": 5,
+  "InvoiceNumber": "EURFR304",
+  "SaleOrderDate": "2018-10-02",
+  "TotalSalePrice": 69500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5831229",
+  "SysEndTime": "2022-12-15T20:32:14.5831229",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d68"
+  },
+  "SalesOrderVehicleId": 305,
+  "CustomerId": 84,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPCH305",
+  "SaleOrderDate": "2018-10-02",
+  "TotalSalePrice": 45000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5872141",
+  "SysEndTime": "2022-12-15T20:32:14.5872141",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d69"
+  },
+  "SalesOrderVehicleId": 306,
+  "CustomerId": 65,
+  "StaffId": 7,
+  "InvoiceNumber": "USDUS306",
+  "SaleOrderDate": "2018-10-31",
+  "TotalSalePrice": 56990,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5872141",
+  "SysEndTime": "2022-12-15T20:32:14.5872141",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d6a"
+  },
+  "SalesOrderVehicleId": 307,
+  "CustomerId": 77,
+  "StaffId": 8,
+  "InvoiceNumber": "USDUS307",
+  "SaleOrderDate": "2018-10-31",
+  "TotalSalePrice": 86500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5872141",
+  "SysEndTime": "2022-12-15T20:32:14.5872141",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d6b"
+  },
+  "SalesOrderVehicleId": 308,
+  "CustomerId": 85,
+  "StaffId": 9,
+  "InvoiceNumber": "GBPGB308",
+  "SaleOrderDate": "2018-10-31",
+  "TotalSalePrice": 17850,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5872141",
+  "SysEndTime": "2022-12-15T20:32:14.5872141",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d6c"
+  },
+  "SalesOrderVehicleId": 309,
+  "CustomerId": 86,
+  "StaffId": 10,
+  "InvoiceNumber": "EURFR309",
+  "SaleOrderDate": "2018-10-31",
+  "TotalSalePrice": 25950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5872141",
+  "SysEndTime": "2022-12-15T20:32:14.5872141",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d6d"
+  },
+  "SalesOrderVehicleId": 310,
+  "CustomerId": 87,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB310",
+  "SaleOrderDate": "2018-10-31",
+  "TotalSalePrice": 29500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5912921",
+  "SysEndTime": "2022-12-15T20:32:14.5912921",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d6e"
+  },
+  "SalesOrderVehicleId": 311,
+  "CustomerId": 5,
+  "StaffId": 12,
+  "InvoiceNumber": "EURFR311",
+  "SaleOrderDate": "2018-10-31",
+  "TotalSalePrice": 59000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5912921",
+  "SysEndTime": "2022-12-15T20:32:14.5912921",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d6f"
+  },
+  "SalesOrderVehicleId": 312,
+  "CustomerId": 65,
+  "StaffId": 7,
+  "InvoiceNumber": "USDUS312",
+  "SaleOrderDate": "2018-10-31",
+  "TotalSalePrice": 9500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5912921",
+  "SysEndTime": "2022-12-15T20:32:14.5912921",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d70"
+  },
+  "SalesOrderVehicleId": 313,
+  "CustomerId": 35,
+  "StaffId": 1,
+  "InvoiceNumber": "EURFR313",
+  "SaleOrderDate": "2018-11-02",
+  "TotalSalePrice": 8900,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5912921",
+  "SysEndTime": "2022-12-15T20:32:14.5912921",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d71"
+  },
+  "SalesOrderVehicleId": 314,
+  "CustomerId": 24,
+  "StaffId": 2,
+  "InvoiceNumber": "GBPCH314",
+  "SaleOrderDate": "2018-11-15",
+  "TotalSalePrice": 11590,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5953665",
+  "SysEndTime": "2022-12-15T20:32:14.5953665",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d72"
+  },
+  "SalesOrderVehicleId": 315,
+  "CustomerId": 19,
+  "StaffId": 3,
+  "InvoiceNumber": "GBPGB315",
+  "SaleOrderDate": "2018-11-22",
+  "TotalSalePrice": 8500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5953665",
+  "SysEndTime": "2022-12-15T20:32:14.5953665",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d73"
+  },
+  "SalesOrderVehicleId": 316,
+  "CustomerId": 20,
+  "StaffId": 4,
+  "InvoiceNumber": "USDUS316",
+  "SaleOrderDate": "2018-12-05",
+  "TotalSalePrice": 59500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5953665",
+  "SysEndTime": "2022-12-15T20:32:14.5953665",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d74"
+  },
+  "SalesOrderVehicleId": 317,
+  "CustomerId": 40,
+  "StaffId": 5,
+  "InvoiceNumber": "EURIT317",
+  "SaleOrderDate": "2018-12-05",
+  "TotalSalePrice": 123500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5953665",
+  "SysEndTime": "2022-12-15T20:32:14.5953665",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d75"
+  },
+  "SalesOrderVehicleId": 318,
+  "CustomerId": 60,
+  "StaffId": 6,
+  "InvoiceNumber": "GBPGB318",
+  "SaleOrderDate": "2018-12-08",
+  "TotalSalePrice": 99500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5994344",
+  "SysEndTime": "2022-12-15T20:32:14.5994344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d76"
+  },
+  "SalesOrderVehicleId": 319,
+  "CustomerId": 59,
+  "StaffId": 7,
+  "InvoiceNumber": "GBPGB319",
+  "SaleOrderDate": "2018-12-08",
+  "TotalSalePrice": 56090,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Medium",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5994344",
+  "SysEndTime": "2022-12-15T20:32:14.5994344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d77"
+  },
+  "SalesOrderVehicleId": 320,
+  "CustomerId": 48,
+  "StaffId": 8,
+  "InvoiceNumber": "EURES320",
+  "SaleOrderDate": "2018-12-16",
+  "TotalSalePrice": 11500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5994344",
+  "SysEndTime": "2022-12-15T20:32:14.5994344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d78"
+  },
+  "SalesOrderVehicleId": 321,
+  "CustomerId": 36,
+  "StaffId": 9,
+  "InvoiceNumber": "USDUS321",
+  "SaleOrderDate": "2018-12-17",
+  "TotalSalePrice": 17950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5994344",
+  "SysEndTime": "2022-12-15T20:32:14.5994344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d79"
+  },
+  "SalesOrderVehicleId": 322,
+  "CustomerId": 35,
+  "StaffId": 10,
+  "InvoiceNumber": "EURFR322",
+  "SaleOrderDate": "2018-12-31",
+  "TotalSalePrice": 5500,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.5994344",
+  "SysEndTime": "2022-12-15T20:32:14.5994344",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d7a"
+  },
+  "SalesOrderVehicleId": 323,
+  "CustomerId": 30,
+  "StaffId": 11,
+  "InvoiceNumber": "GBPGB323",
+  "SaleOrderDate": "2018-12-31",
+  "TotalSalePrice": 950,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very Low",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6035065",
+  "SysEndTime": "2022-12-15T20:32:14.6035065",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9105bbe8780faf0d7b"
+  },
+  "SalesOrderVehicleId": 324,
+  "CustomerId": 87,
+  "StaffId": 12,
+  "InvoiceNumber": "GBPGB324",
+  "SaleOrderDate": "2018-12-31",
+  "TotalSalePrice": 145000,
+  "TotalCost": 0,
+  "SalesCategoryDescription": "Very High",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6035065",
+  "SysEndTime": "2022-12-15T20:32:14.6035065",
+  "UserAuthenticatedKey": null
+}]

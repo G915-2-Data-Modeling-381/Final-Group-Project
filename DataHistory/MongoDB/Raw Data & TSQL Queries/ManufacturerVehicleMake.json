@@ -1,0 +1,262 @@
+[
+    {
+        "ManufacturerVehicleMakeId": 1,
+        "ManufacturerVehicleMakeName": "Ferrari",
+        "CountryId": 9,
+        "MarketingType": "Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5078684",
+        "SysEndTime": "2022-12-15T20:32:13.5078684",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 2,
+        "ManufacturerVehicleMakeName": "Porsche",
+        "CountryId": 4,
+        "MarketingType": "Sports,Tourer",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5119732",
+        "SysEndTime": "2022-12-15T20:32:13.5119732",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 3,
+        "ManufacturerVehicleMakeName": "Lamborghini",
+        "CountryId": 9,
+        "MarketingType": "Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5119732",
+        "SysEndTime": "2022-12-15T20:32:13.5119732",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 4,
+        "ManufacturerVehicleMakeName": "Aston Martin",
+        "CountryId": 7,
+        "MarketingType": "Sports,Tourer",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5119732",
+        "SysEndTime": "2022-12-15T20:32:13.5119732",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 5,
+        "ManufacturerVehicleMakeName": "Bentley",
+        "CountryId": 7,
+        "MarketingType": "Tourer,Chauffer,Prestige",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5160471",
+        "SysEndTime": "2022-12-15T20:32:13.5160471",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 6,
+        "ManufacturerVehicleMakeName": "Rolls Royce",
+        "CountryId": 7,
+        "MarketingType": "Chauffer,Prestige",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5160471",
+        "SysEndTime": "2022-12-15T20:32:13.5160471",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 7,
+        "ManufacturerVehicleMakeName": "Maybach",
+        "CountryId": 4,
+        "MarketingType": "Chauffer,Prestige",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5160471",
+        "SysEndTime": "2022-12-15T20:32:13.5160471",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 8,
+        "ManufacturerVehicleMakeName": "Mercedes",
+        "CountryId": 4,
+        "MarketingType": "Tourer,Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5201210",
+        "SysEndTime": "2022-12-15T20:32:13.5201210",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 9,
+        "ManufacturerVehicleMakeName": "Alfa Romeo",
+        "CountryId": 9,
+        "MarketingType": "Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5201210",
+        "SysEndTime": "2022-12-15T20:32:13.5201210",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 10,
+        "ManufacturerVehicleMakeName": "Austin",
+        "CountryId": 7,
+        "MarketingType": "Relic",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5201210",
+        "SysEndTime": "2022-12-15T20:32:13.5201210",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 11,
+        "ManufacturerVehicleMakeName": "BMW",
+        "CountryId": 4,
+        "MarketingType": "Sports,Tourer",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5201210",
+        "SysEndTime": "2022-12-15T20:32:13.5201210",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 12,
+        "ManufacturerVehicleMakeName": "Bugatti",
+        "CountryId": 6,
+        "MarketingType": "Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5201210",
+        "SysEndTime": "2022-12-15T20:32:13.5201210",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 13,
+        "ManufacturerVehicleMakeName": "Citroen",
+        "CountryId": 6,
+        "MarketingType": "Family",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5242135",
+        "SysEndTime": "2022-12-15T20:32:13.5242135",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 14,
+        "ManufacturerVehicleMakeName": "Delahaye",
+        "CountryId": 6,
+        "MarketingType": "Family",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5242135",
+        "SysEndTime": "2022-12-15T20:32:13.5242135",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 15,
+        "ManufacturerVehicleMakeName": "Delorean",
+        "CountryId": 10,
+        "MarketingType": "Sports,Family",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5242135",
+        "SysEndTime": "2022-12-15T20:32:13.5242135",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 16,
+        "ManufacturerVehicleMakeName": "Jaguar",
+        "CountryId": 7,
+        "MarketingType": "Sports,Family",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5242135",
+        "SysEndTime": "2022-12-15T20:32:13.5242135",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 17,
+        "ManufacturerVehicleMakeName": "Lagonda",
+        "CountryId": 9,
+        "MarketingType": "Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5283031",
+        "SysEndTime": "2022-12-15T20:32:13.5283031",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 18,
+        "ManufacturerVehicleMakeName": "McLaren",
+        "CountryId": 7,
+        "MarketingType": "Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5283031",
+        "SysEndTime": "2022-12-15T20:32:13.5283031",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 19,
+        "ManufacturerVehicleMakeName": "Morgan",
+        "CountryId": 7,
+        "MarketingType": "Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5283031",
+        "SysEndTime": "2022-12-15T20:32:13.5283031",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 20,
+        "ManufacturerVehicleMakeName": "Noble",
+        "CountryId": 7,
+        "MarketingType": "Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5283031",
+        "SysEndTime": "2022-12-15T20:32:13.5283031",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 21,
+        "ManufacturerVehicleMakeName": "Triumph",
+        "CountryId": 7,
+        "MarketingType": "Sports",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5323796",
+        "SysEndTime": "2022-12-15T20:32:13.5323796",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 22,
+        "ManufacturerVehicleMakeName": "Trabant",
+        "CountryId": 4,
+        "MarketingType": "Family",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5323796",
+        "SysEndTime": "2022-12-15T20:32:13.5323796",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 23,
+        "ManufacturerVehicleMakeName": "Peugeot",
+        "CountryId": 4,
+        "MarketingType": "Family",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5323796",
+        "SysEndTime": "2022-12-15T20:32:13.5323796",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 24,
+        "ManufacturerVehicleMakeName": "Reliant",
+        "CountryId": 6,
+        "MarketingType": "Family",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5323796",
+        "SysEndTime": "2022-12-15T20:32:13.5323796",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 25,
+        "ManufacturerVehicleMakeName": "Riley",
+        "CountryId": 7,
+        "MarketingType": "Family",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5323796",
+        "SysEndTime": "2022-12-15T20:32:13.5323796",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "ManufacturerVehicleMakeId": 26,
+        "ManufacturerVehicleMakeName": "Cadillac",
+        "CountryId": 10,
+        "MarketingType": "Family",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.5364511",
+        "SysEndTime": "2022-12-15T20:32:13.5364511",
+        "UserAuthenticatedKey": null
+    }
+]

@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "639bc16758590d57c11c4f67"
+  },
+  "UserAuthenticatedKey": 0,
+  "ClassTime": "at condimentum fringilla ",
+  "IndividualProject": "orci sodales ut ",
+  "GroupMemberLastName": "quam hendrerit erat ",
+  "GroupMemberFirstName": "non semper ",
+  "GroupName": "augue vel volutpat ",
+  "SysStartTime": {
+    "$date": "2022-12-16T00:52:55.161Z"
+  },
+  "SysEndTime": {
+    "$date": "2022-12-16T00:52:55.161Z"
+  }
+},{
+  "_id": {
+    "$oid": "639bc1bf05bbe8780faf0f26"
+  },
+  "UserAuthenticatedKey": 1,
+  "ClassTime": "9:15 ",
+  "IndividualProject": "CSCI381 Final Group Project",
+  "GroupMemberLastName": "Noa",
+  "GroupMemberFirstName": "Adrian",
+  "GroupName": "Data Migrater",
+  "SysStartTime": "2022-12-16T00:40:50.2921742",
+  "SysEndTime": "2022-12-16T00:40:50.2921742"
+},{
+  "_id": {
+    "$oid": "639bc1bf05bbe8780faf0f27"
+  },
+  "UserAuthenticatedKey": 2,
+  "ClassTime": "9:15 ",
+  "IndividualProject": "CSCI381 Final Group Project",
+  "GroupMemberLastName": "Garcha",
+  "GroupMemberFirstName": "Jasminder",
+  "GroupName": "Lead Designer & Editor",
+  "SysStartTime": "2022-12-16T00:40:50.2921742",
+  "SysEndTime": "2022-12-16T00:40:50.2921742"
+},{
+  "_id": {
+    "$oid": "639bc1bf05bbe8780faf0f28"
+  },
+  "UserAuthenticatedKey": 3,
+  "ClassTime": "9:15 ",
+  "IndividualProject": "CSCI381 Final Group Project",
+  "GroupMemberLastName": "Garcia",
+  "GroupMemberFirstName": "Amber",
+  "GroupName": "Project Manager & Comments",
+  "SysStartTime": "2022-12-16T00:40:50.2921742",
+  "SysEndTime": "2022-12-16T00:40:50.2921742"
+},{
+  "_id": {
+    "$oid": "639bc1bf05bbe8780faf0f29"
+  },
+  "UserAuthenticatedKey": 4,
+  "ClassTime": "9:15 ",
+  "IndividualProject": "CSCI381 Final Group Project",
+  "GroupMemberLastName": "Li",
+  "GroupMemberFirstName": "Wade",
+  "GroupName": "Support Designer",
+  "SysStartTime": "2022-12-16T00:40:50.2921742",
+  "SysEndTime": "2022-12-16T00:40:50.2921742"
+},{
+  "_id": {
+    "$oid": "639bc1bf05bbe8780faf0f2a"
+  },
+  "UserAuthenticatedKey": 5,
+  "ClassTime": "9:15 ",
+  "IndividualProject": "CSCI381 Final Group Project",
+  "GroupMemberLastName": "Vidal",
+  "GroupMemberFirstName": "Oliver",
+  "GroupName": "Video Editor",
+  "SysStartTime": "2022-12-16T00:40:50.2921742",
+  "SysEndTime": "2022-12-16T00:40:50.2921742"
+},{
+  "_id": {
+    "$oid": "639bc1bf05bbe8780faf0f2b"
+  },
+  "UserAuthenticatedKey": 6,
+  "ClassTime": "9:15 ",
+  "IndividualProject": "CSCI381 Final Group Project",
+  "GroupMemberLastName": "Nehal",
+  "GroupMemberFirstName": "Nader",
+  "GroupName": "Support Taxonomy",
+  "SysStartTime": "2022-12-16T00:40:50.2921742",
+  "SysEndTime": "2022-12-16T00:40:50.2921742"
+}]

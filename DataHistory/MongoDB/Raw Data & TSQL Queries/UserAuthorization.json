@@ -1,0 +1,62 @@
+[
+    {
+        "UserAuthenticatedKey": 1,
+        "ClassTime": "9:15 ",
+        "IndividualProject": "CSCI381 Final Group Project",
+        "GroupMemberLastName": "Noa",
+        "GroupMemberFirstName": "Adrian",
+        "GroupName": "Data Migrater",
+        "SysStartTime": "2022-12-16T00:40:50.2921742",
+        "SysEndTime": "2022-12-16T00:40:50.2921742"
+    },
+    {
+        "UserAuthenticatedKey": 2,
+        "ClassTime": "9:15 ",
+        "IndividualProject": "CSCI381 Final Group Project",
+        "GroupMemberLastName": "Garcha",
+        "GroupMemberFirstName": "Jasminder",
+        "GroupName": "Lead Designer & Editor",
+        "SysStartTime": "2022-12-16T00:40:50.2921742",
+        "SysEndTime": "2022-12-16T00:40:50.2921742"
+    },
+    {
+        "UserAuthenticatedKey": 3,
+        "ClassTime": "9:15 ",
+        "IndividualProject": "CSCI381 Final Group Project",
+        "GroupMemberLastName": "Garcia",
+        "GroupMemberFirstName": "Amber",
+        "GroupName": "Project Manager & Comments",
+        "SysStartTime": "2022-12-16T00:40:50.2921742",
+        "SysEndTime": "2022-12-16T00:40:50.2921742"
+    },
+    {
+        "UserAuthenticatedKey": 4,
+        "ClassTime": "9:15 ",
+        "IndividualProject": "CSCI381 Final Group Project",
+        "GroupMemberLastName": "Li",
+        "GroupMemberFirstName": "Wade",
+        "GroupName": "Support Designer",
+        "SysStartTime": "2022-12-16T00:40:50.2921742",
+        "SysEndTime": "2022-12-16T00:40:50.2921742"
+    },
+    {
+        "UserAuthenticatedKey": 5,
+        "ClassTime": "9:15 ",
+        "IndividualProject": "CSCI381 Final Group Project",
+        "GroupMemberLastName": "Vidal",
+        "GroupMemberFirstName": "Oliver",
+        "GroupName": "Video Editor",
+        "SysStartTime": "2022-12-16T00:40:50.2921742",
+        "SysEndTime": "2022-12-16T00:40:50.2921742"
+    },
+    {
+        "UserAuthenticatedKey": 6,
+        "ClassTime": "9:15 ",
+        "IndividualProject": "CSCI381 Final Group Project",
+        "GroupMemberLastName": "Nehal",
+        "GroupMemberFirstName": "Nader",
+        "GroupName": "Support Taxonomy",
+        "SysStartTime": "2022-12-16T00:40:50.2921742",
+        "SysEndTime": "2022-12-16T00:40:50.2921742"
+    }
+]

@@ -1,0 +1,356 @@
+[{
+  "_id": {
+    "$oid": "639bace458590d57c11c4f5f"
+  },
+  "ManufacturerVehicleModelId": 0,
+  "ManufacturerVehicleMakeId": 0,
+  "ModelName": "amet ",
+  "ModelVariant": "luctus euismod hac ",
+  "ModelYear": "lacinia placerat ",
+  "Note": "lectus ",
+  "SysStartTime": {
+    "$date": "2022-12-15T23:25:24.351Z"
+  },
+  "SysEndTime": {
+    "$date": "2022-12-15T23:25:24.351Z"
+  },
+  "UserAuthenticatedKey": 0
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a8f"
+  },
+  "ManufacturerVehicleModelId": 1,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Ferrari",
+  "ModelVariant": "ITA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5405447",
+  "SysEndTime": "2022-12-15T20:32:13.5405447",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a90"
+  },
+  "ManufacturerVehicleModelId": 2,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Porsche",
+  "ModelVariant": "GER",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5446430",
+  "SysEndTime": "2022-12-15T20:32:13.5446430",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a91"
+  },
+  "ManufacturerVehicleModelId": 3,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Lamborghini",
+  "ModelVariant": "ITA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5487206",
+  "SysEndTime": "2022-12-15T20:32:13.5487206",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a92"
+  },
+  "ManufacturerVehicleModelId": 4,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Aston Martin",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5487206",
+  "SysEndTime": "2022-12-15T20:32:13.5487206",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a93"
+  },
+  "ManufacturerVehicleModelId": 5,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Bentley",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5487206",
+  "SysEndTime": "2022-12-15T20:32:13.5487206",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a94"
+  },
+  "ManufacturerVehicleModelId": 6,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Rolls Royce",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5487206",
+  "SysEndTime": "2022-12-15T20:32:13.5487206",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a95"
+  },
+  "ManufacturerVehicleModelId": 7,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Maybach",
+  "ModelVariant": "GER",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5528250",
+  "SysEndTime": "2022-12-15T20:32:13.5528250",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a96"
+  },
+  "ManufacturerVehicleModelId": 8,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Mercedes",
+  "ModelVariant": "GER",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5528250",
+  "SysEndTime": "2022-12-15T20:32:13.5528250",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a97"
+  },
+  "ManufacturerVehicleModelId": 9,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Alfa Romeo",
+  "ModelVariant": "ITA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5528250",
+  "SysEndTime": "2022-12-15T20:32:13.5528250",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a98"
+  },
+  "ManufacturerVehicleModelId": 10,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Austin",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5528250",
+  "SysEndTime": "2022-12-15T20:32:13.5528250",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a99"
+  },
+  "ManufacturerVehicleModelId": 11,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "BMW",
+  "ModelVariant": "GER",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5569097",
+  "SysEndTime": "2022-12-15T20:32:13.5569097",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a9a"
+  },
+  "ManufacturerVehicleModelId": 12,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Bugatti",
+  "ModelVariant": "FRA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5569097",
+  "SysEndTime": "2022-12-15T20:32:13.5569097",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a9b"
+  },
+  "ManufacturerVehicleModelId": 13,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Citroen",
+  "ModelVariant": "FRA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5569097",
+  "SysEndTime": "2022-12-15T20:32:13.5569097",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a9c"
+  },
+  "ManufacturerVehicleModelId": 14,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Delahaye",
+  "ModelVariant": "FRA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5569097",
+  "SysEndTime": "2022-12-15T20:32:13.5569097",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a9d"
+  },
+  "ManufacturerVehicleModelId": 15,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Delorean",
+  "ModelVariant": "USA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5610046",
+  "SysEndTime": "2022-12-15T20:32:13.5610046",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a9e"
+  },
+  "ManufacturerVehicleModelId": 16,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Jaguar",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5610046",
+  "SysEndTime": "2022-12-15T20:32:13.5610046",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0a9f"
+  },
+  "ManufacturerVehicleModelId": 17,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Lagonda",
+  "ModelVariant": "ITA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5610046",
+  "SysEndTime": "2022-12-15T20:32:13.5610046",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0aa0"
+  },
+  "ManufacturerVehicleModelId": 18,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "McLaren",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5610046",
+  "SysEndTime": "2022-12-15T20:32:13.5610046",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0aa1"
+  },
+  "ManufacturerVehicleModelId": 19,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Morgan",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5651044",
+  "SysEndTime": "2022-12-15T20:32:13.5651044",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0aa2"
+  },
+  "ManufacturerVehicleModelId": 20,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Noble",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5651044",
+  "SysEndTime": "2022-12-15T20:32:13.5651044",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0aa3"
+  },
+  "ManufacturerVehicleModelId": 21,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Triumph",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5651044",
+  "SysEndTime": "2022-12-15T20:32:13.5651044",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0aa4"
+  },
+  "ManufacturerVehicleModelId": 22,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Trabant",
+  "ModelVariant": "GER",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5691875",
+  "SysEndTime": "2022-12-15T20:32:13.5691875",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0aa5"
+  },
+  "ManufacturerVehicleModelId": 23,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Peugeot",
+  "ModelVariant": "GER",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5691875",
+  "SysEndTime": "2022-12-15T20:32:13.5691875",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0aa6"
+  },
+  "ManufacturerVehicleModelId": 24,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Reliant",
+  "ModelVariant": "FRA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5691875",
+  "SysEndTime": "2022-12-15T20:32:13.5691875",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0aa7"
+  },
+  "ManufacturerVehicleModelId": 25,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Riley",
+  "ModelVariant": "GBR",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5691875",
+  "SysEndTime": "2022-12-15T20:32:13.5691875",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf6a05bbe8780faf0aa8"
+  },
+  "ManufacturerVehicleModelId": 26,
+  "ManufacturerVehicleMakeId": null,
+  "ModelName": "Cadillac",
+  "ModelVariant": "USA",
+  "ModelYear": "1900",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5691875",
+  "SysEndTime": "2022-12-15T20:32:13.5691875",
+  "UserAuthenticatedKey": null
+}]

@@ -1,0 +1,173 @@
+[{
+  "_id": {
+    "$oid": "639bace558590d57c11c4f64"
+  },
+  "StaffId": 0,
+  "ManagerId": 0,
+  "StaffName": "id ",
+  "DepartmentName": "amet purus ",
+  "Note": "non porta ",
+  "SysStartTime": {
+    "$date": "2022-12-15T23:25:25.563Z"
+  },
+  "SysEndTime": {
+    "$date": "2022-12-15T23:25:25.563Z"
+  },
+  "UserAuthenticatedKey": 0
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0edf"
+  },
+  "StaffId": 1,
+  "ManagerId": null,
+  "StaffName": "Amelia",
+  "DepartmentName": "N/A",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4833418",
+  "SysEndTime": "2022-12-15T20:32:13.4833418",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee0"
+  },
+  "StaffId": 2,
+  "ManagerId": 1,
+  "StaffName": "Gerard",
+  "DepartmentName": "Finance",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4915316",
+  "SysEndTime": "2022-12-15T20:32:13.4915316",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee1"
+  },
+  "StaffId": 3,
+  "ManagerId": 1,
+  "StaffName": "Chloe",
+  "DepartmentName": "Marketing",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4915316",
+  "SysEndTime": "2022-12-15T20:32:13.4915316",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee2"
+  },
+  "StaffId": 4,
+  "ManagerId": 1,
+  "StaffName": "Susan",
+  "DepartmentName": "Sales",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4915316",
+  "SysEndTime": "2022-12-15T20:32:13.4915316",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee3"
+  },
+  "StaffId": 5,
+  "ManagerId": 4,
+  "StaffName": "Andy",
+  "DepartmentName": "Sales",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4956177",
+  "SysEndTime": "2022-12-15T20:32:13.4956177",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee4"
+  },
+  "StaffId": 6,
+  "ManagerId": 4,
+  "StaffName": "Steve",
+  "DepartmentName": "Sales",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4956177",
+  "SysEndTime": "2022-12-15T20:32:13.4956177",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee5"
+  },
+  "StaffId": 7,
+  "ManagerId": 4,
+  "StaffName": "Stan",
+  "DepartmentName": "Sales",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4956177",
+  "SysEndTime": "2022-12-15T20:32:13.4956177",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee6"
+  },
+  "StaffId": 8,
+  "ManagerId": 4,
+  "StaffName": "Nathan",
+  "DepartmentName": "Sales",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4997003",
+  "SysEndTime": "2022-12-15T20:32:13.4997003",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee7"
+  },
+  "StaffId": 9,
+  "ManagerId": 4,
+  "StaffName": "Maggie",
+  "DepartmentName": "Sales",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4997003",
+  "SysEndTime": "2022-12-15T20:32:13.4997003",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee8"
+  },
+  "StaffId": 10,
+  "ManagerId": 2,
+  "StaffName": "Jenny",
+  "DepartmentName": "Finance",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4997003",
+  "SysEndTime": "2022-12-15T20:32:13.4997003",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0ee9"
+  },
+  "StaffId": 11,
+  "ManagerId": 2,
+  "StaffName": "Chris",
+  "DepartmentName": "Finance",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4997003",
+  "SysEndTime": "2022-12-15T20:32:13.4997003",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0eea"
+  },
+  "StaffId": 12,
+  "ManagerId": 3,
+  "StaffName": "Megan",
+  "DepartmentName": "Marketing",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.4997003",
+  "SysEndTime": "2022-12-15T20:32:13.4997003",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbfb005bbe8780faf0eeb"
+  },
+  "StaffId": 13,
+  "ManagerId": 11,
+  "StaffName": "Sandy",
+  "DepartmentName": "Finance",
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:13.5037843",
+  "SysEndTime": "2022-12-15T20:32:13.5037843",
+  "UserAuthenticatedKey": null
+}]

@@ -1,0 +1,123 @@
+[
+    {
+        "CountryId": 1,
+        "CountryName": "Belgium             ",
+        "CountryISO2": "BE",
+        "CountryISO3": "BEL",
+        "SalesRegion": "EMEA",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4670109",
+        "SysEndTime": "2022-12-15T20:32:13.4670109",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 2,
+        "CountryName": "Switzerland         ",
+        "CountryISO2": "CH",
+        "CountryISO3": "CHF",
+        "SalesRegion": "EMEA",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4710961",
+        "SysEndTime": "2022-12-15T20:32:13.4710961",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 3,
+        "CountryName": "China               ",
+        "CountryISO2": "CN",
+        "CountryISO3": "CHN",
+        "SalesRegion": "Asia",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4710961",
+        "SysEndTime": "2022-12-15T20:32:13.4710961",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 4,
+        "CountryName": "Germany             ",
+        "CountryISO2": "GE",
+        "CountryISO3": "GER",
+        "SalesRegion": "EMEA",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4792572",
+        "SysEndTime": "2022-12-15T20:32:13.4792572",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 5,
+        "CountryName": "Spain               ",
+        "CountryISO2": "ES",
+        "CountryISO3": "ESP",
+        "SalesRegion": "EMEA",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4751793",
+        "SysEndTime": "2022-12-15T20:32:13.4751793",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 6,
+        "CountryName": "France              ",
+        "CountryISO2": "FR",
+        "CountryISO3": "FRA",
+        "SalesRegion": "EMEA",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4751793",
+        "SysEndTime": "2022-12-15T20:32:13.4751793",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 7,
+        "CountryName": "United Kingdom      ",
+        "CountryISO2": "GB",
+        "CountryISO3": "GBR",
+        "SalesRegion": "EMEA",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4751793",
+        "SysEndTime": "2022-12-15T20:32:13.4751793",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 8,
+        "CountryName": "India               ",
+        "CountryISO2": "IN",
+        "CountryISO3": "IND",
+        "SalesRegion": "Asia",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4792572",
+        "SysEndTime": "2022-12-15T20:32:13.4792572",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 9,
+        "CountryName": "Italy               ",
+        "CountryISO2": "IT",
+        "CountryISO3": "ITA",
+        "SalesRegion": "EMEA",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4792572",
+        "SysEndTime": "2022-12-15T20:32:13.4792572",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 10,
+        "CountryName": "United States       ",
+        "CountryISO2": "US",
+        "CountryISO3": "USA",
+        "SalesRegion": "North America",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4792572",
+        "SysEndTime": "2022-12-15T20:32:13.4792572",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CountryId": 11,
+        "CountryName": "Germany             ",
+        "CountryISO2": "DE",
+        "CountryISO3": "DEU",
+        "SalesRegion": "EMEA",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:13.4710961",
+        "SysEndTime": "2022-12-15T20:32:13.4710961",
+        "UserAuthenticatedKey": null
+    }
+]

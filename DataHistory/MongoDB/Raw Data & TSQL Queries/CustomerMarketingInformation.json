@@ -1,0 +1,882 @@
+[
+    {
+        "CustomerMarketingInformationId": 1,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1791052",
+        "SysEndTime": "2022-12-15T20:32:14.1791052",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 2,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "1",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1832003",
+        "SysEndTime": "2022-12-15T20:32:14.1832003",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 3,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1873099",
+        "SysEndTime": "2022-12-15T20:32:14.1873099",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 4,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1873099",
+        "SysEndTime": "2022-12-15T20:32:14.1873099",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 5,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1873099",
+        "SysEndTime": "2022-12-15T20:32:14.1873099",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 6,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "1",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1873099",
+        "SysEndTime": "2022-12-15T20:32:14.1873099",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 7,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1913914",
+        "SysEndTime": "2022-12-15T20:32:14.1913914",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 8,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1913914",
+        "SysEndTime": "2022-12-15T20:32:14.1913914",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 9,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1913914",
+        "SysEndTime": "2022-12-15T20:32:14.1913914",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 10,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1913914",
+        "SysEndTime": "2022-12-15T20:32:14.1913914",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 11,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "1",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1954724",
+        "SysEndTime": "2022-12-15T20:32:14.1954724",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 12,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1954724",
+        "SysEndTime": "2022-12-15T20:32:14.1954724",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 13,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1954724",
+        "SysEndTime": "2022-12-15T20:32:14.1954724",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 14,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1954724",
+        "SysEndTime": "2022-12-15T20:32:14.1954724",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 15,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1995592",
+        "SysEndTime": "2022-12-15T20:32:14.1995592",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 16,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "1",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1995592",
+        "SysEndTime": "2022-12-15T20:32:14.1995592",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 17,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1995592",
+        "SysEndTime": "2022-12-15T20:32:14.1995592",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 18,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.1995592",
+        "SysEndTime": "2022-12-15T20:32:14.1995592",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 19,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2036327",
+        "SysEndTime": "2022-12-15T20:32:14.2036327",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 20,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2036327",
+        "SysEndTime": "2022-12-15T20:32:14.2036327",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 21,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2036327",
+        "SysEndTime": "2022-12-15T20:32:14.2036327",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 22,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "1",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2036327",
+        "SysEndTime": "2022-12-15T20:32:14.2036327",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 23,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2077214",
+        "SysEndTime": "2022-12-15T20:32:14.2077214",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 24,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2077214",
+        "SysEndTime": "2022-12-15T20:32:14.2077214",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 25,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2077214",
+        "SysEndTime": "2022-12-15T20:32:14.2077214",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 26,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2077214",
+        "SysEndTime": "2022-12-15T20:32:14.2077214",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 27,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2077214",
+        "SysEndTime": "2022-12-15T20:32:14.2077214",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 28,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2117974",
+        "SysEndTime": "2022-12-15T20:32:14.2117974",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 29,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2117974",
+        "SysEndTime": "2022-12-15T20:32:14.2117974",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 30,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2117974",
+        "SysEndTime": "2022-12-15T20:32:14.2117974",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 31,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2117974",
+        "SysEndTime": "2022-12-15T20:32:14.2117974",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 32,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2158674",
+        "SysEndTime": "2022-12-15T20:32:14.2158674",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 33,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2158674",
+        "SysEndTime": "2022-12-15T20:32:14.2158674",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 34,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2158674",
+        "SysEndTime": "2022-12-15T20:32:14.2158674",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 35,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2158674",
+        "SysEndTime": "2022-12-15T20:32:14.2158674",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 36,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2158674",
+        "SysEndTime": "2022-12-15T20:32:14.2158674",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 37,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2199540",
+        "SysEndTime": "2022-12-15T20:32:14.2199540",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 38,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2199540",
+        "SysEndTime": "2022-12-15T20:32:14.2199540",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 39,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2199540",
+        "SysEndTime": "2022-12-15T20:32:14.2199540",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 40,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2240333",
+        "SysEndTime": "2022-12-15T20:32:14.2240333",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 41,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2240333",
+        "SysEndTime": "2022-12-15T20:32:14.2240333",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 42,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2240333",
+        "SysEndTime": "2022-12-15T20:32:14.2240333",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 43,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2240333",
+        "SysEndTime": "2022-12-15T20:32:14.2240333",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 44,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2281063",
+        "SysEndTime": "2022-12-15T20:32:14.2281063",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 45,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2281063",
+        "SysEndTime": "2022-12-15T20:32:14.2281063",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 46,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2281063",
+        "SysEndTime": "2022-12-15T20:32:14.2281063",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 47,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2281063",
+        "SysEndTime": "2022-12-15T20:32:14.2281063",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 48,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2321869",
+        "SysEndTime": "2022-12-15T20:32:14.2321869",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 49,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2321869",
+        "SysEndTime": "2022-12-15T20:32:14.2321869",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 50,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2321869",
+        "SysEndTime": "2022-12-15T20:32:14.2321869",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 51,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2199540",
+        "SysEndTime": "2022-12-15T20:32:14.2199540",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 52,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2321869",
+        "SysEndTime": "2022-12-15T20:32:14.2321869",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 53,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2321869",
+        "SysEndTime": "2022-12-15T20:32:14.2321869",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 54,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2362625",
+        "SysEndTime": "2022-12-15T20:32:14.2362625",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 55,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2362625",
+        "SysEndTime": "2022-12-15T20:32:14.2362625",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 56,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2362625",
+        "SysEndTime": "2022-12-15T20:32:14.2362625",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 57,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2403480",
+        "SysEndTime": "2022-12-15T20:32:14.2403480",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 58,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2403480",
+        "SysEndTime": "2022-12-15T20:32:14.2403480",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 59,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2403480",
+        "SysEndTime": "2022-12-15T20:32:14.2403480",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 60,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2403480",
+        "SysEndTime": "2022-12-15T20:32:14.2403480",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 61,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2403480",
+        "SysEndTime": "2022-12-15T20:32:14.2403480",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 62,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2444250",
+        "SysEndTime": "2022-12-15T20:32:14.2444250",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 63,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "1",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2444250",
+        "SysEndTime": "2022-12-15T20:32:14.2444250",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 64,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2444250",
+        "SysEndTime": "2022-12-15T20:32:14.2444250",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 65,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2484990",
+        "SysEndTime": "2022-12-15T20:32:14.2484990",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 66,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2484990",
+        "SysEndTime": "2022-12-15T20:32:14.2484990",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 67,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2484990",
+        "SysEndTime": "2022-12-15T20:32:14.2484990",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 68,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2484990",
+        "SysEndTime": "2022-12-15T20:32:14.2484990",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 69,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2484990",
+        "SysEndTime": "2022-12-15T20:32:14.2484990",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 70,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2525682",
+        "SysEndTime": "2022-12-15T20:32:14.2525682",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 71,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2525682",
+        "SysEndTime": "2022-12-15T20:32:14.2525682",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 72,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "1",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2525682",
+        "SysEndTime": "2022-12-15T20:32:14.2525682",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 73,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2525682",
+        "SysEndTime": "2022-12-15T20:32:14.2525682",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 74,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2525682",
+        "SysEndTime": "2022-12-15T20:32:14.2525682",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 75,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2566387",
+        "SysEndTime": "2022-12-15T20:32:14.2566387",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 76,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2566387",
+        "SysEndTime": "2022-12-15T20:32:14.2566387",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 77,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Some",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2566387",
+        "SysEndTime": "2022-12-15T20:32:14.2566387",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 78,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2566387",
+        "SysEndTime": "2022-12-15T20:32:14.2566387",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 79,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2566387",
+        "SysEndTime": "2022-12-15T20:32:14.2566387",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 80,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2607102",
+        "SysEndTime": "2022-12-15T20:32:14.2607102",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 81,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "1",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2607102",
+        "SysEndTime": "2022-12-15T20:32:14.2607102",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 82,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2607102",
+        "SysEndTime": "2022-12-15T20:32:14.2607102",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 83,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2607102",
+        "SysEndTime": "2022-12-15T20:32:14.2607102",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 84,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2607102",
+        "SysEndTime": "2022-12-15T20:32:14.2607102",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 85,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "None",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2647889",
+        "SysEndTime": "2022-12-15T20:32:14.2647889",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 86,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Immense",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2647889",
+        "SysEndTime": "2022-12-15T20:32:14.2647889",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 87,
+        "IsCustomerReseller": "0",
+        "IsCustomerCreditRisk": "0",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2647889",
+        "SysEndTime": "2022-12-15T20:32:14.2647889",
+        "UserAuthenticatedKey": null
+    },
+    {
+        "CustomerMarketingInformationId": 88,
+        "IsCustomerReseller": "1",
+        "IsCustomerCreditRisk": "1",
+        "CustomerSpendCapacity": "Lots",
+        "Note": null,
+        "SysStartTime": "2022-12-15T20:32:14.2688765",
+        "SysEndTime": "2022-12-15T20:32:14.2688765",
+        "UserAuthenticatedKey": null
+    }
+]
