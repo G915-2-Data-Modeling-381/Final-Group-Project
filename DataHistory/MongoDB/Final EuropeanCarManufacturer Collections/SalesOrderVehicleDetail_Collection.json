@@ -1,0 +1,5285 @@
+[{
+  "_id": {
+    "$oid": "639bace558590d57c11c4f63"
+  },
+  "SalesOrderVehicleDetailId": 0,
+  "SalesOrderVehicleId": 0,
+  "LineItemNumber": 0,
+  "ManufacturerVehicleId": 0,
+  "SalePrice": 0,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 0,
+  "Note": "tellus ",
+  "SysStartTime": {
+    "$date": "2022-12-15T23:25:25.396Z"
+  },
+  "SysEndTime": {
+    "$date": "2022-12-15T23:25:25.396Z"
+  },
+  "UserAuthenticatedKey": 0
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d7e"
+  },
+  "SalesOrderVehicleDetailId": 1,
+  "SalesOrderVehicleId": 1,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 1,
+  "SalePrice": 65000,
+  "LineItemDiscount": 2700,
+  "DiscountedSalePrice": 62300,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6117029",
+  "SysEndTime": "2022-12-15T20:32:14.6117029",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d7f"
+  },
+  "SalesOrderVehicleDetailId": 2,
+  "SalesOrderVehicleId": 2,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 2,
+  "SalePrice": 220000,
+  "LineItemDiscount": 60000,
+  "DiscountedSalePrice": 160000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6157818",
+  "SysEndTime": "2022-12-15T20:32:14.6157818",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d80"
+  },
+  "SalesOrderVehicleDetailId": 3,
+  "SalesOrderVehicleId": 3,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 3,
+  "SalePrice": 19500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 19500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6198659",
+  "SysEndTime": "2022-12-15T20:32:14.6198659",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d81"
+  },
+  "SalesOrderVehicleDetailId": 4,
+  "SalesOrderVehicleId": 4,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 4,
+  "SalePrice": 11500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 11500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6198659",
+  "SysEndTime": "2022-12-15T20:32:14.6198659",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d82"
+  },
+  "SalesOrderVehicleDetailId": 5,
+  "SalesOrderVehicleId": 5,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 5,
+  "SalePrice": 19950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 19950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6239568",
+  "SysEndTime": "2022-12-15T20:32:14.6239568",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d83"
+  },
+  "SalesOrderVehicleDetailId": 6,
+  "SalesOrderVehicleId": 6,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 7,
+  "SalePrice": 29500,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 28250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6239568",
+  "SysEndTime": "2022-12-15T20:32:14.6239568",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d84"
+  },
+  "SalesOrderVehicleDetailId": 7,
+  "SalesOrderVehicleId": 7,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 8,
+  "SalePrice": 49500,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 47050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6239568",
+  "SysEndTime": "2022-12-15T20:32:14.6239568",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d85"
+  },
+  "SalesOrderVehicleDetailId": 8,
+  "SalesOrderVehicleId": 8,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 9,
+  "SalePrice": 76000,
+  "LineItemDiscount": 5500,
+  "DiscountedSalePrice": 70500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6239568",
+  "SysEndTime": "2022-12-15T20:32:14.6239568",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d86"
+  },
+  "SalesOrderVehicleDetailId": 9,
+  "SalesOrderVehicleId": 9,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 11,
+  "SalePrice": 19600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 19600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6280428",
+  "SysEndTime": "2022-12-15T20:32:14.6280428",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d87"
+  },
+  "SalesOrderVehicleDetailId": 10,
+  "SalesOrderVehicleId": 10,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 12,
+  "SalePrice": 36500,
+  "LineItemDiscount": 2500,
+  "DiscountedSalePrice": 34000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6280428",
+  "SysEndTime": "2022-12-15T20:32:14.6280428",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d88"
+  },
+  "SalesOrderVehicleDetailId": 11,
+  "SalesOrderVehicleId": 11,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 13,
+  "SalePrice": 8500,
+  "LineItemDiscount": 50,
+  "DiscountedSalePrice": 8450,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6280428",
+  "SysEndTime": "2022-12-15T20:32:14.6280428",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d89"
+  },
+  "SalesOrderVehicleDetailId": 12,
+  "SalesOrderVehicleId": 11,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 15,
+  "SalePrice": 80500,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 80000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6321209",
+  "SysEndTime": "2022-12-15T20:32:14.6321209",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d8a"
+  },
+  "SalesOrderVehicleDetailId": 13,
+  "SalesOrderVehicleId": 12,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 16,
+  "SalePrice": 169500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 169500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6362241",
+  "SysEndTime": "2022-12-15T20:32:14.6362241",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d8b"
+  },
+  "SalesOrderVehicleDetailId": 14,
+  "SalesOrderVehicleId": 13,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 17,
+  "SalePrice": 8950,
+  "LineItemDiscount": 25,
+  "DiscountedSalePrice": 8925,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6403891",
+  "SysEndTime": "2022-12-15T20:32:14.6403891",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d8c"
+  },
+  "SalesOrderVehicleDetailId": 15,
+  "SalesOrderVehicleId": 14,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 18,
+  "SalePrice": 195000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 195000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6403891",
+  "SysEndTime": "2022-12-15T20:32:14.6403891",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d8d"
+  },
+  "SalesOrderVehicleDetailId": 16,
+  "SalesOrderVehicleId": 15,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 19,
+  "SalePrice": 22950,
+  "LineItemDiscount": 950,
+  "DiscountedSalePrice": 22000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6403891",
+  "SysEndTime": "2022-12-15T20:32:14.6403891",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d8e"
+  },
+  "SalesOrderVehicleDetailId": 17,
+  "SalesOrderVehicleId": 16,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 20,
+  "SalePrice": 8695,
+  "LineItemDiscount": 95,
+  "DiscountedSalePrice": 8600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6444723",
+  "SysEndTime": "2022-12-15T20:32:14.6444723",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d8f"
+  },
+  "SalesOrderVehicleDetailId": 18,
+  "SalesOrderVehicleId": 17,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 21,
+  "SalePrice": 22990,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 22990,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6444723",
+  "SysEndTime": "2022-12-15T20:32:14.6444723",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d90"
+  },
+  "SalesOrderVehicleDetailId": 19,
+  "SalesOrderVehicleId": 18,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 22,
+  "SalePrice": 19500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 18000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6444723",
+  "SysEndTime": "2022-12-15T20:32:14.6444723",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d91"
+  },
+  "SalesOrderVehicleDetailId": 20,
+  "SalesOrderVehicleId": 18,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 23,
+  "SalePrice": 56000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6444723",
+  "SysEndTime": "2022-12-15T20:32:14.6444723",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d92"
+  },
+  "SalesOrderVehicleDetailId": 21,
+  "SalesOrderVehicleId": 19,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 25,
+  "SalePrice": 5500,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 5000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6485469",
+  "SysEndTime": "2022-12-15T20:32:14.6485469",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d93"
+  },
+  "SalesOrderVehicleDetailId": 22,
+  "SalesOrderVehicleId": 20,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 26,
+  "SalePrice": 12650,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12650,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6485469",
+  "SysEndTime": "2022-12-15T20:32:14.6485469",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d94"
+  },
+  "SalesOrderVehicleDetailId": 23,
+  "SalesOrderVehicleId": 21,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 28,
+  "SalePrice": 8950,
+  "LineItemDiscount": 950,
+  "DiscountedSalePrice": 8000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6526293",
+  "SysEndTime": "2022-12-15T20:32:14.6526293",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d95"
+  },
+  "SalesOrderVehicleDetailId": 24,
+  "SalesOrderVehicleId": 22,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 30,
+  "SalePrice": 15600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 15600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6526293",
+  "SysEndTime": "2022-12-15T20:32:14.6526293",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d96"
+  },
+  "SalesOrderVehicleDetailId": 25,
+  "SalesOrderVehicleId": 23,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 31,
+  "SalePrice": 22600,
+  "LineItemDiscount": 600,
+  "DiscountedSalePrice": 22000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6567024",
+  "SysEndTime": "2022-12-15T20:32:14.6567024",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d97"
+  },
+  "SalesOrderVehicleDetailId": 26,
+  "SalesOrderVehicleId": 24,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 34,
+  "SalePrice": 123590,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 121140,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6567024",
+  "SysEndTime": "2022-12-15T20:32:14.6567024",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d98"
+  },
+  "SalesOrderVehicleDetailId": 27,
+  "SalesOrderVehicleId": 25,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 35,
+  "SalePrice": 22950,
+  "LineItemDiscount": 50,
+  "DiscountedSalePrice": 22900,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6607776",
+  "SysEndTime": "2022-12-15T20:32:14.6607776",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d99"
+  },
+  "SalesOrderVehicleDetailId": 28,
+  "SalesOrderVehicleId": 26,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 36,
+  "SalePrice": 69500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 69500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6607776",
+  "SysEndTime": "2022-12-15T20:32:14.6607776",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d9a"
+  },
+  "SalesOrderVehicleDetailId": 29,
+  "SalesOrderVehicleId": 27,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 37,
+  "SalePrice": 12500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6607776",
+  "SysEndTime": "2022-12-15T20:32:14.6607776",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d9b"
+  },
+  "SalesOrderVehicleDetailId": 30,
+  "SalesOrderVehicleId": 28,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 38,
+  "SalePrice": 12500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 11000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6648584",
+  "SysEndTime": "2022-12-15T20:32:14.6648584",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d9c"
+  },
+  "SalesOrderVehicleDetailId": 31,
+  "SalesOrderVehicleId": 29,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 39,
+  "SalePrice": 159500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 159500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6648584",
+  "SysEndTime": "2022-12-15T20:32:14.6648584",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d9d"
+  },
+  "SalesOrderVehicleDetailId": 32,
+  "SalesOrderVehicleId": 30,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 40,
+  "SalePrice": 165000,
+  "LineItemDiscount": 5000,
+  "DiscountedSalePrice": 160000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6648584",
+  "SysEndTime": "2022-12-15T20:32:14.6648584",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d9e"
+  },
+  "SalesOrderVehicleDetailId": 33,
+  "SalesOrderVehicleId": 31,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 41,
+  "SalePrice": 2550,
+  "LineItemDiscount": 50,
+  "DiscountedSalePrice": 2500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6648584",
+  "SysEndTime": "2022-12-15T20:32:14.6648584",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0d9f"
+  },
+  "SalesOrderVehicleDetailId": 34,
+  "SalesOrderVehicleId": 32,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 42,
+  "SalePrice": 29500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 29500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6689315",
+  "SysEndTime": "2022-12-15T20:32:14.6689315",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da0"
+  },
+  "SalesOrderVehicleDetailId": 35,
+  "SalesOrderVehicleId": 33,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 43,
+  "SalePrice": 12650,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 12150,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6689315",
+  "SysEndTime": "2022-12-15T20:32:14.6689315",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da1"
+  },
+  "SalesOrderVehicleDetailId": 36,
+  "SalesOrderVehicleId": 34,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 44,
+  "SalePrice": 56950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6689315",
+  "SysEndTime": "2022-12-15T20:32:14.6689315",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da2"
+  },
+  "SalesOrderVehicleDetailId": 37,
+  "SalesOrderVehicleId": 35,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 45,
+  "SalePrice": 56000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6689315",
+  "SysEndTime": "2022-12-15T20:32:14.6689315",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da3"
+  },
+  "SalesOrderVehicleDetailId": 38,
+  "SalesOrderVehicleId": 36,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 46,
+  "SalePrice": 65890,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 65140,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6689315",
+  "SysEndTime": "2022-12-15T20:32:14.6689315",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da4"
+  },
+  "SalesOrderVehicleDetailId": 39,
+  "SalesOrderVehicleId": 36,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 47,
+  "SalePrice": 6000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 6000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6730073",
+  "SysEndTime": "2022-12-15T20:32:14.6730073",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da5"
+  },
+  "SalesOrderVehicleDetailId": 40,
+  "SalesOrderVehicleId": 37,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 50,
+  "SalePrice": 39500,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 37050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6730073",
+  "SysEndTime": "2022-12-15T20:32:14.6730073",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da6"
+  },
+  "SalesOrderVehicleDetailId": 41,
+  "SalesOrderVehicleId": 38,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 51,
+  "SalePrice": 3650,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 3650,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6770992",
+  "SysEndTime": "2022-12-15T20:32:14.6770992",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da7"
+  },
+  "SalesOrderVehicleDetailId": 42,
+  "SalesOrderVehicleId": 39,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 52,
+  "SalePrice": 220500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 220500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6770992",
+  "SysEndTime": "2022-12-15T20:32:14.6770992",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da8"
+  },
+  "SalesOrderVehicleDetailId": 43,
+  "SalesOrderVehicleId": 40,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 53,
+  "SalePrice": 102950,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 100500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6770992",
+  "SysEndTime": "2022-12-15T20:32:14.6770992",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0da9"
+  },
+  "SalesOrderVehicleDetailId": 44,
+  "SalesOrderVehicleId": 41,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 54,
+  "SalePrice": 17500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 17500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6770992",
+  "SysEndTime": "2022-12-15T20:32:14.6770992",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0daa"
+  },
+  "SalesOrderVehicleDetailId": 45,
+  "SalesOrderVehicleId": 42,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 24,
+  "SalePrice": 8800,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 8300,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6485469",
+  "SysEndTime": "2022-12-15T20:32:14.6485469",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dab"
+  },
+  "SalesOrderVehicleDetailId": 46,
+  "SalesOrderVehicleId": 43,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 55,
+  "SalePrice": 99500,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 99000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6811700",
+  "SysEndTime": "2022-12-15T20:32:14.6811700",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dac"
+  },
+  "SalesOrderVehicleDetailId": 47,
+  "SalesOrderVehicleId": 44,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 56,
+  "SalePrice": 17500,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 17000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6811700",
+  "SysEndTime": "2022-12-15T20:32:14.6811700",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dad"
+  },
+  "SalesOrderVehicleDetailId": 48,
+  "SalesOrderVehicleId": 45,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 57,
+  "SalePrice": 12500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6811700",
+  "SysEndTime": "2022-12-15T20:32:14.6811700",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dae"
+  },
+  "SalesOrderVehicleDetailId": 49,
+  "SalesOrderVehicleId": 46,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 58,
+  "SalePrice": 9950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6811700",
+  "SysEndTime": "2022-12-15T20:32:14.6811700",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0daf"
+  },
+  "SalesOrderVehicleDetailId": 50,
+  "SalesOrderVehicleId": 46,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 59,
+  "SalePrice": 39500,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 37050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6852660",
+  "SysEndTime": "2022-12-15T20:32:14.6852660",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db0"
+  },
+  "SalesOrderVehicleDetailId": 51,
+  "SalesOrderVehicleId": 47,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 60,
+  "SalePrice": 49580,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 49580,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6852660",
+  "SysEndTime": "2022-12-15T20:32:14.6852660",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db1"
+  },
+  "SalesOrderVehicleDetailId": 52,
+  "SalesOrderVehicleId": 48,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 61,
+  "SalePrice": 5500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 5500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6852660",
+  "SysEndTime": "2022-12-15T20:32:14.6852660",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db2"
+  },
+  "SalesOrderVehicleDetailId": 53,
+  "SalesOrderVehicleId": 49,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 62,
+  "SalePrice": 22150,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 21650,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6893491",
+  "SysEndTime": "2022-12-15T20:32:14.6893491",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db3"
+  },
+  "SalesOrderVehicleDetailId": 54,
+  "SalesOrderVehicleId": 50,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 64,
+  "SalePrice": 35000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 35000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6893491",
+  "SysEndTime": "2022-12-15T20:32:14.6893491",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db4"
+  },
+  "SalesOrderVehicleDetailId": 55,
+  "SalesOrderVehicleId": 51,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 65,
+  "SalePrice": 29650,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 29650,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6893491",
+  "SysEndTime": "2022-12-15T20:32:14.6893491",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db5"
+  },
+  "SalesOrderVehicleDetailId": 56,
+  "SalesOrderVehicleId": 51,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 66,
+  "SalePrice": 45500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6893491",
+  "SysEndTime": "2022-12-15T20:32:14.6893491",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db6"
+  },
+  "SalesOrderVehicleDetailId": 57,
+  "SalesOrderVehicleId": 51,
+  "LineItemNumber": 3,
+  "ManufacturerVehicleId": 68,
+  "SalePrice": 99500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 98750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6893491",
+  "SysEndTime": "2022-12-15T20:32:14.6893491",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db7"
+  },
+  "SalesOrderVehicleDetailId": 58,
+  "SalesOrderVehicleId": 52,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 69,
+  "SalePrice": 15650,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 15650,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6934301",
+  "SysEndTime": "2022-12-15T20:32:14.6934301",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db8"
+  },
+  "SalesOrderVehicleDetailId": 59,
+  "SalesOrderVehicleId": 53,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 71,
+  "SalePrice": 12500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 11750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6934301",
+  "SysEndTime": "2022-12-15T20:32:14.6934301",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0db9"
+  },
+  "SalesOrderVehicleDetailId": 60,
+  "SalesOrderVehicleId": 54,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 72,
+  "SalePrice": 195000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 195000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6975090",
+  "SysEndTime": "2022-12-15T20:32:14.6975090",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dba"
+  },
+  "SalesOrderVehicleDetailId": 61,
+  "SalesOrderVehicleId": 55,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 73,
+  "SalePrice": 205000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 205000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6975090",
+  "SysEndTime": "2022-12-15T20:32:14.6975090",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dbb"
+  },
+  "SalesOrderVehicleDetailId": 62,
+  "SalesOrderVehicleId": 56,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 74,
+  "SalePrice": 66500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 66500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6975090",
+  "SysEndTime": "2022-12-15T20:32:14.6975090",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dbc"
+  },
+  "SalesOrderVehicleDetailId": 63,
+  "SalesOrderVehicleId": 57,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 75,
+  "SalePrice": 19500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 19500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6975090",
+  "SysEndTime": "2022-12-15T20:32:14.6975090",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dbd"
+  },
+  "SalesOrderVehicleDetailId": 64,
+  "SalesOrderVehicleId": 58,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 76,
+  "SalePrice": 79500,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 79000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6975090",
+  "SysEndTime": "2022-12-15T20:32:14.6975090",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dbe"
+  },
+  "SalesOrderVehicleDetailId": 65,
+  "SalesOrderVehicleId": 59,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 77,
+  "SalePrice": 14590,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 14590,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7016173",
+  "SysEndTime": "2022-12-15T20:32:14.7016173",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dbf"
+  },
+  "SalesOrderVehicleDetailId": 66,
+  "SalesOrderVehicleId": 60,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 78,
+  "SalePrice": 12750,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7016173",
+  "SysEndTime": "2022-12-15T20:32:14.7016173",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc0"
+  },
+  "SalesOrderVehicleDetailId": 67,
+  "SalesOrderVehicleId": 61,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 80,
+  "SalePrice": 45600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7016173",
+  "SysEndTime": "2022-12-15T20:32:14.7016173",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc1"
+  },
+  "SalesOrderVehicleDetailId": 68,
+  "SalesOrderVehicleId": 62,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 81,
+  "SalePrice": 6500,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 6000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7056869",
+  "SysEndTime": "2022-12-15T20:32:14.7056869",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc2"
+  },
+  "SalesOrderVehicleDetailId": 69,
+  "SalesOrderVehicleId": 63,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 82,
+  "SalePrice": 102500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 101000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7056869",
+  "SysEndTime": "2022-12-15T20:32:14.7056869",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc3"
+  },
+  "SalesOrderVehicleDetailId": 70,
+  "SalesOrderVehicleId": 64,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 84,
+  "SalePrice": 99500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7056869",
+  "SysEndTime": "2022-12-15T20:32:14.7056869",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc4"
+  },
+  "SalesOrderVehicleDetailId": 71,
+  "SalesOrderVehicleId": 65,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 85,
+  "SalePrice": 12500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 11750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7056869",
+  "SysEndTime": "2022-12-15T20:32:14.7056869",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc5"
+  },
+  "SalesOrderVehicleDetailId": 72,
+  "SalesOrderVehicleId": 66,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 86,
+  "SalePrice": 61500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 61500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7097657",
+  "SysEndTime": "2022-12-15T20:32:14.7097657",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc6"
+  },
+  "SalesOrderVehicleDetailId": 73,
+  "SalesOrderVehicleId": 67,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 87,
+  "SalePrice": 79500,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 77050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7097657",
+  "SysEndTime": "2022-12-15T20:32:14.7097657",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc7"
+  },
+  "SalesOrderVehicleDetailId": 74,
+  "SalesOrderVehicleId": 68,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 88,
+  "SalePrice": 16500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 16500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7097657",
+  "SysEndTime": "2022-12-15T20:32:14.7097657",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc8"
+  },
+  "SalesOrderVehicleDetailId": 75,
+  "SalesOrderVehicleId": 68,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 89,
+  "SalePrice": 33600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 33600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7097657",
+  "SysEndTime": "2022-12-15T20:32:14.7097657",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dc9"
+  },
+  "SalesOrderVehicleDetailId": 76,
+  "SalesOrderVehicleId": 69,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 90,
+  "SalePrice": 66500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 65750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7138412",
+  "SysEndTime": "2022-12-15T20:32:14.7138412",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dca"
+  },
+  "SalesOrderVehicleDetailId": 77,
+  "SalesOrderVehicleId": 70,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 92,
+  "SalePrice": 45000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7138412",
+  "SysEndTime": "2022-12-15T20:32:14.7138412",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dcb"
+  },
+  "SalesOrderVehicleDetailId": 78,
+  "SalesOrderVehicleId": 71,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 93,
+  "SalePrice": 19500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 19500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7138412",
+  "SysEndTime": "2022-12-15T20:32:14.7138412",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dcc"
+  },
+  "SalesOrderVehicleDetailId": 79,
+  "SalesOrderVehicleId": 72,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 94,
+  "SalePrice": 76500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 76500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7138412",
+  "SysEndTime": "2022-12-15T20:32:14.7138412",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dcd"
+  },
+  "SalesOrderVehicleDetailId": 80,
+  "SalesOrderVehicleId": 73,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 95,
+  "SalePrice": 45900,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 45400,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7179130",
+  "SysEndTime": "2022-12-15T20:32:14.7179130",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dce"
+  },
+  "SalesOrderVehicleDetailId": 81,
+  "SalesOrderVehicleId": 74,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 96,
+  "SalePrice": 125000,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 123500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7179130",
+  "SysEndTime": "2022-12-15T20:32:14.7179130",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dcf"
+  },
+  "SalesOrderVehicleDetailId": 82,
+  "SalesOrderVehicleId": 75,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 97,
+  "SalePrice": 65500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 65500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7179130",
+  "SysEndTime": "2022-12-15T20:32:14.7179130",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd0"
+  },
+  "SalesOrderVehicleDetailId": 83,
+  "SalesOrderVehicleId": 76,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 98,
+  "SalePrice": 92150,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 92150,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7179130",
+  "SysEndTime": "2022-12-15T20:32:14.7179130",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd1"
+  },
+  "SalesOrderVehicleDetailId": 84,
+  "SalesOrderVehicleId": 77,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 99,
+  "SalePrice": 9500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7179130",
+  "SysEndTime": "2022-12-15T20:32:14.7179130",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd2"
+  },
+  "SalesOrderVehicleDetailId": 85,
+  "SalesOrderVehicleId": 78,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 100,
+  "SalePrice": 9950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7219870",
+  "SysEndTime": "2022-12-15T20:32:14.7219870",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd3"
+  },
+  "SalesOrderVehicleDetailId": 86,
+  "SalesOrderVehicleId": 79,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 101,
+  "SalePrice": 5680,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 5180,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7219870",
+  "SysEndTime": "2022-12-15T20:32:14.7219870",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd4"
+  },
+  "SalesOrderVehicleDetailId": 87,
+  "SalesOrderVehicleId": 80,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 102,
+  "SalePrice": 19500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 19500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7219870",
+  "SysEndTime": "2022-12-15T20:32:14.7219870",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd5"
+  },
+  "SalesOrderVehicleDetailId": 88,
+  "SalesOrderVehicleId": 81,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 103,
+  "SalePrice": 3500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 3500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7219870",
+  "SysEndTime": "2022-12-15T20:32:14.7219870",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd6"
+  },
+  "SalesOrderVehicleDetailId": 89,
+  "SalesOrderVehicleId": 82,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 104,
+  "SalePrice": 3950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 3950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7260574",
+  "SysEndTime": "2022-12-15T20:32:14.7260574",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd7"
+  },
+  "SalesOrderVehicleDetailId": 90,
+  "SalesOrderVehicleId": 83,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 105,
+  "SalePrice": 20950,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 20200,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7260574",
+  "SysEndTime": "2022-12-15T20:32:14.7260574",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd8"
+  },
+  "SalesOrderVehicleDetailId": 91,
+  "SalesOrderVehicleId": 84,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 106,
+  "SalePrice": 7500,
+  "LineItemDiscount": 75,
+  "DiscountedSalePrice": 7425,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7260574",
+  "SysEndTime": "2022-12-15T20:32:14.7260574",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dd9"
+  },
+  "SalesOrderVehicleDetailId": 92,
+  "SalesOrderVehicleId": 85,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 107,
+  "SalePrice": 56500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 55000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7260574",
+  "SysEndTime": "2022-12-15T20:32:14.7260574",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dda"
+  },
+  "SalesOrderVehicleDetailId": 93,
+  "SalesOrderVehicleId": 86,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 108,
+  "SalePrice": 49500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 48750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7301360",
+  "SysEndTime": "2022-12-15T20:32:14.7301360",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ddb"
+  },
+  "SalesOrderVehicleDetailId": 94,
+  "SalesOrderVehicleId": 87,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 109,
+  "SalePrice": 68900,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 68900,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7301360",
+  "SysEndTime": "2022-12-15T20:32:14.7301360",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ddc"
+  },
+  "SalesOrderVehicleDetailId": 95,
+  "SalesOrderVehicleId": 88,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 110,
+  "SalePrice": 55000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 55000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7301360",
+  "SysEndTime": "2022-12-15T20:32:14.7301360",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ddd"
+  },
+  "SalesOrderVehicleDetailId": 96,
+  "SalesOrderVehicleId": 89,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 111,
+  "SalePrice": 3575,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 3575,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7301360",
+  "SysEndTime": "2022-12-15T20:32:14.7301360",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dde"
+  },
+  "SalesOrderVehicleDetailId": 97,
+  "SalesOrderVehicleId": 90,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 112,
+  "SalePrice": 35250,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 35250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7301360",
+  "SysEndTime": "2022-12-15T20:32:14.7301360",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ddf"
+  },
+  "SalesOrderVehicleDetailId": 98,
+  "SalesOrderVehicleId": 91,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 113,
+  "SalePrice": 19600,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 18350,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7342137",
+  "SysEndTime": "2022-12-15T20:32:14.7342137",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de0"
+  },
+  "SalesOrderVehicleDetailId": 99,
+  "SalesOrderVehicleId": 91,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 114,
+  "SalePrice": 27890,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 27890,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7342137",
+  "SysEndTime": "2022-12-15T20:32:14.7342137",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de1"
+  },
+  "SalesOrderVehicleDetailId": 100,
+  "SalesOrderVehicleId": 92,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 115,
+  "SalePrice": 45950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7342137",
+  "SysEndTime": "2022-12-15T20:32:14.7342137",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de2"
+  },
+  "SalesOrderVehicleDetailId": 101,
+  "SalesOrderVehicleId": 93,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 116,
+  "SalePrice": 9950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7342137",
+  "SysEndTime": "2022-12-15T20:32:14.7342137",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de3"
+  },
+  "SalesOrderVehicleDetailId": 102,
+  "SalesOrderVehicleId": 94,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 117,
+  "SalePrice": 6550,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 5800,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7342137",
+  "SysEndTime": "2022-12-15T20:32:14.7342137",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de4"
+  },
+  "SalesOrderVehicleDetailId": 103,
+  "SalesOrderVehicleId": 94,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 27,
+  "SalePrice": 156500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 156500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6526293",
+  "SysEndTime": "2022-12-15T20:32:14.6526293",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de5"
+  },
+  "SalesOrderVehicleDetailId": 104,
+  "SalesOrderVehicleId": 95,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 119,
+  "SalePrice": 76500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 75000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7382842",
+  "SysEndTime": "2022-12-15T20:32:14.7382842",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de6"
+  },
+  "SalesOrderVehicleDetailId": 105,
+  "SalesOrderVehicleId": 96,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 121,
+  "SalePrice": 119600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 119600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7382842",
+  "SysEndTime": "2022-12-15T20:32:14.7382842",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de7"
+  },
+  "SalesOrderVehicleDetailId": 106,
+  "SalesOrderVehicleId": 97,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 122,
+  "SalePrice": 85650,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 83200,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7424014",
+  "SysEndTime": "2022-12-15T20:32:14.7424014",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de8"
+  },
+  "SalesOrderVehicleDetailId": 107,
+  "SalesOrderVehicleId": 97,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 124,
+  "SalePrice": 9950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7424014",
+  "SysEndTime": "2022-12-15T20:32:14.7424014",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0de9"
+  },
+  "SalesOrderVehicleDetailId": 108,
+  "SalesOrderVehicleId": 98,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 125,
+  "SalePrice": 12500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7424014",
+  "SysEndTime": "2022-12-15T20:32:14.7424014",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dea"
+  },
+  "SalesOrderVehicleDetailId": 109,
+  "SalesOrderVehicleId": 99,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 126,
+  "SalePrice": 12500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 11750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7424014",
+  "SysEndTime": "2022-12-15T20:32:14.7424014",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0deb"
+  },
+  "SalesOrderVehicleDetailId": 110,
+  "SalesOrderVehicleId": 100,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 127,
+  "SalePrice": 56890,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 54440,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7424014",
+  "SysEndTime": "2022-12-15T20:32:14.7424014",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dec"
+  },
+  "SalesOrderVehicleDetailId": 111,
+  "SalesOrderVehicleId": 101,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 128,
+  "SalePrice": 55000,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 52550,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7464726",
+  "SysEndTime": "2022-12-15T20:32:14.7464726",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ded"
+  },
+  "SalesOrderVehicleDetailId": 112,
+  "SalesOrderVehicleId": 102,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 129,
+  "SalePrice": 9990,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9990,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7464726",
+  "SysEndTime": "2022-12-15T20:32:14.7464726",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dee"
+  },
+  "SalesOrderVehicleDetailId": 113,
+  "SalesOrderVehicleId": 102,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 130,
+  "SalePrice": 46500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 46500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7464726",
+  "SysEndTime": "2022-12-15T20:32:14.7464726",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0def"
+  },
+  "SalesOrderVehicleDetailId": 114,
+  "SalesOrderVehicleId": 102,
+  "LineItemNumber": 3,
+  "ManufacturerVehicleId": 131,
+  "SalePrice": 9500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7505501",
+  "SysEndTime": "2022-12-15T20:32:14.7505501",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df0"
+  },
+  "SalesOrderVehicleDetailId": 115,
+  "SalesOrderVehicleId": 102,
+  "LineItemNumber": 4,
+  "ManufacturerVehicleId": 132,
+  "SalePrice": 125500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 125500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7505501",
+  "SysEndTime": "2022-12-15T20:32:14.7505501",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df1"
+  },
+  "SalesOrderVehicleDetailId": 116,
+  "SalesOrderVehicleId": 103,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 133,
+  "SalePrice": 99500,
+  "LineItemDiscount": 5000,
+  "DiscountedSalePrice": 94500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7505501",
+  "SysEndTime": "2022-12-15T20:32:14.7505501",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df2"
+  },
+  "SalesOrderVehicleDetailId": 117,
+  "SalesOrderVehicleId": 104,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 134,
+  "SalePrice": 60500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 60500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7505501",
+  "SysEndTime": "2022-12-15T20:32:14.7505501",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df3"
+  },
+  "SalesOrderVehicleDetailId": 118,
+  "SalesOrderVehicleId": 105,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 135,
+  "SalePrice": 123500,
+  "LineItemDiscount": 5000,
+  "DiscountedSalePrice": 118500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7505501",
+  "SysEndTime": "2022-12-15T20:32:14.7505501",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df4"
+  },
+  "SalesOrderVehicleDetailId": 119,
+  "SalesOrderVehicleId": 106,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 136,
+  "SalePrice": 25000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 25000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7546357",
+  "SysEndTime": "2022-12-15T20:32:14.7546357",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df5"
+  },
+  "SalesOrderVehicleDetailId": 120,
+  "SalesOrderVehicleId": 107,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 137,
+  "SalePrice": 169500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 169500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7546357",
+  "SysEndTime": "2022-12-15T20:32:14.7546357",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df6"
+  },
+  "SalesOrderVehicleDetailId": 121,
+  "SalesOrderVehicleId": 108,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 138,
+  "SalePrice": 99500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7546357",
+  "SysEndTime": "2022-12-15T20:32:14.7546357",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df7"
+  },
+  "SalesOrderVehicleDetailId": 122,
+  "SalesOrderVehicleId": 109,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 139,
+  "SalePrice": 39500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 39500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7546357",
+  "SysEndTime": "2022-12-15T20:32:14.7546357",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df8"
+  },
+  "SalesOrderVehicleDetailId": 123,
+  "SalesOrderVehicleId": 110,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 140,
+  "SalePrice": 22500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 22500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7586692",
+  "SysEndTime": "2022-12-15T20:32:14.7586692",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0df9"
+  },
+  "SalesOrderVehicleDetailId": 124,
+  "SalesOrderVehicleId": 111,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 141,
+  "SalePrice": 125000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 125000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7586692",
+  "SysEndTime": "2022-12-15T20:32:14.7586692",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dfa"
+  },
+  "SalesOrderVehicleDetailId": 125,
+  "SalesOrderVehicleId": 112,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 142,
+  "SalePrice": 85000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 85000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7586692",
+  "SysEndTime": "2022-12-15T20:32:14.7586692",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dfb"
+  },
+  "SalesOrderVehicleDetailId": 126,
+  "SalesOrderVehicleId": 113,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 143,
+  "SalePrice": 1250,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 1250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7586692",
+  "SysEndTime": "2022-12-15T20:32:14.7586692",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dfc"
+  },
+  "SalesOrderVehicleDetailId": 127,
+  "SalesOrderVehicleId": 114,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 144,
+  "SalePrice": 22500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 22500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7586692",
+  "SysEndTime": "2022-12-15T20:32:14.7586692",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dfd"
+  },
+  "SalesOrderVehicleDetailId": 128,
+  "SalesOrderVehicleId": 115,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 146,
+  "SalePrice": 125950,
+  "LineItemDiscount": 12500,
+  "DiscountedSalePrice": 113450,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7627380",
+  "SysEndTime": "2022-12-15T20:32:14.7627380",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dfe"
+  },
+  "SalesOrderVehicleDetailId": 129,
+  "SalesOrderVehicleId": 116,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 148,
+  "SalePrice": 8850,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 8850,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7627380",
+  "SysEndTime": "2022-12-15T20:32:14.7627380",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0dff"
+  },
+  "SalesOrderVehicleDetailId": 130,
+  "SalesOrderVehicleId": 117,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 149,
+  "SalePrice": 9950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7627380",
+  "SysEndTime": "2022-12-15T20:32:14.7627380",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e00"
+  },
+  "SalesOrderVehicleDetailId": 131,
+  "SalesOrderVehicleId": 118,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 151,
+  "SalePrice": 56500,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 54050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7627380",
+  "SysEndTime": "2022-12-15T20:32:14.7627380",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e01"
+  },
+  "SalesOrderVehicleDetailId": 132,
+  "SalesOrderVehicleId": 119,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 152,
+  "SalePrice": 55000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 55000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7668123",
+  "SysEndTime": "2022-12-15T20:32:14.7668123",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e02"
+  },
+  "SalesOrderVehicleDetailId": 133,
+  "SalesOrderVehicleId": 120,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 154,
+  "SalePrice": 56950,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 56200,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7668123",
+  "SysEndTime": "2022-12-15T20:32:14.7668123",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e03"
+  },
+  "SalesOrderVehicleDetailId": 134,
+  "SalesOrderVehicleId": 121,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 155,
+  "SalePrice": 365000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 365000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7668123",
+  "SysEndTime": "2022-12-15T20:32:14.7668123",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e04"
+  },
+  "SalesOrderVehicleDetailId": 135,
+  "SalesOrderVehicleId": 122,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 157,
+  "SalePrice": 395000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 395000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7668123",
+  "SysEndTime": "2022-12-15T20:32:14.7668123",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e05"
+  },
+  "SalesOrderVehicleDetailId": 136,
+  "SalesOrderVehicleId": 123,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 158,
+  "SalePrice": 21500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 21500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7708898",
+  "SysEndTime": "2022-12-15T20:32:14.7708898",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e06"
+  },
+  "SalesOrderVehicleDetailId": 137,
+  "SalesOrderVehicleId": 124,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 159,
+  "SalePrice": 6500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 6500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7708898",
+  "SysEndTime": "2022-12-15T20:32:14.7708898",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e07"
+  },
+  "SalesOrderVehicleDetailId": 138,
+  "SalesOrderVehicleId": 125,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 118,
+  "SalePrice": 12500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 11750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7382842",
+  "SysEndTime": "2022-12-15T20:32:14.7382842",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e08"
+  },
+  "SalesOrderVehicleDetailId": 139,
+  "SalesOrderVehicleId": 126,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 160,
+  "SalePrice": 2250,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 2250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7708898",
+  "SysEndTime": "2022-12-15T20:32:14.7708898",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e09"
+  },
+  "SalesOrderVehicleDetailId": 140,
+  "SalesOrderVehicleId": 127,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 161,
+  "SalePrice": 3500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 3500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7708898",
+  "SysEndTime": "2022-12-15T20:32:14.7708898",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e0a"
+  },
+  "SalesOrderVehicleDetailId": 141,
+  "SalesOrderVehicleId": 128,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 162,
+  "SalePrice": 5680,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 4930,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7708898",
+  "SysEndTime": "2022-12-15T20:32:14.7708898",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e0b"
+  },
+  "SalesOrderVehicleDetailId": 142,
+  "SalesOrderVehicleId": 129,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 163,
+  "SalePrice": 8550,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 8550,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7749648",
+  "SysEndTime": "2022-12-15T20:32:14.7749648",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e0c"
+  },
+  "SalesOrderVehicleDetailId": 143,
+  "SalesOrderVehicleId": 130,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 164,
+  "SalePrice": 156500,
+  "LineItemDiscount": 10000,
+  "DiscountedSalePrice": 146500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7749648",
+  "SysEndTime": "2022-12-15T20:32:14.7749648",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e0d"
+  },
+  "SalesOrderVehicleDetailId": 144,
+  "SalesOrderVehicleId": 131,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 165,
+  "SalePrice": 56500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7749648",
+  "SysEndTime": "2022-12-15T20:32:14.7749648",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e0e"
+  },
+  "SalesOrderVehicleDetailId": 145,
+  "SalesOrderVehicleId": 132,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 166,
+  "SalePrice": 86500,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 85250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7749648",
+  "SysEndTime": "2022-12-15T20:32:14.7749648",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e0f"
+  },
+  "SalesOrderVehicleDetailId": 146,
+  "SalesOrderVehicleId": 133,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 167,
+  "SalePrice": 66500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 66500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7790393",
+  "SysEndTime": "2022-12-15T20:32:14.7790393",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e10"
+  },
+  "SalesOrderVehicleDetailId": 147,
+  "SalesOrderVehicleId": 134,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 168,
+  "SalePrice": 55600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 55600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7790393",
+  "SysEndTime": "2022-12-15T20:32:14.7790393",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e11"
+  },
+  "SalesOrderVehicleDetailId": 148,
+  "SalesOrderVehicleId": 135,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 169,
+  "SalePrice": 305000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 305000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7790393",
+  "SysEndTime": "2022-12-15T20:32:14.7790393",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e12"
+  },
+  "SalesOrderVehicleDetailId": 149,
+  "SalesOrderVehicleId": 136,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 14,
+  "SalePrice": 45000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6321209",
+  "SysEndTime": "2022-12-15T20:32:14.6321209",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e13"
+  },
+  "SalesOrderVehicleDetailId": 150,
+  "SalesOrderVehicleId": 137,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 79,
+  "SalePrice": 225000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 225000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7016173",
+  "SysEndTime": "2022-12-15T20:32:14.7016173",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e14"
+  },
+  "SalesOrderVehicleDetailId": 151,
+  "SalesOrderVehicleId": 138,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 172,
+  "SalePrice": 42950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 42950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7790393",
+  "SysEndTime": "2022-12-15T20:32:14.7790393",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e15"
+  },
+  "SalesOrderVehicleDetailId": 152,
+  "SalesOrderVehicleId": 139,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 173,
+  "SalePrice": 990,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 990,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7831261",
+  "SysEndTime": "2022-12-15T20:32:14.7831261",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e16"
+  },
+  "SalesOrderVehicleDetailId": 153,
+  "SalesOrderVehicleId": 140,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 174,
+  "SalePrice": 29500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 28000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7831261",
+  "SysEndTime": "2022-12-15T20:32:14.7831261",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e17"
+  },
+  "SalesOrderVehicleDetailId": 154,
+  "SalesOrderVehicleId": 141,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 175,
+  "SalePrice": 139500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 139500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7831261",
+  "SysEndTime": "2022-12-15T20:32:14.7831261",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e18"
+  },
+  "SalesOrderVehicleDetailId": 155,
+  "SalesOrderVehicleId": 142,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 176,
+  "SalePrice": 295000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 295000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7871999",
+  "SysEndTime": "2022-12-15T20:32:14.7871999",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e19"
+  },
+  "SalesOrderVehicleDetailId": 156,
+  "SalesOrderVehicleId": 143,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 177,
+  "SalePrice": 220500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 220500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7871999",
+  "SysEndTime": "2022-12-15T20:32:14.7871999",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e1a"
+  },
+  "SalesOrderVehicleDetailId": 157,
+  "SalesOrderVehicleId": 144,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 178,
+  "SalePrice": 79500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 78000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7871999",
+  "SysEndTime": "2022-12-15T20:32:14.7871999",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e1b"
+  },
+  "SalesOrderVehicleDetailId": 158,
+  "SalesOrderVehicleId": 145,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 180,
+  "SalePrice": 162500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 162500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7871999",
+  "SysEndTime": "2022-12-15T20:32:14.7871999",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e1c"
+  },
+  "SalesOrderVehicleDetailId": 159,
+  "SalesOrderVehicleId": 146,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 181,
+  "SalePrice": 79500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 79500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7912791",
+  "SysEndTime": "2022-12-15T20:32:14.7912791",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e1d"
+  },
+  "SalesOrderVehicleDetailId": 160,
+  "SalesOrderVehicleId": 147,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 183,
+  "SalePrice": 65890,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 65890,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7912791",
+  "SysEndTime": "2022-12-15T20:32:14.7912791",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e1e"
+  },
+  "SalesOrderVehicleDetailId": 161,
+  "SalesOrderVehicleId": 148,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 184,
+  "SalePrice": 61500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 61500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7912791",
+  "SysEndTime": "2022-12-15T20:32:14.7912791",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e1f"
+  },
+  "SalesOrderVehicleDetailId": 162,
+  "SalesOrderVehicleId": 149,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 185,
+  "SalePrice": 12500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7912791",
+  "SysEndTime": "2022-12-15T20:32:14.7912791",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e20"
+  },
+  "SalesOrderVehicleDetailId": 163,
+  "SalesOrderVehicleId": 150,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 186,
+  "SalePrice": 255000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 255000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7912791",
+  "SysEndTime": "2022-12-15T20:32:14.7912791",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e21"
+  },
+  "SalesOrderVehicleDetailId": 164,
+  "SalesOrderVehicleId": 151,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 187,
+  "SalePrice": 255950,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 255450,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7953621",
+  "SysEndTime": "2022-12-15T20:32:14.7953621",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e22"
+  },
+  "SalesOrderVehicleDetailId": 165,
+  "SalesOrderVehicleId": 152,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 188,
+  "SalePrice": 250000,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 247550,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7953621",
+  "SysEndTime": "2022-12-15T20:32:14.7953621",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e23"
+  },
+  "SalesOrderVehicleDetailId": 166,
+  "SalesOrderVehicleId": 153,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 189,
+  "SalePrice": 6500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 6500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7994484",
+  "SysEndTime": "2022-12-15T20:32:14.7994484",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e24"
+  },
+  "SalesOrderVehicleDetailId": 167,
+  "SalesOrderVehicleId": 154,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 190,
+  "SalePrice": 9250,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7994484",
+  "SysEndTime": "2022-12-15T20:32:14.7994484",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e25"
+  },
+  "SalesOrderVehicleDetailId": 168,
+  "SalesOrderVehicleId": 155,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 191,
+  "SalePrice": 950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7994484",
+  "SysEndTime": "2022-12-15T20:32:14.7994484",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e26"
+  },
+  "SalesOrderVehicleDetailId": 169,
+  "SalesOrderVehicleId": 156,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 192,
+  "SalePrice": 295000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 295000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7994484",
+  "SysEndTime": "2022-12-15T20:32:14.7994484",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e27"
+  },
+  "SalesOrderVehicleDetailId": 170,
+  "SalesOrderVehicleId": 157,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 193,
+  "SalePrice": 99500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8035087",
+  "SysEndTime": "2022-12-15T20:32:14.8035087",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e28"
+  },
+  "SalesOrderVehicleDetailId": 171,
+  "SalesOrderVehicleId": 158,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 194,
+  "SalePrice": 33500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 32750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8035087",
+  "SysEndTime": "2022-12-15T20:32:14.8035087",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e29"
+  },
+  "SalesOrderVehicleDetailId": 172,
+  "SalesOrderVehicleId": 159,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 195,
+  "SalePrice": 45000,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 42550,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8035087",
+  "SysEndTime": "2022-12-15T20:32:14.8035087",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e2a"
+  },
+  "SalesOrderVehicleDetailId": 173,
+  "SalesOrderVehicleId": 160,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 196,
+  "SalePrice": 36500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 36500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8035087",
+  "SysEndTime": "2022-12-15T20:32:14.8035087",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e2b"
+  },
+  "SalesOrderVehicleDetailId": 174,
+  "SalesOrderVehicleId": 160,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 197,
+  "SalePrice": 77500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 77500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8075893",
+  "SysEndTime": "2022-12-15T20:32:14.8075893",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e2c"
+  },
+  "SalesOrderVehicleDetailId": 175,
+  "SalesOrderVehicleId": 161,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 198,
+  "SalePrice": 2350,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 2350,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8075893",
+  "SysEndTime": "2022-12-15T20:32:14.8075893",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e2d"
+  },
+  "SalesOrderVehicleDetailId": 176,
+  "SalesOrderVehicleId": 162,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 199,
+  "SalePrice": 32500,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 32000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8075893",
+  "SysEndTime": "2022-12-15T20:32:14.8075893",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e2e"
+  },
+  "SalesOrderVehicleDetailId": 177,
+  "SalesOrderVehicleId": 163,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 200,
+  "SalePrice": 45000,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 43500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8075893",
+  "SysEndTime": "2022-12-15T20:32:14.8075893",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e2f"
+  },
+  "SalesOrderVehicleDetailId": 178,
+  "SalesOrderVehicleId": 164,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 202,
+  "SalePrice": 8500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 8500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8116695",
+  "SysEndTime": "2022-12-15T20:32:14.8116695",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e30"
+  },
+  "SalesOrderVehicleDetailId": 179,
+  "SalesOrderVehicleId": 165,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 204,
+  "SalePrice": 99500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8116695",
+  "SysEndTime": "2022-12-15T20:32:14.8116695",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e31"
+  },
+  "SalesOrderVehicleDetailId": 180,
+  "SalesOrderVehicleId": 166,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 205,
+  "SalePrice": 25000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 25000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8116695",
+  "SysEndTime": "2022-12-15T20:32:14.8116695",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e32"
+  },
+  "SalesOrderVehicleDetailId": 181,
+  "SalesOrderVehicleId": 167,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 206,
+  "SalePrice": 19500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 19500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8116695",
+  "SysEndTime": "2022-12-15T20:32:14.8116695",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e33"
+  },
+  "SalesOrderVehicleDetailId": 182,
+  "SalesOrderVehicleId": 168,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 207,
+  "SalePrice": 12950,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 12200,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8157486",
+  "SysEndTime": "2022-12-15T20:32:14.8157486",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e34"
+  },
+  "SalesOrderVehicleDetailId": 183,
+  "SalesOrderVehicleId": 169,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 208,
+  "SalePrice": 5650,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 5650,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8157486",
+  "SysEndTime": "2022-12-15T20:32:14.8157486",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e35"
+  },
+  "SalesOrderVehicleDetailId": 184,
+  "SalesOrderVehicleId": 170,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 209,
+  "SalePrice": 29500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 28000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8157486",
+  "SysEndTime": "2022-12-15T20:32:14.8157486",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e36"
+  },
+  "SalesOrderVehicleDetailId": 185,
+  "SalesOrderVehicleId": 171,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 211,
+  "SalePrice": 3950,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 3200,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8198244",
+  "SysEndTime": "2022-12-15T20:32:14.8198244",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e37"
+  },
+  "SalesOrderVehicleDetailId": 186,
+  "SalesOrderVehicleId": 171,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 212,
+  "SalePrice": 29500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 28750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8198244",
+  "SysEndTime": "2022-12-15T20:32:14.8198244",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e38"
+  },
+  "SalesOrderVehicleDetailId": 187,
+  "SalesOrderVehicleId": 171,
+  "LineItemNumber": 3,
+  "ManufacturerVehicleId": 213,
+  "SalePrice": 12500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8198244",
+  "SysEndTime": "2022-12-15T20:32:14.8198244",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e39"
+  },
+  "SalesOrderVehicleDetailId": 188,
+  "SalesOrderVehicleId": 172,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 214,
+  "SalePrice": 99950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8198244",
+  "SysEndTime": "2022-12-15T20:32:14.8198244",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e3a"
+  },
+  "SalesOrderVehicleDetailId": 189,
+  "SalesOrderVehicleId": 173,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 215,
+  "SalePrice": 335000,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 333750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8198244",
+  "SysEndTime": "2022-12-15T20:32:14.8198244",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e3b"
+  },
+  "SalesOrderVehicleDetailId": 190,
+  "SalesOrderVehicleId": 174,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 216,
+  "SalePrice": 56500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8239158",
+  "SysEndTime": "2022-12-15T20:32:14.8239158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e3c"
+  },
+  "SalesOrderVehicleDetailId": 191,
+  "SalesOrderVehicleId": 175,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 217,
+  "SalePrice": 99500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8239158",
+  "SysEndTime": "2022-12-15T20:32:14.8239158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e3d"
+  },
+  "SalesOrderVehicleDetailId": 192,
+  "SalesOrderVehicleId": 176,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 218,
+  "SalePrice": 135000,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 133500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8239158",
+  "SysEndTime": "2022-12-15T20:32:14.8239158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e3e"
+  },
+  "SalesOrderVehicleDetailId": 193,
+  "SalesOrderVehicleId": 177,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 219,
+  "SalePrice": 89500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 89500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8239158",
+  "SysEndTime": "2022-12-15T20:32:14.8239158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e3f"
+  },
+  "SalesOrderVehicleDetailId": 194,
+  "SalesOrderVehicleId": 178,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 220,
+  "SalePrice": 165000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 165000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8280004",
+  "SysEndTime": "2022-12-15T20:32:14.8280004",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e40"
+  },
+  "SalesOrderVehicleDetailId": 195,
+  "SalesOrderVehicleId": 179,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 221,
+  "SalePrice": 22600,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 22100,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8280004",
+  "SysEndTime": "2022-12-15T20:32:14.8280004",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e41"
+  },
+  "SalesOrderVehicleDetailId": 196,
+  "SalesOrderVehicleId": 180,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 222,
+  "SalePrice": 32675,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 32675,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8280004",
+  "SysEndTime": "2022-12-15T20:32:14.8280004",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e42"
+  },
+  "SalesOrderVehicleDetailId": 197,
+  "SalesOrderVehicleId": 181,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 223,
+  "SalePrice": 45000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8280004",
+  "SysEndTime": "2022-12-15T20:32:14.8280004",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e43"
+  },
+  "SalesOrderVehicleDetailId": 198,
+  "SalesOrderVehicleId": 182,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 224,
+  "SalePrice": 5500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 5500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8280004",
+  "SysEndTime": "2022-12-15T20:32:14.8280004",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e44"
+  },
+  "SalesOrderVehicleDetailId": 199,
+  "SalesOrderVehicleId": 183,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 225,
+  "SalePrice": 55000,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 52550,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8320754",
+  "SysEndTime": "2022-12-15T20:32:14.8320754",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e45"
+  },
+  "SalesOrderVehicleDetailId": 200,
+  "SalesOrderVehicleId": 184,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 226,
+  "SalePrice": 49500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 49500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8320754",
+  "SysEndTime": "2022-12-15T20:32:14.8320754",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e46"
+  },
+  "SalesOrderVehicleDetailId": 201,
+  "SalesOrderVehicleId": 185,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 227,
+  "SalePrice": 250000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 250000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8320754",
+  "SysEndTime": "2022-12-15T20:32:14.8320754",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e47"
+  },
+  "SalesOrderVehicleDetailId": 202,
+  "SalesOrderVehicleId": 186,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 228,
+  "SalePrice": 155000,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 154500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8320754",
+  "SysEndTime": "2022-12-15T20:32:14.8320754",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e48"
+  },
+  "SalesOrderVehicleDetailId": 203,
+  "SalesOrderVehicleId": 187,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 229,
+  "SalePrice": 15750,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 15750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8320754",
+  "SysEndTime": "2022-12-15T20:32:14.8320754",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e49"
+  },
+  "SalesOrderVehicleDetailId": 204,
+  "SalesOrderVehicleId": 188,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 230,
+  "SalePrice": 19500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 19500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8361536",
+  "SysEndTime": "2022-12-15T20:32:14.8361536",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e4a"
+  },
+  "SalesOrderVehicleDetailId": 205,
+  "SalesOrderVehicleId": 189,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 231,
+  "SalePrice": 235000,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 234250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8361536",
+  "SysEndTime": "2022-12-15T20:32:14.8361536",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e4b"
+  },
+  "SalesOrderVehicleDetailId": 206,
+  "SalesOrderVehicleId": 190,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 232,
+  "SalePrice": 25000,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 23500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8361536",
+  "SysEndTime": "2022-12-15T20:32:14.8361536",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e4c"
+  },
+  "SalesOrderVehicleDetailId": 207,
+  "SalesOrderVehicleId": 191,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 233,
+  "SalePrice": 245000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 245000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8361536",
+  "SysEndTime": "2022-12-15T20:32:14.8361536",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e4d"
+  },
+  "SalesOrderVehicleDetailId": 208,
+  "SalesOrderVehicleId": 192,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 234,
+  "SalePrice": 39500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 39500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8402323",
+  "SysEndTime": "2022-12-15T20:32:14.8402323",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e4e"
+  },
+  "SalesOrderVehicleDetailId": 209,
+  "SalesOrderVehicleId": 192,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 70,
+  "SalePrice": 49500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 49500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6934301",
+  "SysEndTime": "2022-12-15T20:32:14.6934301",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e4f"
+  },
+  "SalesOrderVehicleDetailId": 210,
+  "SalesOrderVehicleId": 193,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 236,
+  "SalePrice": 23500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 23500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8402323",
+  "SysEndTime": "2022-12-15T20:32:14.8402323",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e50"
+  },
+  "SalesOrderVehicleDetailId": 211,
+  "SalesOrderVehicleId": 193,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 237,
+  "SalePrice": 10500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 10500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8402323",
+  "SysEndTime": "2022-12-15T20:32:14.8402323",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e51"
+  },
+  "SalesOrderVehicleDetailId": 212,
+  "SalesOrderVehicleId": 194,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 238,
+  "SalePrice": 11500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 10750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8402323",
+  "SysEndTime": "2022-12-15T20:32:14.8402323",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e52"
+  },
+  "SalesOrderVehicleDetailId": 213,
+  "SalesOrderVehicleId": 194,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 240,
+  "SalePrice": 51200,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 51200,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8443215",
+  "SysEndTime": "2022-12-15T20:32:14.8443215",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e53"
+  },
+  "SalesOrderVehicleDetailId": 214,
+  "SalesOrderVehicleId": 195,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 241,
+  "SalePrice": 45950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8443215",
+  "SysEndTime": "2022-12-15T20:32:14.8443215",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e54"
+  },
+  "SalesOrderVehicleDetailId": 215,
+  "SalesOrderVehicleId": 196,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 242,
+  "SalePrice": 21600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 21600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8443215",
+  "SysEndTime": "2022-12-15T20:32:14.8443215",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e55"
+  },
+  "SalesOrderVehicleDetailId": 216,
+  "SalesOrderVehicleId": 197,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 244,
+  "SalePrice": 25000,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 23750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8443215",
+  "SysEndTime": "2022-12-15T20:32:14.8443215",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e56"
+  },
+  "SalesOrderVehicleDetailId": 217,
+  "SalesOrderVehicleId": 198,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 245,
+  "SalePrice": 23600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 23600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8483939",
+  "SysEndTime": "2022-12-15T20:32:14.8483939",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e57"
+  },
+  "SalesOrderVehicleDetailId": 218,
+  "SalesOrderVehicleId": 199,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 247,
+  "SalePrice": 99950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8483939",
+  "SysEndTime": "2022-12-15T20:32:14.8483939",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e58"
+  },
+  "SalesOrderVehicleDetailId": 219,
+  "SalesOrderVehicleId": 200,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 248,
+  "SalePrice": 46900,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 46900,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8483939",
+  "SysEndTime": "2022-12-15T20:32:14.8483939",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e59"
+  },
+  "SalesOrderVehicleDetailId": 220,
+  "SalesOrderVehicleId": 201,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 249,
+  "SalePrice": 45950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8483939",
+  "SysEndTime": "2022-12-15T20:32:14.8483939",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e5a"
+  },
+  "SalesOrderVehicleDetailId": 221,
+  "SalesOrderVehicleId": 202,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 250,
+  "SalePrice": 7550,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 7550,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8483939",
+  "SysEndTime": "2022-12-15T20:32:14.8483939",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e5b"
+  },
+  "SalesOrderVehicleDetailId": 222,
+  "SalesOrderVehicleId": 203,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 251,
+  "SalePrice": 11990,
+  "LineItemDiscount": 900,
+  "DiscountedSalePrice": 11090,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8524780",
+  "SysEndTime": "2022-12-15T20:32:14.8524780",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e5c"
+  },
+  "SalesOrderVehicleDetailId": 223,
+  "SalesOrderVehicleId": 204,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 252,
+  "SalePrice": 12500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8524780",
+  "SysEndTime": "2022-12-15T20:32:14.8524780",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e5d"
+  },
+  "SalesOrderVehicleDetailId": 224,
+  "SalesOrderVehicleId": 205,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 253,
+  "SalePrice": 7500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 7500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8524780",
+  "SysEndTime": "2022-12-15T20:32:14.8524780",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e5e"
+  },
+  "SalesOrderVehicleDetailId": 225,
+  "SalesOrderVehicleId": 206,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 254,
+  "SalePrice": 56850,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56850,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8524780",
+  "SysEndTime": "2022-12-15T20:32:14.8524780",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e5f"
+  },
+  "SalesOrderVehicleDetailId": 226,
+  "SalesOrderVehicleId": 207,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 257,
+  "SalePrice": 62500,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 61250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8565672",
+  "SysEndTime": "2022-12-15T20:32:14.8565672",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e60"
+  },
+  "SalesOrderVehicleDetailId": 227,
+  "SalesOrderVehicleId": 208,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 258,
+  "SalePrice": 42500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 42500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8565672",
+  "SysEndTime": "2022-12-15T20:32:14.8565672",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e61"
+  },
+  "SalesOrderVehicleDetailId": 228,
+  "SalesOrderVehicleId": 209,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 259,
+  "SalePrice": 65450,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 64200,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8565672",
+  "SysEndTime": "2022-12-15T20:32:14.8565672",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e62"
+  },
+  "SalesOrderVehicleDetailId": 229,
+  "SalesOrderVehicleId": 210,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 256,
+  "SalePrice": 56950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8524780",
+  "SysEndTime": "2022-12-15T20:32:14.8524780",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e63"
+  },
+  "SalesOrderVehicleDetailId": 230,
+  "SalesOrderVehicleId": 211,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 260,
+  "SalePrice": 1950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 1950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8565672",
+  "SysEndTime": "2022-12-15T20:32:14.8565672",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e64"
+  },
+  "SalesOrderVehicleDetailId": 231,
+  "SalesOrderVehicleId": 212,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 261,
+  "SalePrice": 1150,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 1150,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8606431",
+  "SysEndTime": "2022-12-15T20:32:14.8606431",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e65"
+  },
+  "SalesOrderVehicleDetailId": 232,
+  "SalesOrderVehicleId": 213,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 262,
+  "SalePrice": 11550,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 11550,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8606431",
+  "SysEndTime": "2022-12-15T20:32:14.8606431",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e66"
+  },
+  "SalesOrderVehicleDetailId": 233,
+  "SalesOrderVehicleId": 214,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 263,
+  "SalePrice": 12570,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 12070,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8606431",
+  "SysEndTime": "2022-12-15T20:32:14.8606431",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e67"
+  },
+  "SalesOrderVehicleDetailId": 234,
+  "SalesOrderVehicleId": 215,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 264,
+  "SalePrice": 9890,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9890,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8606431",
+  "SysEndTime": "2022-12-15T20:32:14.8606431",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e68"
+  },
+  "SalesOrderVehicleDetailId": 235,
+  "SalesOrderVehicleId": 216,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 265,
+  "SalePrice": 56950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8606431",
+  "SysEndTime": "2022-12-15T20:32:14.8606431",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e69"
+  },
+  "SalesOrderVehicleDetailId": 236,
+  "SalesOrderVehicleId": 217,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 266,
+  "SalePrice": 45950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8647129",
+  "SysEndTime": "2022-12-15T20:32:14.8647129",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e6a"
+  },
+  "SalesOrderVehicleDetailId": 237,
+  "SalesOrderVehicleId": 218,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 267,
+  "SalePrice": 950,
+  "LineItemDiscount": 25,
+  "DiscountedSalePrice": 925,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8647129",
+  "SysEndTime": "2022-12-15T20:32:14.8647129",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e6b"
+  },
+  "SalesOrderVehicleDetailId": 238,
+  "SalesOrderVehicleId": 219,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 268,
+  "SalePrice": 21550,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 20300,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8647129",
+  "SysEndTime": "2022-12-15T20:32:14.8647129",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e6c"
+  },
+  "SalesOrderVehicleDetailId": 239,
+  "SalesOrderVehicleId": 220,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 269,
+  "SalePrice": 5950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 5950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8687831",
+  "SysEndTime": "2022-12-15T20:32:14.8687831",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e6d"
+  },
+  "SalesOrderVehicleDetailId": 240,
+  "SalesOrderVehicleId": 221,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 270,
+  "SalePrice": 365000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 365000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8687831",
+  "SysEndTime": "2022-12-15T20:32:14.8687831",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e6e"
+  },
+  "SalesOrderVehicleDetailId": 241,
+  "SalesOrderVehicleId": 222,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 271,
+  "SalePrice": 120000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 120000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8687831",
+  "SysEndTime": "2022-12-15T20:32:14.8687831",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e6f"
+  },
+  "SalesOrderVehicleDetailId": 242,
+  "SalesOrderVehicleId": 223,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 272,
+  "SalePrice": 17850,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 17100,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8687831",
+  "SysEndTime": "2022-12-15T20:32:14.8687831",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e70"
+  },
+  "SalesOrderVehicleDetailId": 243,
+  "SalesOrderVehicleId": 223,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 273,
+  "SalePrice": 103650,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 103650,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8728636",
+  "SysEndTime": "2022-12-15T20:32:14.8728636",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e71"
+  },
+  "SalesOrderVehicleDetailId": 244,
+  "SalesOrderVehicleId": 224,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 274,
+  "SalePrice": 182500,
+  "LineItemDiscount": 17500,
+  "DiscountedSalePrice": 165000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8728636",
+  "SysEndTime": "2022-12-15T20:32:14.8728636",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e72"
+  },
+  "SalesOrderVehicleDetailId": 245,
+  "SalesOrderVehicleId": 225,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 275,
+  "SalePrice": 22500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 22500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8728636",
+  "SysEndTime": "2022-12-15T20:32:14.8728636",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e73"
+  },
+  "SalesOrderVehicleDetailId": 246,
+  "SalesOrderVehicleId": 226,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 276,
+  "SalePrice": 21500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 21500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8728636",
+  "SysEndTime": "2022-12-15T20:32:14.8728636",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e74"
+  },
+  "SalesOrderVehicleDetailId": 247,
+  "SalesOrderVehicleId": 227,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 120,
+  "SalePrice": 189500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 188000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.7382842",
+  "SysEndTime": "2022-12-15T20:32:14.7382842",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e75"
+  },
+  "SalesOrderVehicleDetailId": 248,
+  "SalesOrderVehicleId": 228,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 29,
+  "SalePrice": 55450,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 53950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.6526293",
+  "SysEndTime": "2022-12-15T20:32:14.6526293",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e76"
+  },
+  "SalesOrderVehicleDetailId": 249,
+  "SalesOrderVehicleId": 229,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 280,
+  "SalePrice": 98950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 98950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8769364",
+  "SysEndTime": "2022-12-15T20:32:14.8769364",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e77"
+  },
+  "SalesOrderVehicleDetailId": 250,
+  "SalesOrderVehicleId": 230,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 281,
+  "SalePrice": 355000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 355000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8769364",
+  "SysEndTime": "2022-12-15T20:32:14.8769364",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e78"
+  },
+  "SalesOrderVehicleDetailId": 251,
+  "SalesOrderVehicleId": 231,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 282,
+  "SalePrice": 6000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 6000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8769364",
+  "SysEndTime": "2022-12-15T20:32:14.8769364",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e79"
+  },
+  "SalesOrderVehicleDetailId": 252,
+  "SalesOrderVehicleId": 232,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 283,
+  "SalePrice": 5690,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 4940,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8769364",
+  "SysEndTime": "2022-12-15T20:32:14.8769364",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e7a"
+  },
+  "SalesOrderVehicleDetailId": 253,
+  "SalesOrderVehicleId": 233,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 284,
+  "SalePrice": 56900,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 56400,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8769364",
+  "SysEndTime": "2022-12-15T20:32:14.8769364",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e7b"
+  },
+  "SalesOrderVehicleDetailId": 254,
+  "SalesOrderVehicleId": 234,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 285,
+  "SalePrice": 145000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 145000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8810234",
+  "SysEndTime": "2022-12-15T20:32:14.8810234",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e7c"
+  },
+  "SalesOrderVehicleDetailId": 255,
+  "SalesOrderVehicleId": 234,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 286,
+  "SalePrice": 99500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8810234",
+  "SysEndTime": "2022-12-15T20:32:14.8810234",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e7d"
+  },
+  "SalesOrderVehicleDetailId": 256,
+  "SalesOrderVehicleId": 234,
+  "LineItemNumber": 3,
+  "ManufacturerVehicleId": 287,
+  "SalePrice": 123500,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 122750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8810234",
+  "SysEndTime": "2022-12-15T20:32:14.8810234",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e7e"
+  },
+  "SalesOrderVehicleDetailId": 257,
+  "SalesOrderVehicleId": 235,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 288,
+  "SalePrice": 310000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 310000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8810234",
+  "SysEndTime": "2022-12-15T20:32:14.8810234",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e7f"
+  },
+  "SalesOrderVehicleDetailId": 258,
+  "SalesOrderVehicleId": 236,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 289,
+  "SalePrice": 9800,
+  "LineItemDiscount": 35,
+  "DiscountedSalePrice": 9765,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8810234",
+  "SysEndTime": "2022-12-15T20:32:14.8810234",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e80"
+  },
+  "SalesOrderVehicleDetailId": 259,
+  "SalesOrderVehicleId": 237,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 290,
+  "SalePrice": 15950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 15950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8851048",
+  "SysEndTime": "2022-12-15T20:32:14.8851048",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e81"
+  },
+  "SalesOrderVehicleDetailId": 260,
+  "SalesOrderVehicleId": 238,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 291,
+  "SalePrice": 255000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 255000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8851048",
+  "SysEndTime": "2022-12-15T20:32:14.8851048",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e82"
+  },
+  "SalesOrderVehicleDetailId": 261,
+  "SalesOrderVehicleId": 238,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 293,
+  "SalePrice": 12950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8851048",
+  "SysEndTime": "2022-12-15T20:32:14.8851048",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e83"
+  },
+  "SalesOrderVehicleDetailId": 262,
+  "SalesOrderVehicleId": 239,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 294,
+  "SalePrice": 155000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 155000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8851048",
+  "SysEndTime": "2022-12-15T20:32:14.8851048",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e84"
+  },
+  "SalesOrderVehicleDetailId": 263,
+  "SalesOrderVehicleId": 240,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 295,
+  "SalePrice": 2500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 2500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8891870",
+  "SysEndTime": "2022-12-15T20:32:14.8891870",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e85"
+  },
+  "SalesOrderVehicleDetailId": 264,
+  "SalesOrderVehicleId": 241,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 239,
+  "SalePrice": 9950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8402323",
+  "SysEndTime": "2022-12-15T20:32:14.8402323",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e86"
+  },
+  "SalesOrderVehicleDetailId": 265,
+  "SalesOrderVehicleId": 242,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 297,
+  "SalePrice": 39500,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 37050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8891870",
+  "SysEndTime": "2022-12-15T20:32:14.8891870",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e87"
+  },
+  "SalesOrderVehicleDetailId": 266,
+  "SalesOrderVehicleId": 243,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 298,
+  "SalePrice": 23500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 23500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8891870",
+  "SysEndTime": "2022-12-15T20:32:14.8891870",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e88"
+  },
+  "SalesOrderVehicleDetailId": 267,
+  "SalesOrderVehicleId": 244,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 299,
+  "SalePrice": 45950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8891870",
+  "SysEndTime": "2022-12-15T20:32:14.8891870",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e89"
+  },
+  "SalesOrderVehicleDetailId": 268,
+  "SalesOrderVehicleId": 245,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 300,
+  "SalePrice": 55000,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 54250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8932691",
+  "SysEndTime": "2022-12-15T20:32:14.8932691",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e8a"
+  },
+  "SalesOrderVehicleDetailId": 269,
+  "SalesOrderVehicleId": 246,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 301,
+  "SalePrice": 100000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 100000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8932691",
+  "SysEndTime": "2022-12-15T20:32:14.8932691",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e8b"
+  },
+  "SalesOrderVehicleDetailId": 270,
+  "SalesOrderVehicleId": 247,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 302,
+  "SalePrice": 44885,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 44885,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8932691",
+  "SysEndTime": "2022-12-15T20:32:14.8932691",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e8c"
+  },
+  "SalesOrderVehicleDetailId": 271,
+  "SalesOrderVehicleId": 248,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 303,
+  "SalePrice": 61500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 61500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8932691",
+  "SysEndTime": "2022-12-15T20:32:14.8932691",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e8d"
+  },
+  "SalesOrderVehicleDetailId": 272,
+  "SalesOrderVehicleId": 249,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 304,
+  "SalePrice": 950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8973525",
+  "SysEndTime": "2022-12-15T20:32:14.8973525",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e8e"
+  },
+  "SalesOrderVehicleDetailId": 273,
+  "SalesOrderVehicleId": 250,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 307,
+  "SalePrice": 195000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 195000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8973525",
+  "SysEndTime": "2022-12-15T20:32:14.8973525",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e8f"
+  },
+  "SalesOrderVehicleDetailId": 274,
+  "SalesOrderVehicleId": 251,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 308,
+  "SalePrice": 52500,
+  "LineItemDiscount": 1575,
+  "DiscountedSalePrice": 50925,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8973525",
+  "SysEndTime": "2022-12-15T20:32:14.8973525",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e90"
+  },
+  "SalesOrderVehicleDetailId": 275,
+  "SalesOrderVehicleId": 252,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 309,
+  "SalePrice": 1350,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 1350,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8973525",
+  "SysEndTime": "2022-12-15T20:32:14.8973525",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e91"
+  },
+  "SalesOrderVehicleDetailId": 276,
+  "SalesOrderVehicleId": 253,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 310,
+  "SalePrice": 2495,
+  "LineItemDiscount": 45,
+  "DiscountedSalePrice": 2450,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8973525",
+  "SysEndTime": "2022-12-15T20:32:14.8973525",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e92"
+  },
+  "SalesOrderVehicleDetailId": 277,
+  "SalesOrderVehicleId": 254,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 311,
+  "SalePrice": 269500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 269500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9014279",
+  "SysEndTime": "2022-12-15T20:32:14.9014279",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e93"
+  },
+  "SalesOrderVehicleDetailId": 278,
+  "SalesOrderVehicleId": 255,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 312,
+  "SalePrice": 195000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 195000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9014279",
+  "SysEndTime": "2022-12-15T20:32:14.9014279",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e94"
+  },
+  "SalesOrderVehicleDetailId": 279,
+  "SalesOrderVehicleId": 256,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 313,
+  "SalePrice": 25950,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 24700,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9014279",
+  "SysEndTime": "2022-12-15T20:32:14.9014279",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e95"
+  },
+  "SalesOrderVehicleDetailId": 280,
+  "SalesOrderVehicleId": 257,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 314,
+  "SalePrice": 9990,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9990,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9014279",
+  "SysEndTime": "2022-12-15T20:32:14.9014279",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e96"
+  },
+  "SalesOrderVehicleDetailId": 281,
+  "SalesOrderVehicleId": 258,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 315,
+  "SalePrice": 135000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 135000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9014279",
+  "SysEndTime": "2022-12-15T20:32:14.9014279",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e97"
+  },
+  "SalesOrderVehicleDetailId": 282,
+  "SalesOrderVehicleId": 259,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 201,
+  "SalePrice": 1250,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 1250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8075893",
+  "SysEndTime": "2022-12-15T20:32:14.8075893",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e98"
+  },
+  "SalesOrderVehicleDetailId": 283,
+  "SalesOrderVehicleId": 260,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 203,
+  "SalePrice": 6590,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 5840,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.8116695",
+  "SysEndTime": "2022-12-15T20:32:14.8116695",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e99"
+  },
+  "SalesOrderVehicleDetailId": 284,
+  "SalesOrderVehicleId": 261,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 317,
+  "SalePrice": 89500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 89500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9055029",
+  "SysEndTime": "2022-12-15T20:32:14.9055029",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e9a"
+  },
+  "SalesOrderVehicleDetailId": 285,
+  "SalesOrderVehicleId": 262,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 318,
+  "SalePrice": 18500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 18500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9055029",
+  "SysEndTime": "2022-12-15T20:32:14.9055029",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e9b"
+  },
+  "SalesOrderVehicleDetailId": 286,
+  "SalesOrderVehicleId": 263,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 320,
+  "SalePrice": 3575,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 2825,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9055029",
+  "SysEndTime": "2022-12-15T20:32:14.9055029",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e9c"
+  },
+  "SalesOrderVehicleDetailId": 287,
+  "SalesOrderVehicleId": 264,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 321,
+  "SalePrice": 6950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 6950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9055029",
+  "SysEndTime": "2022-12-15T20:32:14.9055029",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e9d"
+  },
+  "SalesOrderVehicleDetailId": 288,
+  "SalesOrderVehicleId": 265,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 323,
+  "SalePrice": 26500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 26500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9095789",
+  "SysEndTime": "2022-12-15T20:32:14.9095789",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e9e"
+  },
+  "SalesOrderVehicleDetailId": 289,
+  "SalesOrderVehicleId": 266,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 324,
+  "SalePrice": 33500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 33500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9095789",
+  "SysEndTime": "2022-12-15T20:32:14.9095789",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0e9f"
+  },
+  "SalesOrderVehicleDetailId": 290,
+  "SalesOrderVehicleId": 267,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 325,
+  "SalePrice": 24500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 24500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9095789",
+  "SysEndTime": "2022-12-15T20:32:14.9095789",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea0"
+  },
+  "SalesOrderVehicleDetailId": 291,
+  "SalesOrderVehicleId": 268,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 327,
+  "SalePrice": 99500,
+  "LineItemDiscount": 500,
+  "DiscountedSalePrice": 99000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9095789",
+  "SysEndTime": "2022-12-15T20:32:14.9095789",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea1"
+  },
+  "SalesOrderVehicleDetailId": 292,
+  "SalesOrderVehicleId": 269,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 328,
+  "SalePrice": 99990,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99990,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9136642",
+  "SysEndTime": "2022-12-15T20:32:14.9136642",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea2"
+  },
+  "SalesOrderVehicleDetailId": 293,
+  "SalesOrderVehicleId": 270,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 329,
+  "SalePrice": 6950,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 5700,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9136642",
+  "SysEndTime": "2022-12-15T20:32:14.9136642",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea3"
+  },
+  "SalesOrderVehicleDetailId": 294,
+  "SalesOrderVehicleId": 271,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 330,
+  "SalePrice": 10500,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 9000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9177502",
+  "SysEndTime": "2022-12-15T20:32:14.9177502",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea4"
+  },
+  "SalesOrderVehicleDetailId": 295,
+  "SalesOrderVehicleId": 272,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 331,
+  "SalePrice": 33450,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 33450,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9177502",
+  "SysEndTime": "2022-12-15T20:32:14.9177502",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea5"
+  },
+  "SalesOrderVehicleDetailId": 296,
+  "SalesOrderVehicleId": 273,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 332,
+  "SalePrice": 72500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 72500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9177502",
+  "SysEndTime": "2022-12-15T20:32:14.9177502",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea6"
+  },
+  "SalesOrderVehicleDetailId": 297,
+  "SalesOrderVehicleId": 274,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 333,
+  "SalePrice": 2400,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 2400,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9177502",
+  "SysEndTime": "2022-12-15T20:32:14.9177502",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea7"
+  },
+  "SalesOrderVehicleDetailId": 298,
+  "SalesOrderVehicleId": 275,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 334,
+  "SalePrice": 68500,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 66050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9218389",
+  "SysEndTime": "2022-12-15T20:32:14.9218389",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea8"
+  },
+  "SalesOrderVehicleDetailId": 299,
+  "SalesOrderVehicleId": 276,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 335,
+  "SalePrice": 2350,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 2350,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9218389",
+  "SysEndTime": "2022-12-15T20:32:14.9218389",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ea9"
+  },
+  "SalesOrderVehicleDetailId": 300,
+  "SalesOrderVehicleId": 277,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 336,
+  "SalePrice": 18500,
+  "LineItemDiscount": 1950,
+  "DiscountedSalePrice": 16550,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9218389",
+  "SysEndTime": "2022-12-15T20:32:14.9218389",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eaa"
+  },
+  "SalesOrderVehicleDetailId": 301,
+  "SalesOrderVehicleId": 278,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 337,
+  "SalePrice": 5500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 5500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9218389",
+  "SysEndTime": "2022-12-15T20:32:14.9218389",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eab"
+  },
+  "SalesOrderVehicleDetailId": 302,
+  "SalesOrderVehicleId": 279,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 338,
+  "SalePrice": 128500,
+  "LineItemDiscount": 12500,
+  "DiscountedSalePrice": 116000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9218389",
+  "SysEndTime": "2022-12-15T20:32:14.9218389",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eac"
+  },
+  "SalesOrderVehicleDetailId": 303,
+  "SalesOrderVehicleId": 280,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 339,
+  "SalePrice": 55000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 55000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9259103",
+  "SysEndTime": "2022-12-15T20:32:14.9259103",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ead"
+  },
+  "SalesOrderVehicleDetailId": 304,
+  "SalesOrderVehicleId": 281,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 340,
+  "SalePrice": 1250,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 1250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9259103",
+  "SysEndTime": "2022-12-15T20:32:14.9259103",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eae"
+  },
+  "SalesOrderVehicleDetailId": 305,
+  "SalesOrderVehicleId": 282,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 341,
+  "SalePrice": 345000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 345000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9259103",
+  "SysEndTime": "2022-12-15T20:32:14.9259103",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eaf"
+  },
+  "SalesOrderVehicleDetailId": 306,
+  "SalesOrderVehicleId": 283,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 344,
+  "SalePrice": 82590,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 82590,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9259103",
+  "SysEndTime": "2022-12-15T20:32:14.9259103",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb0"
+  },
+  "SalesOrderVehicleDetailId": 307,
+  "SalesOrderVehicleId": 284,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 345,
+  "SalePrice": 113590,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 113590,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9299921",
+  "SysEndTime": "2022-12-15T20:32:14.9299921",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb1"
+  },
+  "SalesOrderVehicleDetailId": 308,
+  "SalesOrderVehicleId": 285,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 346,
+  "SalePrice": 45000,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 43750,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9299921",
+  "SysEndTime": "2022-12-15T20:32:14.9299921",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb2"
+  },
+  "SalesOrderVehicleDetailId": 309,
+  "SalesOrderVehicleId": 286,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 347,
+  "SalePrice": 57600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 57600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9299921",
+  "SysEndTime": "2022-12-15T20:32:14.9299921",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb3"
+  },
+  "SalesOrderVehicleDetailId": 310,
+  "SalesOrderVehicleId": 287,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 348,
+  "SalePrice": 102500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 102500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9299921",
+  "SysEndTime": "2022-12-15T20:32:14.9299921",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb4"
+  },
+  "SalesOrderVehicleDetailId": 311,
+  "SalesOrderVehicleId": 288,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 349,
+  "SalePrice": 39500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 39500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9340663",
+  "SysEndTime": "2022-12-15T20:32:14.9340663",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb5"
+  },
+  "SalesOrderVehicleDetailId": 312,
+  "SalesOrderVehicleId": 289,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 350,
+  "SalePrice": 61550,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 61550,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9340663",
+  "SysEndTime": "2022-12-15T20:32:14.9340663",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb6"
+  },
+  "SalesOrderVehicleDetailId": 313,
+  "SalesOrderVehicleId": 290,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 351,
+  "SalePrice": 55000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 55000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9340663",
+  "SysEndTime": "2022-12-15T20:32:14.9340663",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb7"
+  },
+  "SalesOrderVehicleDetailId": 314,
+  "SalesOrderVehicleId": 291,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 352,
+  "SalePrice": 99500,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 98250,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9340663",
+  "SysEndTime": "2022-12-15T20:32:14.9340663",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb8"
+  },
+  "SalesOrderVehicleDetailId": 315,
+  "SalesOrderVehicleId": 292,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 353,
+  "SalePrice": 56800,
+  "LineItemDiscount": 750,
+  "DiscountedSalePrice": 56050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9381540",
+  "SysEndTime": "2022-12-15T20:32:14.9381540",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eb9"
+  },
+  "SalesOrderVehicleDetailId": 316,
+  "SalesOrderVehicleId": 293,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 354,
+  "SalePrice": 89500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 89500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9381540",
+  "SysEndTime": "2022-12-15T20:32:14.9381540",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eba"
+  },
+  "SalesOrderVehicleDetailId": 317,
+  "SalesOrderVehicleId": 294,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 355,
+  "SalePrice": 72500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 72500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9381540",
+  "SysEndTime": "2022-12-15T20:32:14.9381540",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ebb"
+  },
+  "SalesOrderVehicleDetailId": 318,
+  "SalesOrderVehicleId": 295,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 356,
+  "SalePrice": 56950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9381540",
+  "SysEndTime": "2022-12-15T20:32:14.9381540",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ebc"
+  },
+  "SalesOrderVehicleDetailId": 319,
+  "SalesOrderVehicleId": 296,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 357,
+  "SalePrice": 62500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 62500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9381540",
+  "SysEndTime": "2022-12-15T20:32:14.9381540",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ebd"
+  },
+  "SalesOrderVehicleDetailId": 320,
+  "SalesOrderVehicleId": 297,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 358,
+  "SalePrice": 56890,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56890,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9422485",
+  "SysEndTime": "2022-12-15T20:32:14.9422485",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ebe"
+  },
+  "SalesOrderVehicleDetailId": 321,
+  "SalesOrderVehicleId": 298,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 359,
+  "SalePrice": 33600,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 33600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9422485",
+  "SysEndTime": "2022-12-15T20:32:14.9422485",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ebf"
+  },
+  "SalesOrderVehicleDetailId": 322,
+  "SalesOrderVehicleId": 299,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 360,
+  "SalePrice": 30500,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 28050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9422485",
+  "SysEndTime": "2022-12-15T20:32:14.9422485",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec0"
+  },
+  "SalesOrderVehicleDetailId": 323,
+  "SalesOrderVehicleId": 300,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 361,
+  "SalePrice": 25000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 25000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9422485",
+  "SysEndTime": "2022-12-15T20:32:14.9422485",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec1"
+  },
+  "SalesOrderVehicleDetailId": 324,
+  "SalesOrderVehicleId": 300,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 362,
+  "SalePrice": 25500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 25500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9463295",
+  "SysEndTime": "2022-12-15T20:32:14.9463295",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec2"
+  },
+  "SalesOrderVehicleDetailId": 325,
+  "SalesOrderVehicleId": 301,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 363,
+  "SalePrice": 39500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 39500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9463295",
+  "SysEndTime": "2022-12-15T20:32:14.9463295",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec3"
+  },
+  "SalesOrderVehicleDetailId": 326,
+  "SalesOrderVehicleId": 302,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 364,
+  "SalePrice": 12500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 12500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9463295",
+  "SysEndTime": "2022-12-15T20:32:14.9463295",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec4"
+  },
+  "SalesOrderVehicleDetailId": 327,
+  "SalesOrderVehicleId": 303,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 365,
+  "SalePrice": 1150,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": -350,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9463295",
+  "SysEndTime": "2022-12-15T20:32:14.9463295",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec5"
+  },
+  "SalesOrderVehicleDetailId": 328,
+  "SalesOrderVehicleId": 303,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 366,
+  "SalePrice": 1950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 1950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9504073",
+  "SysEndTime": "2022-12-15T20:32:14.9504073",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec6"
+  },
+  "SalesOrderVehicleDetailId": 329,
+  "SalesOrderVehicleId": 303,
+  "LineItemNumber": 3,
+  "ManufacturerVehicleId": 367,
+  "SalePrice": 2500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 2500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9544971",
+  "SysEndTime": "2022-12-15T20:32:14.9544971",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec7"
+  },
+  "SalesOrderVehicleDetailId": 330,
+  "SalesOrderVehicleId": 304,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 368,
+  "SalePrice": 69500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 69500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9544971",
+  "SysEndTime": "2022-12-15T20:32:14.9544971",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec8"
+  },
+  "SalesOrderVehicleDetailId": 331,
+  "SalesOrderVehicleId": 305,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 369,
+  "SalePrice": 45000,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 45000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9585735",
+  "SysEndTime": "2022-12-15T20:32:14.9585735",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ec9"
+  },
+  "SalesOrderVehicleDetailId": 332,
+  "SalesOrderVehicleId": 306,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 370,
+  "SalePrice": 56990,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 56990,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9585735",
+  "SysEndTime": "2022-12-15T20:32:14.9585735",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eca"
+  },
+  "SalesOrderVehicleDetailId": 333,
+  "SalesOrderVehicleId": 307,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 374,
+  "SalePrice": 86500,
+  "LineItemDiscount": 2450,
+  "DiscountedSalePrice": 84050,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9585735",
+  "SysEndTime": "2022-12-15T20:32:14.9585735",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ecb"
+  },
+  "SalesOrderVehicleDetailId": 334,
+  "SalesOrderVehicleId": 308,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 375,
+  "SalePrice": 17850,
+  "LineItemDiscount": 1250,
+  "DiscountedSalePrice": 16600,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9585735",
+  "SysEndTime": "2022-12-15T20:32:14.9585735",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ecc"
+  },
+  "SalesOrderVehicleDetailId": 335,
+  "SalesOrderVehicleId": 309,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 376,
+  "SalePrice": 25950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 25950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9626580",
+  "SysEndTime": "2022-12-15T20:32:14.9626580",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ecd"
+  },
+  "SalesOrderVehicleDetailId": 336,
+  "SalesOrderVehicleId": 310,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 377,
+  "SalePrice": 29500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 29500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9626580",
+  "SysEndTime": "2022-12-15T20:32:14.9626580",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ece"
+  },
+  "SalesOrderVehicleDetailId": 337,
+  "SalesOrderVehicleId": 311,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 378,
+  "SalePrice": 59000,
+  "LineItemDiscount": 4500,
+  "DiscountedSalePrice": 54500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9626580",
+  "SysEndTime": "2022-12-15T20:32:14.9626580",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ecf"
+  },
+  "SalesOrderVehicleDetailId": 338,
+  "SalesOrderVehicleId": 312,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 380,
+  "SalePrice": 9500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 9500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9626580",
+  "SysEndTime": "2022-12-15T20:32:14.9626580",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed0"
+  },
+  "SalesOrderVehicleDetailId": 339,
+  "SalesOrderVehicleId": 313,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 382,
+  "SalePrice": 8900,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 8900,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9667378",
+  "SysEndTime": "2022-12-15T20:32:14.9667378",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed1"
+  },
+  "SalesOrderVehicleDetailId": 340,
+  "SalesOrderVehicleId": 314,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 383,
+  "SalePrice": 11590,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 11590,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9667378",
+  "SysEndTime": "2022-12-15T20:32:14.9667378",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed2"
+  },
+  "SalesOrderVehicleDetailId": 341,
+  "SalesOrderVehicleId": 315,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 384,
+  "SalePrice": 8500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 8500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9667378",
+  "SysEndTime": "2022-12-15T20:32:14.9667378",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed3"
+  },
+  "SalesOrderVehicleDetailId": 342,
+  "SalesOrderVehicleId": 316,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 385,
+  "SalePrice": 59500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 59500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9667378",
+  "SysEndTime": "2022-12-15T20:32:14.9667378",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed4"
+  },
+  "SalesOrderVehicleDetailId": 343,
+  "SalesOrderVehicleId": 317,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 386,
+  "SalePrice": 123500,
+  "LineItemDiscount": 3500,
+  "DiscountedSalePrice": 120000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9708181",
+  "SysEndTime": "2022-12-15T20:32:14.9708181",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed5"
+  },
+  "SalesOrderVehicleDetailId": 344,
+  "SalesOrderVehicleId": 318,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 387,
+  "SalePrice": 99500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 99500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9708181",
+  "SysEndTime": "2022-12-15T20:32:14.9708181",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed6"
+  },
+  "SalesOrderVehicleDetailId": 345,
+  "SalesOrderVehicleId": 319,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 388,
+  "SalePrice": 54500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 54500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9708181",
+  "SysEndTime": "2022-12-15T20:32:14.9708181",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed7"
+  },
+  "SalesOrderVehicleDetailId": 346,
+  "SalesOrderVehicleId": 319,
+  "LineItemNumber": 2,
+  "ManufacturerVehicleId": 389,
+  "SalePrice": 1590,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 1590,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9708181",
+  "SysEndTime": "2022-12-15T20:32:14.9708181",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed8"
+  },
+  "SalesOrderVehicleDetailId": 347,
+  "SalesOrderVehicleId": 320,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 390,
+  "SalePrice": 11500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 11500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9708181",
+  "SysEndTime": "2022-12-15T20:32:14.9708181",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0ed9"
+  },
+  "SalesOrderVehicleDetailId": 348,
+  "SalesOrderVehicleId": 321,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 391,
+  "SalePrice": 17950,
+  "LineItemDiscount": 1500,
+  "DiscountedSalePrice": 16450,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9749158",
+  "SysEndTime": "2022-12-15T20:32:14.9749158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0eda"
+  },
+  "SalesOrderVehicleDetailId": 349,
+  "SalesOrderVehicleId": 322,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 392,
+  "SalePrice": 5500,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 5500,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9749158",
+  "SysEndTime": "2022-12-15T20:32:14.9749158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0edb"
+  },
+  "SalesOrderVehicleDetailId": 350,
+  "SalesOrderVehicleId": 323,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 393,
+  "SalePrice": 950,
+  "LineItemDiscount": 0,
+  "DiscountedSalePrice": 950,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9749158",
+  "SysEndTime": "2022-12-15T20:32:14.9749158",
+  "UserAuthenticatedKey": null
+},{
+  "_id": {
+    "$oid": "639bbf9d05bbe8780faf0edc"
+  },
+  "SalesOrderVehicleDetailId": 351,
+  "SalesOrderVehicleId": 324,
+  "LineItemNumber": 1,
+  "ManufacturerVehicleId": 394,
+  "SalePrice": 145000,
+  "LineItemDiscount": 5000,
+  "DiscountedSalePrice": 140000,
+  "Note": null,
+  "SysStartTime": "2022-12-15T20:32:14.9749158",
+  "SysEndTime": "2022-12-15T20:32:14.9749158",
+  "UserAuthenticatedKey": null
+}]

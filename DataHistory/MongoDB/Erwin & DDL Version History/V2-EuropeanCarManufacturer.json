@@ -1,0 +1,211 @@
+db.dropUser("dbo");
+db.createUser(
+{
+	 "user": "dbo",
+	 "pwd": "",
+	 "roles": []
+});
+
+db.dropUser("guest");
+db.createUser(
+{
+	 "user": "guest",
+	 "pwd": "",
+	 "roles": []
+});
+
+db.dropUser("INFORMATION_SCHEMA");
+db.createUser(
+{
+	 "user": "INFORMATION_SCHEMA",
+	 "pwd": "",
+	 "roles": []
+});
+
+db.dropUser("sys");
+db.createUser(
+{
+	 "user": "sys",
+	 "pwd": "",
+	 "roles": []
+});
+
+
+db.Country.dropIndex("XAK1Country");
+db.Country.drop();
+db.createCollection("Country");
+db.Country.insertOne(
+{
+     "CountryId": NumberInt(),
+     "CountryName": "primis ",
+     "CountryISO2": "at ",
+     "CountryISO3": "sem ",
+     "SalesRegion": "malesuada Proin ",
+     "Note": "condimentum nisi ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date(),
+     "UserAuthenticatedKey": NumberInt()
+});
+db.Country.createIndex({"CountryName":1,"CountryISO2":1,"CountryISO3":1},{ unique : true, "name" : "XAK1Country" });
+
+db.Customer.dropIndex("XAK1Customer");
+db.Customer.dropIndex("XIE1Customer");
+db.Customer.drop();
+db.createCollection("Customer");
+db.Customer.insertOne(
+{
+     "CustomerId": NumberInt(),
+     "CustomerName": "sit urna ",
+     "CustomerAddress1": "enim felis ",
+     "CustomerAddress2": "et eget ",
+     "CustomerPostalCode": "dui ",
+     "CustomerTown": "mauris ",
+     "CountryId": NumberInt(),
+     "Note": "Aliquam augue ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date(),
+     "UserAuthenticatedKey": NumberInt()
+});
+db.Customer.createIndex({"CustomerName":1,"CustomerAddress1":1,"CustomerAddress2":1},{ unique : true, "name" : "XAK1Customer" });
+db.Customer.createIndex({"CustomerName":1},{ "name" : "XIE1Customer" });
+
+db.ManufacturerVehicleModel.dropIndex("XAK1ManufacturerVehicleModel");
+db.ManufacturerVehicleModel.drop();
+db.createCollection("ManufacturerVehicleModel");
+db.ManufacturerVehicleModel.insertOne(
+{
+     "ManufacturerVehicleModelId": NumberInt(),
+     "ManufacturerVehicleMakeId": NumberInt(),
+     "ModelName": "volutpat ",
+     "ModelVariant": "hendrerit ",
+     "ModelYear": "vel Aliquam ornare ",
+     "Note": "lobortis ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date(),
+     "UserAuthenticatedKey": NumberInt()
+});
+db.ManufacturerVehicleModel.createIndex({"ModelName":1,"ModelVariant":1,"ModelYear":1},{ unique : true, "name" : "XAK1ManufacturerVehicleModel" });
+
+db.ManufacturerVehicleMake.dropIndex("XAK1ManufacturerVehicleMake");
+db.ManufacturerVehicleMake.drop();
+db.createCollection("ManufacturerVehicleMake");
+db.ManufacturerVehicleMake.insertOne(
+{
+     "ManufacturerVehicleMakeId": NumberInt(),
+     "ManufacturerVehicleMakeName": "ornare ",
+     "CountryId": NumberInt(),
+     "MarketingType": "vestibulum massa et ",
+     "Note": "vitae scelerisque at ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date(),
+     "UserAuthenticatedKey": NumberInt()
+});
+db.ManufacturerVehicleMake.createIndex({"ManufacturerVehicleMakeName":1},{ unique : true, "name" : "XAK1ManufacturerVehicleMake" });
+
+db.ManufacturerVehicleStock.dropIndex("XAK1ManufacturerVehicleStock");
+db.ManufacturerVehicleStock.drop();
+db.createCollection("ManufacturerVehicleStock");
+db.ManufacturerVehicleStock.insertOne(
+{
+     "ManufacturerVehicleStockId": NumberInt(),
+     "VehicleStockCode": "amet ",
+     "IsAvailable": true,
+     "ManufacturerVehicleModelId": NumberInt(),
+     "IsPremiumRoadHandlingPackage": "nibh sed ",
+     "VehicleColor": "in ultrices ",
+     "VehicleCost": NumberInt(),
+     "VehicleRepairsCharge": NumberInt(),
+     "VehiclePartsCharge": NumberInt(),
+     "VehicleDeliveryCharge": NumberInt(),
+     "CustomerComment": "sem ",
+     "Note": "at et ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date(),
+     "UserAuthenticatedKey": NumberInt()
+});
+db.ManufacturerVehicleStock.createIndex({"VehicleStockCode":1},{ unique : true, "name" : "XAK1ManufacturerVehicleStock" });
+
+db.SalesOrderVehicle.dropIndex("XAK1SalesOrderVehicle");
+db.SalesOrderVehicle.drop();
+db.createCollection("SalesOrderVehicle");
+db.SalesOrderVehicle.insertOne(
+{
+     "VehicleOrderId": NumberInt(),
+     "CustomerId": NumberInt(),
+     "StaffId": NumberInt(),
+     "InvoiceNumber": "nisi ",
+     "SaleOrderDate": new Timestamp(),
+     "TotalSalePrice": NumberInt(),
+     "TotalCost": NumberInt(),
+     "SalesCategoryDescription": "ex risus ",
+     "Note": "cubilia habitasse ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date(),
+     "UserAuthenticatedKey": NumberInt()
+});
+db.SalesOrderVehicle.createIndex({"InvoiceNumber":1},{ unique : true, "name" : "XAK1SalesOrderVehicle" });
+
+db.SalesOrderVehicleDetail.drop();
+db.createCollection("SalesOrderVehicleDetail");
+db.SalesOrderVehicleDetail.insertOne(
+{
+     "SalesOrderDetailId": NumberInt(),
+     "VehicleOrderId": NumberInt(),
+     "LineItemNumber": NumberInt(),
+     "ManufacturerVehicleId": NumberInt(),
+     "SalePrice": NumberInt(),
+     "LineItemDiscount": NumberInt(),
+     "DiscountedSalePrice": NumberInt(),
+     "Note": "vulputate est sit ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date(),
+     "UserAuthenticatedKey": NumberInt()
+});
+
+db.Staff.dropIndex("XIE1Staff");
+db.Staff.drop();
+db.createCollection("Staff");
+db.Staff.insertOne(
+{
+     "StaffId": NumberInt(),
+     "ManagerId": NumberInt(),
+     "StaffName": "pretium ex ",
+     "DepartmentName": "scelerisque ",
+     "Note": "at at egestas ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date(),
+     "UserAuthenticatedKey": NumberInt()
+});
+db.Staff.createIndex({"StaffName":1},{ "name" : "XIE1Staff" });
+
+db.CustomerMarketingInformation.dropIndex("XIE1CustomerMarketingInformation");
+db.CustomerMarketingInformation.drop();
+db.createCollection("CustomerMarketingInformation");
+db.CustomerMarketingInformation.insertOne(
+{
+     "CustomerMarketingId": NumberInt(),
+     "IsCustomerReseller": "est eget eget ",
+     "IsCustomerCreditRisk": "Pellentesque sit ",
+     "CustomerSpendCapacity": "consectetur non Pellentesque ",
+     "Note": "scelerisque quis ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date(),
+     "UserAuthenticatedKey": NumberInt()
+});
+db.CustomerMarketingInformation.createIndex({"CustomerSpendCapacity":1},{ "name" : "XIE1CustomerMarketingInformation" });
+
+db.UserAuthorization.dropIndex("XAK1UserAuthorization");
+db.UserAuthorization.drop();
+db.createCollection("UserAuthorization");
+db.UserAuthorization.insertOne(
+{
+     "UserAuthenticatedKey": NumberInt(),
+     "ClassTime": "urna ",
+     "IndividualProject": "Aenean Duis vel ",
+     "GroupMemberLastName": "risus volutpat amet ",
+     "GroupMemberFirstName": "Etiam ",
+     "GroupName": "Nullam lacinia viverra ",
+     "SysStartTime": new Date(),
+     "SysEndTime": new Date()
+});
+db.UserAuthorization.createIndex({"ClassTime":1,"GroupName":1},{ unique : true, "name" : "XAK1UserAuthorization" });

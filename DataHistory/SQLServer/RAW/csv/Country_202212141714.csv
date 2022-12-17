@@ -1,0 +1,11 @@
+"CountryId","CountryISO3","CountryName","CountryISO2","SalesRegion"
+1,BEL,Belgium,BE        ,EMEA
+2,CHF,Switzerland,CH        ,EMEA
+3,CHN,China,CN        ,Asia
+4,DEU,Germany,DE        ,EMEA
+5,ESP,Spain,ES        ,EMEA
+6,FRA,France,FR        ,EMEA
+7,GBR,United Kingdom,GB        ,EMEA
+8,IND,India,IN        ,Asia
+9,ITA,Italy,IT        ,EMEA
+10,USA,United States,US        ,North America
